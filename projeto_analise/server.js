@@ -5,6 +5,8 @@ const path = require('path');
 const app = express();
 const port = 3000;
 
+app.use(cors());
+
 // Função para ler arquivos JSON de forma recursiva e segura
 function readJsonFiles(dir, allData = []) {
     const files = fs.readdirSync(dir);
