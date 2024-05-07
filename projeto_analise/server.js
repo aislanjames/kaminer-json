@@ -27,7 +27,7 @@ function readJsonFiles(dir, allData = []) {
 }
 
 // Definir o caminho do diretório a partir do qual leremos os arquivos JSON
-const directoryPath = '/home/aislan/Área de Trabalho/Aislan/Trabalho/FapeRJ/output/output';
+const directoryPath = '/';
 const allData = readJsonFiles(directoryPath);
 
 // Endpoint para fornecer dados (podemos usar isso depois para o chartSetup.js)
