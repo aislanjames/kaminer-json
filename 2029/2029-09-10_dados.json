@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CETRILAN",
+        "Processo": "25351.106814/2004-30",
+        "Nome da Empresa - CNPJ": "THERASKIN FARMACEUTICA LTDA. - 61.517.397/0001-88",
+        "Número do Registro": "237080002",
+        "Situação": "ATIVO",
+        "Vencimento": "10/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351106814200430/?dataInicial=2029-09-10&dataFinal=2029-09-10",
+        "Nome da Empresa": "THERASKIN FARMACEUTICA LTDA.",
+        "Número do CNPJ da Empresa": "61.517.397/0001-88",
+        "Categoria": "SABONETE INFANTIL - GRAU 2",
+        "Publicação do Registro": "10/09/2004",
+        "Vencimento do Registro": "10/09/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GEL PÉ GEL REFRESCANTE PARA OS PÉS E PERNAS FRANCISCO ALVES",
+        "Processo": "25351.147969/2004-26",
+        "Nome da Empresa - CNPJ": "PHARMATURA INDÚSTRIA DE COSMÉTICOS LTDA - ME. - 00.248.776/0001-25",
+        "Número do Registro": "221900072",
+        "Situação": "ATIVO",
+        "Vencimento": "10/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351147969200426/?dataInicial=2029-09-10&dataFinal=2029-09-10",
+        "Nome da Empresa": "PHARMATURA INDÚSTRIA DE COSMÉTICOS LTDA - ME.",
+        "Número do CNPJ da Empresa": "00.248.776/0001-25",
+        "Categoria": "LOÇÃO PARA OS PÉS COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "10/09/2004",
+        "Vencimento do Registro": "10/09/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "DEGESAN SABONETE ANTI SÉPTICO",
+        "Processo": "25351.018372/2006-37",
+        "Nome da Empresa - CNPJ": "EXTRATO FLORA INDÚSTRIA E COMÉRCIO DE CORRELATOS, COSMÉTICOS, EPIS E SANEANTES LTDA - ME - 02.039.120/0001-28",
+        "Número do Registro": "226900023",
+        "Situação": "ATIVO",
+        "Vencimento": "30/01/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351018372200637/?dataInicial=2026-01-30&dataFinal=2026-01-30",
+        "Nome da Empresa": "EXTRATO FLORA INDÚSTRIA E COMÉRCIO DE CORRELATOS, COSMÉTICOS, EPIS E SANEANTES LTDA - ME",
+        "Número do CNPJ da Empresa": "02.039.120/0001-28",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "30/01/2006",
+        "Vencimento do Registro": "30/01/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SABONETE ANTISSÉPTICO GRANADO FRESH",
+        "Processo": "25351.265658/2005-29",
+        "Nome da Empresa - CNPJ": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A - 33.109.356/0001-17",
+        "Número do Registro": "201160200",
+        "Situação": "ATIVO",
+        "Vencimento": "30/01/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351265658200529/?dataInicial=2026-01-30&dataFinal=2026-01-30",
+        "Nome da Empresa": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A",
+        "Número do CNPJ da Empresa": "33.109.356/0001-17",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "30/01/2006",
+        "Vencimento do Registro": "30/01/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SABONETE ANTISSÉPTICO GRANADO SPORT",
+        "Processo": "25351.267900/2005-07",
+        "Nome da Empresa - CNPJ": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A - 33.109.356/0001-17",
+        "Número do Registro": "201160199",
+        "Situação": "ATIVO",
+        "Vencimento": "30/01/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351267900200507/?dataInicial=2026-01-30&dataFinal=2026-01-30",
+        "Nome da Empresa": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A",
+        "Número do CNPJ da Empresa": "33.109.356/0001-17",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "30/01/2006",
+        "Vencimento do Registro": "30/01/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

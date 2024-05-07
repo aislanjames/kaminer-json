@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "ATTIVI DROGADERMA SABONETE ANTIACNE",
+        "Processo": "25351.013028/2006-51",
+        "Nome da Empresa - CNPJ": "L.E.D. LABORATÓRIO DE EVOLUÇÃO DERMATOLÓGICA LTDA. - 65.066.797/0001-75",
+        "Número do Registro": "215540120",
+        "Situação": "ATIVO",
+        "Vencimento": "06/02/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351013028200651/?dataInicial=2026-02-06&dataFinal=2026-02-06",
+        "Nome da Empresa": "L.E.D. LABORATÓRIO DE EVOLUÇÃO DERMATOLÓGICA LTDA.",
+        "Número do CNPJ da Empresa": "65.066.797/0001-75",
+        "Categoria": "OUTROS PRODUTOS NÃO PREVISTOS - GRAU II",
+        "Publicação do Registro": "06/02/2006",
+        "Vencimento do Registro": "06/02/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME TONIFICANTE Q10 PARA USO NOTURNO MAHI NATIVA",
+        "Processo": "25351.000028/2006-91",
+        "Nome da Empresa - CNPJ": "NATIVA BIOCOSMETICOS INDUSTRIA E COMERCIO LTDA - 00.562.911/0001-02",
+        "Número do Registro": "225270132",
+        "Situação": "ATIVO",
+        "Vencimento": "06/02/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351000028200691/?dataInicial=2026-02-06&dataFinal=2026-02-06",
+        "Nome da Empresa": "NATIVA BIOCOSMETICOS INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "00.562.911/0001-02",
+        "Categoria": "CREME PARA O ROSTO SEM AÇÃO FOTOPROTETORA DA PELE E COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "06/02/2006",
+        "Vencimento do Registro": "06/02/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

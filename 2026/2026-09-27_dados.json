@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS 15 RED APPLE",
+        "Processo": "25351.026569/0128",
+        "Nome da Empresa - CNPJ": "COSINTER INTERNACIONAL IND E COM COSMETICOS LTDA - 85.080.836/0001-04",
+        "Número do Registro": "216760071",
+        "Situação": "ATIVO",
+        "Vencimento": "27/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510265690128/?dataInicial=2026-09-27&dataFinal=2026-09-27",
+        "Nome da Empresa": "COSINTER INTERNACIONAL INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "85.080.836/0001-04",
+        "Categoria": "PROTETOR SOLAR",
+        "Publicação do Registro": "27/09/2001",
+        "Vencimento do Registro": "27/09/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS 30 KIDS RED APPLE",
+        "Processo": "25351.026582/0196",
+        "Nome da Empresa - CNPJ": "COSINTER INTERNACIONAL IND E COM COSMETICOS LTDA - 85.080.836/0001-04",
+        "Número do Registro": "216760069",
+        "Situação": "ATIVO",
+        "Vencimento": "27/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510265820196/?dataInicial=2026-09-27&dataFinal=2026-09-27",
+        "Nome da Empresa": "COSINTER INTERNACIONAL INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "85.080.836/0001-04",
+        "Categoria": "PROTETOR SOLAR INFANTIL",
+        "Publicação do Registro": "27/09/2001",
+        "Vencimento do Registro": "27/09/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

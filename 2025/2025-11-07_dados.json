@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "SENSODYNE COOL GEL EXTRA FRESH MINT",
+        "Processo": "25351.379967/2005-85",
+        "Nome da Empresa - CNPJ": "GLAXOSMITHKLINE BRASIL LTDA - 33.247.743/0001-10",
+        "Número do Registro": "200080214",
+        "Situação": "INATIVO",
+        "Vencimento": "07/11/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351379967200585/?dataInicial=2025-11-07&dataFinal=2025-11-07",
+        "Nome da Empresa": "GLAXOSMITHKLINE BRASIL LTDA",
+        "Número do CNPJ da Empresa": "33.247.743/0001-10",
+        "Categoria": "DENTIFRÍCIO COM INDICAÇÃO PARA DENTES SENSÍVEIS (LÍQUIDO, GEL, CREME, SÓLIDO)",
+        "Publicação do Registro": "07/11/2005",
+        "Vencimento do Registro": "07/11/2025",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "SHISEIDO MEN EYE SOOTHER",
+        "Processo": "25351.369838/2005-89",
+        "Nome da Empresa - CNPJ": "SHISEIDO DO BRASIL LTDA. - 03.973.238/0001-91",
+        "Número do Registro": "231140115",
+        "Situação": "ATIVO",
+        "Vencimento": "07/11/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351369838200589/?dataInicial=2025-11-07&dataFinal=2025-11-07",
+        "Nome da Empresa": "SHISEIDO DO BRASIL LTDA.",
+        "Número do CNPJ da Empresa": "03.973.238/0001-91",
+        "Categoria": "GEL PARA ÁREA DOS OLHOS EXCETO OS DE MAQUIAGEM E/OU AÇÃO HIDRATANTE E/OU DEMAQUILANTE",
+        "Publicação do Registro": "07/11/2005",
+        "Vencimento do Registro": "07/11/2025",
+        "Situação do Produto": "ATIVO"
+    }
+]

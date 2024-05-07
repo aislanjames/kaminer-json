@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "ANTHELIOS AIRLICIUM FPS 30",
+        "Processo": "25351.746331/2013-47",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200704125",
+        "Situação": "ATIVO",
+        "Vencimento": "04/03/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351746331201347/?dataInicial=2029-03-04&dataFinal=2029-03-04",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "24/02/2014",
+        "Vencimento do Registro": "04/03/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "EUCERIN PROTEÇÃO SOLAR HYDRO FLUID FPS 60",
+        "Processo": "25351.363757/2022-76",
+        "Nome da Empresa - CNPJ": "BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA - 01.786.983/0001-04",
+        "Número do Registro": "227210775",
+        "Situação": "ATIVO",
+        "Vencimento": "04/03/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351363757202276/?dataInicial=2029-03-04&dataFinal=2029-03-04",
+        "Nome da Empresa": "BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA",
+        "Número do CNPJ da Empresa": "01.786.983/0001-04",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "20/03/2023",
+        "Vencimento do Registro": "04/03/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS 30 LE COSMETIQUE",
+        "Processo": "25351.406195/2023-43",
+        "Nome da Empresa - CNPJ": "LE COSMETIQUE INDUSTRIA E COMERCIO DE COSMETICOS E PERFUMARIA LTDA - 00.630.511/0001-97",
+        "Número do Registro": "232130034",
+        "Situação": "ATIVO",
+        "Vencimento": "04/03/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351406195202343/?dataInicial=2029-03-04&dataFinal=2029-03-04",
+        "Nome da Empresa": "LE COSMETIQUE INDUSTRIA E COMERCIO DE COSMETICOS E PERFUMARIA LTDA",
+        "Número do CNPJ da Empresa": "00.630.511/0001-97",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "05/02/2024",
+        "Vencimento do Registro": "04/03/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

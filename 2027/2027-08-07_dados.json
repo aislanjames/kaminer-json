@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "BIOVERGETURES GEL CREME PREVENTION ET REDUCTION VERGETURES BIOTHERM",
+        "Processo": "25351.162578/2002-70",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200702127",
+        "Situação": "ATIVO",
+        "Vencimento": "07/08/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351162578200270/?dataInicial=2027-08-07&dataFinal=2027-08-07",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "CREME PARA CELULITE / ESTRIAS (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "07/08/2002",
+        "Vencimento do Registro": "07/08/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LIGHTCELL GEL CORPORAL PARA MASSAGEM OLIGOFLORA",
+        "Processo": "25351.168365/2002-51",
+        "Nome da Empresa - CNPJ": "MAGISTRIS DO BRASIL LABORATÓRIO DERMOCOSMÉTICO LTDA - EPP - 03.758.957/0001-90",
+        "Número do Registro": "231050020",
+        "Situação": "ATIVO",
+        "Vencimento": "07/08/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351168365200251/?dataInicial=2027-08-07&dataFinal=2027-08-07",
+        "Nome da Empresa": "MAGISTRIS DO BRASIL LABORATÓRIO DERMOCOSMÉTICO LTDA - EPP",
+        "Número do CNPJ da Empresa": "03.758.957/0001-90",
+        "Categoria": "CREME PARA O CORPO COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "07/08/2002",
+        "Vencimento do Registro": "07/08/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "MEU BEBÊ SHAMPOO ALTA COSMÉTICA",
+        "Processo": "25351.774508/2008-30",
+        "Nome da Empresa - CNPJ": "ALTA COSMÉTICA INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA - ME - 04.267.338/0001-65",
+        "Número do Registro": "231750028",
+        "Situação": "INATIVO",
+        "Vencimento": "07/08/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351774508200830/?dataInicial=2027-08-07&dataFinal=2027-08-07",
+        "Nome da Empresa": "ALTA COSMÉTICA INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA - ME",
+        "Número do CNPJ da Empresa": "04.267.338/0001-65",
+        "Categoria": "XAMPU INFANTIL",
+        "Publicação do Registro": "02/02/2009",
+        "Vencimento do Registro": "07/08/2027",
+        "Situação do Produto": "INATIVO"
+    }
+]

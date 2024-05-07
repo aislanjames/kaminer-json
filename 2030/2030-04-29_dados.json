@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "GEL HIGIENIZANTE ANTISSÉPTICO TERRA BRASILIS",
+        "Processo": "25351.218740/2020-01",
+        "Nome da Empresa - CNPJ": "TERRA BRASILIS SABONETES E COSMÉTICOS LTDA - 07.467.266/0001-98",
+        "Número do Registro": "244170020",
+        "Situação": "ATIVO",
+        "Vencimento": "29/04/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351218740202001/?dataInicial=2030-04-29&dataFinal=2030-04-29",
+        "Nome da Empresa": "TERRA BRASILIS SABONETES E COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "07.467.266/0001-98",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "29/04/2020",
+        "Vencimento do Registro": "29/04/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "NATURA ERVA DOCE ÁLCOOL GEL HIGIENIZADOR PARA MÃOS",
+        "Processo": "25351.210809/2020-41",
+        "Nome da Empresa - CNPJ": "INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA - 00.190.373/0001-72",
+        "Número do Registro": "205671543",
+        "Situação": "ATIVO",
+        "Vencimento": "29/04/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351210809202041/?dataInicial=2030-04-29&dataFinal=2030-04-29",
+        "Nome da Empresa": "INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA",
+        "Número do CNPJ da Empresa": "00.190.373/0001-72",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "29/04/2020",
+        "Vencimento do Registro": "29/04/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

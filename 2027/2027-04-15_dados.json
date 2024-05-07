@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "DESODORANTE ANTITRANSPIRANTE ROLL ON SUAVE FRAGRANCE",
+        "Processo": "25351.003435/0283",
+        "Nome da Empresa - CNPJ": "SUAVE FRAGRANCE INDUSTRIA E COMERCIO DE COSMETICOS LTDA - 26.874.644/0001-00",
+        "Número do Registro": "229660021",
+        "Situação": "ATIVO",
+        "Vencimento": "15/04/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510034350283/?dataInicial=2027-04-15&dataFinal=2027-04-15",
+        "Nome da Empresa": "SUAVE FRAGRANCE INDUSTRIA E COMERCIO DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "26.874.644/0001-00",
+        "Categoria": "DESODORANTE ANTITRANSPIRANTE / ANTIPERSPIRANTE AXILAR (PERFUMADOS OU NÃO, SOB A FORMA DE LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "15/04/2002",
+        "Vencimento do Registro": "15/04/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "KINERASE LOCAO",
+        "Processo": "25351.001473/0200",
+        "Nome da Empresa - CNPJ": "VALEANT FARMACÊUTICA DO BRASIL LTDA - 61.186.136/0001-22",
+        "Número do Registro": "232820001",
+        "Situação": "INATIVO",
+        "Vencimento": "15/04/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510014730200/?dataInicial=2027-04-15&dataFinal=2027-04-15",
+        "Nome da Empresa": "VALEANT FARMACÊUTICA DO BRASIL LTDA",
+        "Número do CNPJ da Empresa": "61.186.136/0001-22",
+        "Categoria": "LOÇÃO PARA RUGAS (ALCOÓLICAS OU NAO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "15/04/2002",
+        "Vencimento do Registro": "15/04/2027",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "OX 2000",
+        "Processo": "25351.004828/0151",
+        "Nome da Empresa - CNPJ": "MAGISTRIS DO BRASIL LABORATÓRIO DERMOCOSMÉTICO LTDA - EPP - 03.758.957/0001-90",
+        "Número do Registro": "231050014",
+        "Situação": "ATIVO",
+        "Vencimento": "15/04/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510048280151/?dataInicial=2027-04-15&dataFinal=2027-04-15",
+        "Nome da Empresa": "MAGISTRIS DO BRASIL LABORATÓRIO DERMOCOSMÉTICO LTDA - EPP",
+        "Número do CNPJ da Empresa": "03.758.957/0001-90",
+        "Categoria": "CLAREADOR PARA PÊLOS DO CORPO (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "15/04/2002",
+        "Vencimento do Registro": "15/04/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

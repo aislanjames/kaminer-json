@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "DEPI ROLL CREME DEPILATÓRIO BUÇO SENSITIVE SKIN",
+        "Processo": "25351.192416/2007-71",
+        "Nome da Empresa - CNPJ": "PROVIDER INDÚSTRIA E COMÉRCIO S/A - 02.138.483/0001-10",
+        "Número do Registro": "231340155",
+        "Situação": "INATIVO",
+        "Vencimento": "16/07/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351192416200771/?dataInicial=2027-07-16&dataFinal=2027-07-16",
+        "Nome da Empresa": "PROVIDER INDÚSTRIA E COMÉRCIO S/A",
+        "Número do CNPJ da Empresa": "02.138.483/0001-10",
+        "Categoria": "DEPILATÓRIO/EPILATÓRIO QUÍMICO (CERA, CREME, LÍQUIDO)",
+        "Publicação do Registro": "16/07/2007",
+        "Vencimento do Registro": "16/07/2027",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "OILATUM JUNIOR SABONETE",
+        "Processo": "25351.163924/2002-37",
+        "Nome da Empresa - CNPJ": "LABORATÓRIOS STIEFEL LTDA - 63.064.653/0001-54",
+        "Número do Registro": "201900062",
+        "Situação": "INATIVO",
+        "Vencimento": "16/07/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351163924200237/?dataInicial=2027-07-16&dataFinal=2027-07-16",
+        "Nome da Empresa": "LABORATÓRIOS STIEFEL LTDA",
+        "Número do CNPJ da Empresa": "63.064.653/0001-54",
+        "Categoria": "SABONETE INFANTIL - GRAU 2",
+        "Publicação do Registro": "05/07/2002",
+        "Vencimento do Registro": "16/07/2027",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "THERACNE GEL ESFOLIANTE",
+        "Processo": "25351.178314/2007-42",
+        "Nome da Empresa - CNPJ": "THERASKIN FARMACEUTICA LTDA. - 61.517.397/0001-88",
+        "Número do Registro": "237080008",
+        "Situação": "ATIVO",
+        "Vencimento": "16/07/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351178314200742/?dataInicial=2027-07-16&dataFinal=2027-07-16",
+        "Nome da Empresa": "THERASKIN FARMACEUTICA LTDA.",
+        "Número do CNPJ da Empresa": "61.517.397/0001-88",
+        "Categoria": "OUTROS PRODUTOS NÃO PREVISTOS - GRAU II",
+        "Publicação do Registro": "16/07/2007",
+        "Vencimento do Registro": "16/07/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

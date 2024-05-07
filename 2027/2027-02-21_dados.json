@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "C2000 GEL FACIAL PROF NR",
+        "Processo": "25351.001525/0201",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270032",
+        "Situação": "ATIVO",
+        "Vencimento": "21/02/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510015250201/?dataInicial=2027-02-21&dataFinal=2027-02-21",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "CREME PARA O ROSTO SEM AÇÃO FOTOPROTETORA DA PELE E COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "21/02/2002",
+        "Vencimento do Registro": "21/02/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME HIDRATANTE FPS 30 PROF NR",
+        "Processo": "25351.001553/0239",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270039",
+        "Situação": "ATIVO",
+        "Vencimento": "21/02/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510015530239/?dataInicial=2027-02-21&dataFinal=2027-02-21",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "CREME OU LOÇÃO PARA O ROSTO COM FOTOPROTETOR DA PELE E/ou COM OUTRAS FINALIDADES ALÉM DA HIDRATAÇÃO (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "21/02/2002",
+        "Vencimento do Registro": "21/02/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME HIDRATANTE LABIAL PROF NR COM FPS 15",
+        "Processo": "25351.001523/0278",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270033",
+        "Situação": "ATIVO",
+        "Vencimento": "21/02/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510015230278/?dataInicial=2027-02-21&dataFinal=2027-02-21",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "PROTETOR LABIAL COM AÇÃO FOTOPROTETORA (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "21/02/2002",
+        "Vencimento do Registro": "21/02/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LOCAO CREMOSA HIDRATANTE CORPORAL PROF NR COM UREIA E FPS 15",
+        "Processo": "25351.001522/0213",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270041",
+        "Situação": "ATIVO",
+        "Vencimento": "21/02/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510015220213/?dataInicial=2027-02-21&dataFinal=2027-02-21",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "LOÇÃO PARA O CORPO COM AÇÃO FOTOPROTETORA DA PELE OU COM OUTRA AÇÃO ALÉM DE HIDRATAÇÃO E REFRESCÂNCIA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "21/02/2002",
+        "Vencimento do Registro": "21/02/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

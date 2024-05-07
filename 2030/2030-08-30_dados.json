@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "DE DOL LAPIS ADSTRINGENTE",
+        "Processo": "25351.002188/0017",
+        "Nome da Empresa - CNPJ": "Ernesto M Rapozo & Cia Ltda - 29.502.705/0001-99",
+        "Número do Registro": "203560012",
+        "Situação": "ATIVO",
+        "Vencimento": "30/08/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510021880017/?dataInicial=2030-08-30&dataFinal=2030-08-30",
+        "Nome da Empresa": "Ernesto M Rapozo & Cia Ltda",
+        "Número do CNPJ da Empresa": "29.502.705/0001-99",
+        "Categoria": "OUTROS PRODUTOS NÃO PREVISTOS - GRAU II",
+        "Publicação do Registro": "30/08/2000",
+        "Vencimento do Registro": "30/08/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "MAC STUDIO FIX FLUID SPF 15",
+        "Processo": "25351.467303/2010-94",
+        "Nome da Empresa - CNPJ": "ELCA COSMÉTICOS LTDA - 01.175.381/0001-02",
+        "Número do Registro": "224680747",
+        "Situação": "ATIVO",
+        "Vencimento": "30/08/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351467303201094/?dataInicial=2030-08-30&dataFinal=2030-08-30",
+        "Nome da Empresa": "ELCA COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "01.175.381/0001-02",
+        "Categoria": "BASE LÍQUIDA FACIAL OU CORPORAL COM FINALIDADE FOTOPROTETORA",
+        "Publicação do Registro": "30/08/2010",
+        "Vencimento do Registro": "30/08/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PHOTOAGE ANTIOX FPS 60 DERMAGE",
+        "Processo": "25351.403116/2010-25",
+        "Nome da Empresa - CNPJ": "CCD COSM CIENTIFICA DERM COMERCIO E INDUSTRIA LTDA - 40.367.856/0001-14",
+        "Número do Registro": "217170201",
+        "Situação": "ATIVO",
+        "Vencimento": "30/08/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351403116201025/?dataInicial=2030-08-30&dataFinal=2030-08-30",
+        "Nome da Empresa": "CCD COSMETICA CIENTIFICA DERMATOL COM E INDUSTRIA LTDA",
+        "Número do CNPJ da Empresa": "40.367.856/0001-14",
+        "Categoria": "PROTETOR SOLAR",
+        "Publicação do Registro": "26/07/2010",
+        "Vencimento do Registro": "30/08/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

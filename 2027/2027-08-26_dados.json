@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "LOÇÃO PARA O ROSTO REBILD ADSTRINGENTE",
+        "Processo": "25351.186179/2002-02",
+        "Nome da Empresa - CNPJ": "VAINCRE IND. COM. IMP. EXP. LTDA. - 60.874.864/0001-64",
+        "Número do Registro": "225440009",
+        "Situação": "ATIVO",
+        "Vencimento": "26/08/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351186179200202/?dataInicial=2027-08-26&dataFinal=2027-08-26",
+        "Nome da Empresa": "VAINCRE IND. COM. IMP. EXP. LTDA.",
+        "Número do CNPJ da Empresa": "60.874.864/0001-64",
+        "Categoria": "LOÇÃO PARA PELE ACNÉICA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "26/08/2002",
+        "Vencimento do Registro": "26/08/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "REBILD BLOCK FPS 30 BLOQUEADOR SOLAR",
+        "Processo": "25351.186177/2002-13",
+        "Nome da Empresa - CNPJ": "VAINCRE IND. COM. IMP. EXP. LTDA. - 60.874.864/0001-64",
+        "Número do Registro": "225440008",
+        "Situação": "ATIVO",
+        "Vencimento": "26/08/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351186177200213/?dataInicial=2027-08-26&dataFinal=2027-08-26",
+        "Nome da Empresa": "VAINCRE IND. COM. IMP. EXP. LTDA.",
+        "Número do CNPJ da Empresa": "60.874.864/0001-64",
+        "Categoria": "BLOQUEADOR SOLAR/ANTI SOLAR (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "26/08/2002",
+        "Vencimento do Registro": "26/08/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

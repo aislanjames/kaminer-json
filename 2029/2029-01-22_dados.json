@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "SOAPEX SABONETE",
+        "Processo": "25000.034110/9800",
+        "Nome da Empresa - CNPJ": "GALDERMA BRASIL LTDA - 00.317.372/0001-46",
+        "Número do Registro": "222620040",
+        "Situação": "ATIVO",
+        "Vencimento": "22/01/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000341109800/?dataInicial=2029-01-22&dataFinal=2029-01-22",
+        "Nome da Empresa": "GALDERMA BRASIL LTDA",
+        "Número do CNPJ da Empresa": "00.317.372/0001-46",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "22/01/1999",
+        "Vencimento do Registro": "22/01/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SOAPEX SABONETE CREMOSO",
+        "Processo": "25000.034109/9812",
+        "Nome da Empresa - CNPJ": "GALDERMA BRASIL LTDA - 00.317.372/0001-46",
+        "Número do Registro": "222620039",
+        "Situação": "ATIVO",
+        "Vencimento": "22/01/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000341099812/?dataInicial=2029-01-22&dataFinal=2029-01-22",
+        "Nome da Empresa": "GALDERMA BRASIL LTDA",
+        "Número do CNPJ da Empresa": "00.317.372/0001-46",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "22/01/1999",
+        "Vencimento do Registro": "22/01/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

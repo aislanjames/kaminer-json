@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "CAMOMILA INTEA LOCION CABELLO RUBIO NATURAL",
+        "Processo": "25351.207816/2008-79",
+        "Nome da Empresa - CNPJ": "AURI BRASIL IMPORTAÇÃO E EXPORTAÇÃO LTDA - 08.243.311/0001-93",
+        "Número do Registro": "244860001",
+        "Situação": "ATIVO",
+        "Vencimento": "02/06/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351207816200879/?dataInicial=2028-06-02&dataFinal=2028-06-02",
+        "Nome da Empresa": "AURI BRASIL IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+        "Número do CNPJ da Empresa": "08.243.311/0001-93",
+        "Categoria": "DESCOLORANTE PARA CABELOS (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "02/06/2008",
+        "Vencimento do Registro": "02/06/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GEL ANTI-SÉPTICO PLEASANT ALL SEPT",
+        "Processo": "25351.082487/2008-47",
+        "Nome da Empresa - CNPJ": "PEROL COMERCIAL E INDUSTRIAL LTDA - ME - 01.320.978/0001-01",
+        "Número do Registro": "241260002",
+        "Situação": "INATIVO",
+        "Vencimento": "02/06/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351082487200847/?dataInicial=2028-06-02&dataFinal=2028-06-02",
+        "Nome da Empresa": "PEROL COMERCIAL E INDUSTRIAL LTDA - ME",
+        "Número do CNPJ da Empresa": "01.320.978/0001-01",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "02/06/2008",
+        "Vencimento do Registro": "02/06/2028",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "HIDRATANTE GEL VITAMINADO FPS 8 PROF NR",
+        "Processo": "25351.647341/2007-79",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270096",
+        "Situação": "ATIVO",
+        "Vencimento": "02/06/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351647341200779/?dataInicial=2028-06-02&dataFinal=2028-06-02",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "CREME OU LOÇÃO PARA O ROSTO COM FOTOPROTETOR DA PELE E/ou COM OUTRAS FINALIDADES ALÉM DA HIDRATAÇÃO (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "02/06/2008",
+        "Vencimento do Registro": "02/06/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

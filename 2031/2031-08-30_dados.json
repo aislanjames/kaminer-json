@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "EPISOL INTENSE BRUMA FPS 50",
+        "Processo": "25351.284646/2021-13",
+        "Nome da Empresa - CNPJ": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - 61.082.426/0002-07",
+        "Número do Registro": "200030878",
+        "Situação": "ATIVO",
+        "Vencimento": "30/08/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351284646202113/?dataInicial=2031-08-30&dataFinal=2031-08-30",
+        "Nome da Empresa": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+        "Número do CNPJ da Empresa": "61.082.426/0002-07",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "30/08/2021",
+        "Vencimento do Registro": "30/08/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "Gel antisséptico higienizante para as mãos Yelsew",
+        "Processo": "25351.895123/2021-05",
+        "Nome da Empresa - CNPJ": "SUL BR INDUSTRIA COMERCIO IMPORTACAO E EXPORTACAO DE COSMETICOS LTDA - 32.998.509/0001-61",
+        "Número do Registro": "413880001",
+        "Situação": "ATIVO",
+        "Vencimento": "30/08/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351895123202105/?dataInicial=2031-08-30&dataFinal=2031-08-30",
+        "Nome da Empresa": "SUL BR INDUSTRIA COMERCIO IMPORTACAO E EXPORTACAO DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "32.998.509/0001-61",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "30/08/2021",
+        "Vencimento do Registro": "30/08/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

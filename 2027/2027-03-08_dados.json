@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "GUANIDRAN SISTEMA DE RELAXAMENTO E AMACIAMENTO A BASE DE GUANIDINA ATIVADOR HIRAN LINE COSMETICOS",
+        "Processo": "25351.003743/0245",
+        "Nome da Empresa - CNPJ": "SAYLUJ INDUSTRIA E COMERCIO LTDA - 03.488.597/0001-53",
+        "Número do Registro": "230900012",
+        "Situação": "INATIVO",
+        "Vencimento": "08/03/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510037430245/?dataInicial=2027-03-08&dataFinal=2027-03-08",
+        "Nome da Empresa": "SAYLUJ INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "03.488.597/0001-53",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "08/03/2002",
+        "Vencimento do Registro": "08/03/2027",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "HIDRACOLLOR REVELADOR DA COR 30 VOLUMES HIDRAN LINE COSMETICOS",
+        "Processo": "25351.003744/0216",
+        "Nome da Empresa - CNPJ": "SAYLUJ INDUSTRIA E COMERCIO LTDA - 03.488.597/0001-53",
+        "Número do Registro": "230900010",
+        "Situação": "ATIVO",
+        "Vencimento": "08/03/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510037440216/?dataInicial=2027-03-08&dataFinal=2027-03-08",
+        "Nome da Empresa": "SAYLUJ INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "03.488.597/0001-53",
+        "Categoria": "CLAREADOR PARA CABELOS (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "08/03/2002",
+        "Vencimento do Registro": "08/03/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

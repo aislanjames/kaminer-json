@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "CREME RELAXANTE HIDRÓXIDO DE CÁLCIO LISOS PERFEITOS EIGHT ELEGANCE",
+        "Processo": "25351.504166/2020-01",
+        "Nome da Empresa - CNPJ": "T.C.I INDÚSTRIA COSMÉTICA LTDA-EPP - 07.239.476/0001-29",
+        "Número do Registro": "240760290",
+        "Situação": "ATIVO",
+        "Vencimento": "16/11/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351504166202001/?dataInicial=2030-11-16&dataFinal=2030-11-16",
+        "Nome da Empresa": "T.C.I INDÚSTRIA COSMÉTICA LTDA-EPP",
+        "Número do CNPJ da Empresa": "07.239.476/0001-29",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "16/11/2020",
+        "Vencimento do Registro": "16/11/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTEX PRÓPOLIS",
+        "Processo": "25351.598438/2010-40",
+        "Nome da Empresa - CNPJ": "COLGATE PALMOLIVE INDUSTRIAL LTDA - 03.816.532/0001-90",
+        "Número do Registro": "249700229",
+        "Situação": "ATIVO",
+        "Vencimento": "16/11/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351598438201040/?dataInicial=2030-11-16&dataFinal=2030-11-16",
+        "Nome da Empresa": "COLGATE PALMOLIVE INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "03.816.532/0001-90",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "16/11/2010",
+        "Vencimento do Registro": "16/11/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "Protetor Solar Nº 21 FPS 30 Alta Proteção-FP UVA",
+        "Processo": "25351.671448/2020-13",
+        "Nome da Empresa - CNPJ": "BASTON INDÚSTRIA DE AEROSSOIS LTDA - 05.855.974/0001-70",
+        "Número do Registro": "257170083",
+        "Situação": "ATIVO",
+        "Vencimento": "16/11/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351671448202013/?dataInicial=2030-11-16&dataFinal=2030-11-16",
+        "Nome da Empresa": "BASTON INDÚSTRIA DE AEROSSOIS LTDA",
+        "Número do CNPJ da Empresa": "05.855.974/0001-70",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "16/11/2020",
+        "Vencimento do Registro": "16/11/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁLCOOL EM GEL 70ºINPM ANTISSÉPTICO SMELL",
+        "Processo": "25351.645658/2020-48",
+        "Nome da Empresa - CNPJ": "SMELL IT INDÚSTRIA E COMÉRCIO LTDA - 07.397.758/0001-54",
+        "Número do Registro": "250090003",
+        "Situação": "ATIVO",
+        "Vencimento": "16/11/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351645658202048/?dataInicial=2030-11-16&dataFinal=2030-11-16",
+        "Nome da Empresa": "SMELL IT INDÚSTRIA E COMÉRCIO LTDA",
+        "Número do CNPJ da Empresa": "07.397.758/0001-54",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "16/11/2020",
+        "Vencimento do Registro": "16/11/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

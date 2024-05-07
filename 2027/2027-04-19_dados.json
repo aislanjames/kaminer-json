@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "CREME DESODORANTE ALMA DE FLORES",
+        "Processo": "25351.007060/0294",
+        "Nome da Empresa - CNPJ": "MEMPHIS S/A INDUSTRIAL - 92.697.010/0001-46",
+        "Número do Registro": "201800104",
+        "Situação": "ATIVO",
+        "Vencimento": "19/04/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510070600294/?dataInicial=2027-04-19&dataFinal=2027-04-19",
+        "Nome da Empresa": "MEMPHIS S/A INDUSTRIAL",
+        "Número do CNPJ da Empresa": "92.697.010/0001-46",
+        "Categoria": "DESODORANTE ANTITRANSPIRANTE / ANTIPERSPIRANTE AXILAR (PERFUMADOS OU NÃO, SOB A FORMA DE LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "19/04/2002",
+        "Vencimento do Registro": "19/04/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PO DESCOLORANTE ACAO RAPIDA ILUMINATA ARTISTIC COLOR ATIV LINE",
+        "Processo": "25351.007267/0222",
+        "Nome da Empresa - CNPJ": "PROLAB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 64.988.678/0001-07",
+        "Número do Registro": "232410011",
+        "Situação": "ATIVO",
+        "Vencimento": "19/04/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510072670222/?dataInicial=2027-04-19&dataFinal=2027-04-19",
+        "Nome da Empresa": "PROLAB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "64.988.678/0001-07",
+        "Categoria": "DESCOLORANTE PARA CABELOS (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "19/04/2002",
+        "Vencimento do Registro": "19/04/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SHAMPOO ANTI CASPA 1.9.0 HAIR SYSTEM",
+        "Processo": "25351.007940/0298",
+        "Nome da Empresa - CNPJ": "NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA - 48.561.369/0001-08",
+        "Número do Registro": "206640451",
+        "Situação": "ATIVO",
+        "Vencimento": "19/04/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510079400298/?dataInicial=2027-04-19&dataFinal=2027-04-19",
+        "Nome da Empresa": "NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA",
+        "Número do CNPJ da Empresa": "48.561.369/0001-08",
+        "Categoria": "XAMPU ANTICASPA / ANTIQUEDA E/OU OUTROS BENEFÍCIOS ESPECÍFICOS QUE JUSTIFIQUEM A COMPROVAÇÃO PRÉVIA (LÍQUIDO, GEL, CREME, PÓ OU SÓLIDO)",
+        "Publicação do Registro": "19/04/2002",
+        "Vencimento do Registro": "19/04/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SUNMAX ACQUAGEL FPS 20",
+        "Processo": "25351.007984/0263",
+        "Nome da Empresa - CNPJ": "LABORATÓRIOS STIEFEL LTDA - 63.064.653/0001-54",
+        "Número do Registro": "201900060",
+        "Situação": "INATIVO",
+        "Vencimento": "19/04/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510079840263/?dataInicial=2027-04-19&dataFinal=2027-04-19",
+        "Nome da Empresa": "LABORATÓRIOS STIEFEL LTDA",
+        "Número do CNPJ da Empresa": "63.064.653/0001-54",
+        "Categoria": "BLOQUEADOR SOLAR/ANTI SOLAR (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "19/04/2002",
+        "Vencimento do Registro": "19/04/2027",
+        "Situação do Produto": "INATIVO"
+    }
+]

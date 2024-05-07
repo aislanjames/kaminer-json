@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "GEL ANTI SEPTICO PARA AS MAOS ULTRALAB HAND GEL",
+        "Processo": "25351.024756/0102",
+        "Nome da Empresa - CNPJ": "LARKIN BRASIL LTDA ME - 04.075.605/0001-00",
+        "Número do Registro": "232010001",
+        "Situação": "INATIVO",
+        "Vencimento": "05/11/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510247560102/?dataInicial=2026-11-05&dataFinal=2026-11-05",
+        "Nome da Empresa": "LARKIN BRASIL LTDA ME",
+        "Número do CNPJ da Empresa": "04.075.605/0001-00",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "05/11/2001",
+        "Vencimento do Registro": "05/11/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR LABIAL LABY LARANJA FPS 15",
+        "Processo": "25351.030756/0189",
+        "Nome da Empresa - CNPJ": "BRAVIR INDUSTRIAL LTDA - 18.688.481/0001-35",
+        "Número do Registro": "206420014",
+        "Situação": "INATIVO",
+        "Vencimento": "05/11/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510307560189/?dataInicial=2026-11-05&dataFinal=2026-11-05",
+        "Nome da Empresa": "BRAVIR INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "18.688.481/0001-35",
+        "Categoria": "PROTETOR LABIAL COM AÇÃO FOTOPROTETORA (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "05/11/2001",
+        "Vencimento do Registro": "05/11/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR LABIAL LABY MENTA FPS 15",
+        "Processo": "25351.030757/0141",
+        "Nome da Empresa - CNPJ": "BRAVIR INDUSTRIAL LTDA - 18.688.481/0001-35",
+        "Número do Registro": "206420013",
+        "Situação": "ATIVO",
+        "Vencimento": "05/11/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510307570141/?dataInicial=2026-11-05&dataFinal=2026-11-05",
+        "Nome da Empresa": "BRAVIR INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "18.688.481/0001-35",
+        "Categoria": "PROTETOR LABIAL COM AÇÃO FOTOPROTETORA (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "05/11/2001",
+        "Vencimento do Registro": "05/11/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

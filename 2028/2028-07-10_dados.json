@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CREME MINÂNCORA ACTION",
+        "Processo": "25351.028879/2003-56",
+        "Nome da Empresa - CNPJ": "MINÂNCORA & CIA LTDA - 84.683.382/0001-95",
+        "Número do Registro": "204510014",
+        "Situação": "ATIVO",
+        "Vencimento": "10/07/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351028879200356/?dataInicial=2028-07-10&dataFinal=2028-07-10",
+        "Nome da Empresa": "MINÂNCORA & CIA LTDA",
+        "Número do CNPJ da Empresa": "84.683.382/0001-95",
+        "Categoria": "CREME PARA PELE ACNÉICA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "10/07/2003",
+        "Vencimento do Registro": "10/07/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "MINÂNCORA ACTION",
+        "Processo": "25351.028877/2003-67",
+        "Nome da Empresa - CNPJ": "MINÂNCORA & CIA LTDA - 84.683.382/0001-95",
+        "Número do Registro": "204510015",
+        "Situação": "ATIVO",
+        "Vencimento": "10/07/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351028877200367/?dataInicial=2028-07-10&dataFinal=2028-07-10",
+        "Nome da Empresa": "MINÂNCORA & CIA LTDA",
+        "Número do CNPJ da Empresa": "84.683.382/0001-95",
+        "Categoria": "CREME PARA PELE ACNÉICA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "10/07/2003",
+        "Vencimento do Registro": "10/07/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

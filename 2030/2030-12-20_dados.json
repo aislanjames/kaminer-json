@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CLINIQUE CLARIFYING LOTION 2",
+        "Processo": "25351.678729/2010-83",
+        "Nome da Empresa - CNPJ": "ELCA COSMÉTICOS LTDA - 01.175.381/0001-02",
+        "Número do Registro": "224680780",
+        "Situação": "ATIVO",
+        "Vencimento": "20/12/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351678729201083/?dataInicial=2030-12-20&dataFinal=2030-12-20",
+        "Nome da Empresa": "ELCA COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "01.175.381/0001-02",
+        "Categoria": "ESFOLIANTE QUÍMICO",
+        "Publicação do Registro": "20/12/2010",
+        "Vencimento do Registro": "20/12/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CLINIQUE CLARIFYING LOTION 4",
+        "Processo": "25351.678728/2010-54",
+        "Nome da Empresa - CNPJ": "ELCA COSMÉTICOS LTDA - 01.175.381/0001-02",
+        "Número do Registro": "224680779",
+        "Situação": "ATIVO",
+        "Vencimento": "20/12/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351678728201054/?dataInicial=2030-12-20&dataFinal=2030-12-20",
+        "Nome da Empresa": "ELCA COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "01.175.381/0001-02",
+        "Categoria": "ESFOLIANTE QUÍMICO",
+        "Publicação do Registro": "20/12/2010",
+        "Vencimento do Registro": "20/12/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

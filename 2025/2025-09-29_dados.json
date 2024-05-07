@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "LOCAO CAPILAR ANTIKEDAPIL MISS ANNE",
+        "Processo": "25000.002471/9446",
+        "Nome da Empresa - CNPJ": "ANABER COSMETICOS INDUSTRIA E COMERCIO LTDA - 58.354.747/0001-28",
+        "Número do Registro": "217520010",
+        "Situação": "ATIVO",
+        "Vencimento": "29/09/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000024719446/?dataInicial=2025-09-29&dataFinal=2025-09-29",
+        "Nome da Empresa": "ANABER COSMÉTICOS INDÚSTRIA E COMÉRCIO LTDA",
+        "Número do CNPJ da Empresa": "58.354.747/0001-28",
+        "Categoria": "LOÇÃO CAPILAR (LÍQUIDA, EMULSIONADA OU NÃO)",
+        "Publicação do Registro": "29/09/1995",
+        "Vencimento do Registro": "29/09/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "OFF! SPRAY JOHNSON",
+        "Processo": "25000.003863/9512",
+        "Nome da Empresa - CNPJ": "CERAS JOHNSON - 33.122.466/0007-04",
+        "Número do Registro": "201920011",
+        "Situação": "ATIVO",
+        "Vencimento": "29/09/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000038639512/?dataInicial=2025-09-29&dataFinal=2025-09-29",
+        "Nome da Empresa": "CERAS JOHNSON",
+        "Número do CNPJ da Empresa": "33.122.466/0007-04",
+        "Categoria": "REPELENTE DE INSETOS",
+        "Publicação do Registro": "29/09/1995",
+        "Vencimento do Registro": "29/09/2025",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "LA ROCHE-POSAY ANTHELIOS AIRLICIUM + FPS 80 COR 4.0",
+        "Processo": "25351.842872/2023-93",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200704415",
+        "Situação": "ATIVO",
+        "Vencimento": "11/03/2034",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351842872202393/?dataInicial=2034-03-11&dataFinal=2034-03-11",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "11/03/2024",
+        "Vencimento do Registro": "11/03/2034",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁLCOOL GEL ANTISSÉPTICO PARA AS MÃOS CAMOMILA BIOKLABIN",
+        "Processo": "25351.717829/2023-91",
+        "Nome da Empresa - CNPJ": "Klabin Fitoprodutos Ltda - 19.013.389/0001-38",
+        "Número do Registro": "446870001",
+        "Situação": "ATIVO",
+        "Vencimento": "11/03/2034",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351717829202391/?dataInicial=2034-03-11&dataFinal=2034-03-11",
+        "Nome da Empresa": "Klabin Fitoprodutos Ltda",
+        "Número do CNPJ da Empresa": "19.013.389/0001-38",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "11/03/2024",
+        "Vencimento do Registro": "11/03/2034",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "L'OREAL PROFESSIONEL OXIDANTE CREME 40 VOLUMES",
+        "Processo": "25351.002297/0214",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200702013",
+        "Situação": "ATIVO",
+        "Vencimento": "11/03/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510022970214/?dataInicial=2027-03-11&dataFinal=2027-03-11",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "11/03/2002",
+        "Vencimento do Registro": "11/03/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "POSTAC GEL FPS 15 PROF NR",
+        "Processo": "25351.001530/0233",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270044",
+        "Situação": "ATIVO",
+        "Vencimento": "11/03/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510015300233/?dataInicial=2027-03-11&dataFinal=2027-03-11",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "CREME PARA PELE ACNÉICA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "11/03/2002",
+        "Vencimento do Registro": "11/03/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

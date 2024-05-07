@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "ADCOS DERMA COMPLEX RETINOL FACIAL",
+        "Processo": "25351.361589/2010-36",
+        "Nome da Empresa - CNPJ": "AVLFM INDUSTRIA DE COSMETICOS LTDA - 39.299.870/0001-49",
+        "Número do Registro": "220280248",
+        "Situação": "ATIVO",
+        "Vencimento": "12/07/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351361589201036/?dataInicial=2030-07-12&dataFinal=2030-07-12",
+        "Nome da Empresa": "AVLFM INDUSTRIA DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "39.299.870/0001-49",
+        "Categoria": "CREME PARA RUGAS (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "12/07/2010",
+        "Vencimento do Registro": "12/07/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CLINIQUE REPAIRWEAR LASER FOCUS WRINKLE",
+        "Processo": "25351.362223/2010-34",
+        "Nome da Empresa - CNPJ": "ELCA COSMÉTICOS LTDA - 01.175.381/0001-02",
+        "Número do Registro": "224680741",
+        "Situação": "ATIVO",
+        "Vencimento": "12/07/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351362223201034/?dataInicial=2030-07-12&dataFinal=2030-07-12",
+        "Nome da Empresa": "ELCA COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "01.175.381/0001-02",
+        "Categoria": "LOÇÃO PARA RUGAS (ALCOÓLICAS OU NAO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "12/07/2010",
+        "Vencimento do Registro": "12/07/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "FLUÍDO ATIVO VITAMINA C - NENA GUGEL",
+        "Processo": "25351.360787/2010-06",
+        "Nome da Empresa - CNPJ": "CASA SIENA FRAGRÂNCIAS LTDA - EPP - 00.008.460/0001-66",
+        "Número do Registro": "227000346",
+        "Situação": "ATIVO",
+        "Vencimento": "12/07/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351360787201006/?dataInicial=2030-07-12&dataFinal=2030-07-12",
+        "Nome da Empresa": "CASA SIENA FRAGRÂNCIAS LTDA - EPP",
+        "Número do CNPJ da Empresa": "00.008.460/0001-66",
+        "Categoria": "CREME OU LOÇÃO PARA O ROSTO COM FOTOPROTETOR DA PELE E/ou COM OUTRAS FINALIDADES ALÉM DA HIDRATAÇÃO (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "12/07/2010",
+        "Vencimento do Registro": "12/07/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

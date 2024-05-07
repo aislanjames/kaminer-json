@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "COLONIA CHEIRINHO DE BEBE BLUE",
+        "Processo": "25351.019599/0179",
+        "Nome da Empresa - CNPJ": "KANITZ 1900 COSMÉTICOS LTDA - 29.017.852/0001-73",
+        "Número do Registro": "208750171",
+        "Situação": "ATIVO",
+        "Vencimento": "09/08/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510195990179/?dataInicial=2026-08-09&dataFinal=2026-08-09",
+        "Nome da Empresa": "KANITZ 1900 COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "29.017.852/0001-73",
+        "Categoria": "ÁGUA DE COLÔNIA INFANTIL - GRAU 2",
+        "Publicação do Registro": "09/08/2001",
+        "Vencimento do Registro": "09/08/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CONDICIONADOR SUAVE CHEIRINHO DE BEBE BLUE KANITZ",
+        "Processo": "25351.019596/0181",
+        "Nome da Empresa - CNPJ": "KANITZ 1900 COSMÉTICOS LTDA - 29.017.852/0001-73",
+        "Número do Registro": "208750169",
+        "Situação": "ATIVO",
+        "Vencimento": "09/08/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510195960181/?dataInicial=2026-08-09&dataFinal=2026-08-09",
+        "Nome da Empresa": "KANITZ 1900 COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "29.017.852/0001-73",
+        "Categoria": "CONDICIONADOR INFANTIL COM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "09/08/2001",
+        "Vencimento do Registro": "09/08/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS 50 MED SUN",
+        "Processo": "25351.417175/2009-19",
+        "Nome da Empresa - CNPJ": "EMPRESA DE TESTE LTDA. (VS01) - 11.111.111/0001-91",
+        "Número do Registro": "214850190",
+        "Situação": "ATIVO",
+        "Vencimento": "09/08/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351417175200919/?dataInicial=2026-08-09&dataFinal=2026-08-09",
+        "Nome da Empresa": "EMPRESA DE TESTE LTDA. (VS01)",
+        "Número do CNPJ da Empresa": "11.111.111/0001-91",
+        "Categoria": "PROTETOR SOLAR",
+        "Publicação do Registro": "09/08/2021",
+        "Vencimento do Registro": "09/08/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

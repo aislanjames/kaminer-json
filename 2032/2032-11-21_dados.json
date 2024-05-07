@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "CREME RELAXANTE GUANIDINA ALISADINA LOKI",
+        "Processo": "25351.483900/2022-45",
+        "Nome da Empresa - CNPJ": "J K COMÉRCIO E FABRICAÇÃO DE COSMÉTICOS LTDA. - 12.050.693/0001-06",
+        "Número do Registro": "260830006",
+        "Situação": "ATIVO",
+        "Vencimento": "21/11/2032",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351483900202245/?dataInicial=2032-11-21&dataFinal=2032-11-21",
+        "Nome da Empresa": "J K COMÉRCIO E FABRICAÇÃO DE COSMÉTICOS LTDA.",
+        "Número do CNPJ da Empresa": "12.050.693/0001-06",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "21/11/2022",
+        "Vencimento do Registro": "21/11/2032",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GEL ANTISSÉPTICO PREVENTION MARIA GLAMUROSA",
+        "Processo": "25351.762022/2021-41",
+        "Nome da Empresa - CNPJ": "DZYRREE COSMETICOS INDUSTRIA E COMERCIO LTDA - 15.296.161/0001-41",
+        "Número do Registro": "284340001",
+        "Situação": "ATIVO",
+        "Vencimento": "21/11/2032",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351762022202141/?dataInicial=2032-11-21&dataFinal=2032-11-21",
+        "Nome da Empresa": "DZYRREE COSMETICOS INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "15.296.161/0001-41",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "21/11/2022",
+        "Vencimento do Registro": "21/11/2032",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "MEDSUN PROTETOR SOLAR LABIAL FPS 30 COM COR",
+        "Processo": "25351.280632/2022-10",
+        "Nome da Empresa - CNPJ": "BRAVIR INDUSTRIAL LTDA - 18.688.481/0001-35",
+        "Número do Registro": "206420068",
+        "Situação": "ATIVO",
+        "Vencimento": "21/11/2032",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351280632202210/?dataInicial=2032-11-21&dataFinal=2032-11-21",
+        "Nome da Empresa": "BRAVIR INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "18.688.481/0001-35",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "21/11/2022",
+        "Vencimento do Registro": "21/11/2032",
+        "Situação do Produto": "ATIVO"
+    }
+]

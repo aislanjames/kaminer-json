@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "TINTURA BIGEN EM PÓ INTENSO",
+        "Processo": "25351.191330/2008-10",
+        "Nome da Empresa - CNPJ": "ÁKUA INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE COSMÉTICOS LTDA. - 07.295.591/0001-10",
+        "Número do Registro": "241660044",
+        "Situação": "ATIVO",
+        "Vencimento": "26/05/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351191330200810/?dataInicial=2028-05-26&dataFinal=2028-05-26",
+        "Nome da Empresa": "ÁKUA INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE COSMÉTICOS LTDA.",
+        "Número do CNPJ da Empresa": "07.295.591/0001-10",
+        "Categoria": "TINTURA PERMANENTE (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "26/05/2008",
+        "Vencimento do Registro": "26/05/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁGUA OXIGENADA 30 VOLUMES ESPECIAL LBS",
+        "Processo": "25351.103853/2008-17",
+        "Nome da Empresa - CNPJ": "LBS LABORASA INDUSTRIA FARMACEUTICA LTDA - 55.227.789/0001-00",
+        "Número do Registro": "231350018",
+        "Situação": "ATIVO",
+        "Vencimento": "26/05/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351103853200817/?dataInicial=2028-05-26&dataFinal=2028-05-26",
+        "Nome da Empresa": "LBS LABORASA INDUSTRIA FARMACEUTICA LTDA",
+        "Número do CNPJ da Empresa": "55.227.789/0001-00",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "26/05/2008",
+        "Vencimento do Registro": "26/05/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

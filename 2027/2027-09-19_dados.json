@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "BLOSSON KIDS SOFT COLÔNIA INFANTIL SEM ÁLCOOL BLOSSONVILLE",
+        "Processo": "25351.190036/2002-97",
+        "Nome da Empresa - CNPJ": "CHANDAL INDUSTRIA COMERCIO IMPORTAÇÃO E EXPORTAÇÃO DE COSMETICOS LTDA - 54.274.113/0001-04",
+        "Número do Registro": "209090150",
+        "Situação": "INATIVO",
+        "Vencimento": "19/09/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351190036200297/?dataInicial=2027-09-19&dataFinal=2027-09-19",
+        "Nome da Empresa": "CHANDAL INDUSTRIA COMERCIO IMPORTAÇÃO E EXPORTAÇÃO DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "54.274.113/0001-04",
+        "Categoria": "COLÔNIAS INFANTIS (HIDROALCOÓLICAS OU NÃO)",
+        "Publicação do Registro": "19/09/2002",
+        "Vencimento do Registro": "19/09/2027",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "REBILD SHAMPOO ANTI CASPA",
+        "Processo": "25351.186175/2002-16",
+        "Nome da Empresa - CNPJ": "VAINCRE IND. COM. IMP. EXP. LTDA. - 60.874.864/0001-64",
+        "Número do Registro": "225440010",
+        "Situação": "ATIVO",
+        "Vencimento": "19/09/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351186175200216/?dataInicial=2027-09-19&dataFinal=2027-09-19",
+        "Nome da Empresa": "VAINCRE IND. COM. IMP. EXP. LTDA.",
+        "Número do CNPJ da Empresa": "60.874.864/0001-64",
+        "Categoria": "XAMPU ANTICASPA / ANTIQUEDA E/OU OUTROS BENEFÍCIOS ESPECÍFICOS QUE JUSTIFIQUEM A COMPROVAÇÃO PRÉVIA (LÍQUIDO, GEL, CREME, PÓ OU SÓLIDO)",
+        "Publicação do Registro": "19/09/2002",
+        "Vencimento do Registro": "19/09/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "DERMATUS OLIGOPLUS LOÇAO FACIAL",
+        "Processo": "25351.033040/2004-11",
+        "Nome da Empresa - CNPJ": "COSMETICA INDUSTRIAL BRENNER LTDA - 36.075.547/0001-01",
+        "Número do Registro": "214660151",
+        "Situação": "ATIVO",
+        "Vencimento": "29/06/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351033040200411/?dataInicial=2029-06-29&dataFinal=2029-06-29",
+        "Nome da Empresa": "COSMETICA INDUSTRIAL BRENNER LTDA",
+        "Número do CNPJ da Empresa": "36.075.547/0001-01",
+        "Categoria": "LOÇÃO PARA O ROSTO SEM AÇÃO FOTOPROTETORA DA PELE E COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "29/06/2004",
+        "Vencimento do Registro": "29/06/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "DERM´ATTIVE PEDICURE HIDRATANTE",
+        "Processo": "25351.057823/2003-17",
+        "Nome da Empresa - CNPJ": "Sidone Indústria e Comércio Ltda - 01.094.693/0001-91",
+        "Número do Registro": "227020018",
+        "Situação": "ATIVO",
+        "Vencimento": "29/06/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351057823200317/?dataInicial=2029-06-29&dataFinal=2029-06-29",
+        "Nome da Empresa": "Sidone Indústria e Comércio Ltda",
+        "Número do CNPJ da Empresa": "01.094.693/0001-91",
+        "Categoria": "CREME PARA OS PÉS COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "29/06/2004",
+        "Vencimento do Registro": "29/06/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

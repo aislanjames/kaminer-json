@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "GEL ANTISSÉPTICO ALCOÓLICO NEUTRO",
+        "Processo": "25351.222727/2018-24",
+        "Nome da Empresa - CNPJ": "AYA INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 08.067.672/0001-26",
+        "Número do Registro": "251120017",
+        "Situação": "ATIVO",
+        "Vencimento": "21/01/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351222727201824/?dataInicial=2029-01-21&dataFinal=2029-01-21",
+        "Nome da Empresa": "AYA INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "08.067.672/0001-26",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "21/01/2019",
+        "Vencimento do Registro": "21/01/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "NUTRALIFT CORPORAL ADCOS",
+        "Processo": "25351.073162/2003-69",
+        "Nome da Empresa - CNPJ": "AVLFM INDUSTRIA DE COSMETICOS LTDA - 39.299.870/0001-49",
+        "Número do Registro": "220280141",
+        "Situação": "ATIVO",
+        "Vencimento": "21/01/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351073162200369/?dataInicial=2029-01-21&dataFinal=2029-01-21",
+        "Nome da Empresa": "AVLFM INDUSTRIA DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "39.299.870/0001-49",
+        "Categoria": "CREME PARA CELULITE / ESTRIAS (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "21/01/2004",
+        "Vencimento do Registro": "21/01/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS 30 CORPORAL MAXSOL - CRUZEIRO",
+        "Processo": "25351.735325/2018-95",
+        "Nome da Empresa - CNPJ": "Nutriex Indústria de Nutracêuticos Ltda. - 22.966.065/0001-29",
+        "Número do Registro": "291200266",
+        "Situação": "ATIVO",
+        "Vencimento": "21/01/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351735325201895/?dataInicial=2029-01-21&dataFinal=2029-01-21",
+        "Nome da Empresa": "Nutriex Indústria de Nutracêuticos Ltda.",
+        "Número do CNPJ da Empresa": "22.966.065/0001-29",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "21/01/2019",
+        "Vencimento do Registro": "21/01/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS 60 FACIAL TONALIZANTE SOLAR GOLD",
+        "Processo": "25351.732574/2018-29",
+        "Nome da Empresa - CNPJ": "Nutriex Indústria de Nutracêuticos Ltda. - 22.966.065/0001-29",
+        "Número do Registro": "291200265",
+        "Situação": "ATIVO",
+        "Vencimento": "21/01/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351732574201829/?dataInicial=2029-01-21&dataFinal=2029-01-21",
+        "Nome da Empresa": "Nutriex Indústria de Nutracêuticos Ltda.",
+        "Número do CNPJ da Empresa": "22.966.065/0001-29",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "21/01/2019",
+        "Vencimento do Registro": "21/01/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "CREME PARA PENTEAR REDUTOR DE VOLUME TRÁ LÁ LÁ KIDS",
+        "Processo": "25351.415642/2008-16",
+        "Nome da Empresa - CNPJ": "PHISALIA PRODUTOS DE BELEZA LTDA - 46.278.537/0001-19",
+        "Número do Registro": "200430304",
+        "Situação": "ATIVO",
+        "Vencimento": "28/07/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351415642200816/?dataInicial=2028-07-28&dataFinal=2028-07-28",
+        "Nome da Empresa": "PHISALIA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "46.278.537/0001-19",
+        "Categoria": "CONDICIONADOR INFANTIL SEM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "28/07/2008",
+        "Vencimento do Registro": "28/07/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ROC DERMATOLOGIC PURIF AC GEL DE LIMPEZA FACIAL",
+        "Processo": "25351.436161/2008-44",
+        "Nome da Empresa - CNPJ": "JOHNSON & JOHNSON INDUSTRIAL LTDA. - 59.748.988/0001-14",
+        "Número do Registro": "200920922",
+        "Situação": "ATIVO",
+        "Vencimento": "28/07/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351436161200844/?dataInicial=2028-07-28&dataFinal=2028-07-28",
+        "Nome da Empresa": "JOHNSON & JOHNSON INDUSTRIAL LTDA.",
+        "Número do CNPJ da Empresa": "59.748.988/0001-14",
+        "Categoria": "CREME DE LIMPEZA FACIAL PARA PELE ACNÉICA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "28/07/2008",
+        "Vencimento do Registro": "28/07/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "VICHY DEODORANT ANTI TRANSPIRANT 48 H",
+        "Processo": "25351.395428/2008-36",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200703247",
+        "Situação": "ATIVO",
+        "Vencimento": "28/07/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351395428200836/?dataInicial=2028-07-28&dataFinal=2028-07-28",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "ANTITRANSPIRANTE/ANTIPERSPIRANTE AXILAR (PERFUMADO OU NÃO SOB A FORMA DE LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "28/07/2008",
+        "Vencimento do Registro": "28/07/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

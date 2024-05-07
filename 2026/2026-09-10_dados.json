@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "ACQUA KIDS SHAMPOO CABELOS LISOS E FINOS",
+        "Processo": "25351.021244/0186",
+        "Nome da Empresa - CNPJ": "NAZCA COSMETICOS INDUSTRIA E COMERCIO LTDA - 56.851.355/0001-49",
+        "Número do Registro": "211180167",
+        "Situação": "INATIVO",
+        "Vencimento": "10/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510212440186/?dataInicial=2026-09-10&dataFinal=2026-09-10",
+        "Nome da Empresa": "NAZCA COSMETICOS INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "56.851.355/0001-49",
+        "Categoria": "XAMPU INFANTIL",
+        "Publicação do Registro": "10/09/2001",
+        "Vencimento do Registro": "10/09/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "ACQUA KIDS SHAMPOO PRAIA & PISCINA",
+        "Processo": "25351.021251/0141",
+        "Nome da Empresa - CNPJ": "NAZCA COSMETICOS INDUSTRIA E COMERCIO LTDA - 56.851.355/0001-49",
+        "Número do Registro": "211180168",
+        "Situação": "INATIVO",
+        "Vencimento": "10/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510212510141/?dataInicial=2026-09-10&dataFinal=2026-09-10",
+        "Nome da Empresa": "NAZCA COSMETICOS INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "56.851.355/0001-49",
+        "Categoria": "XAMPU INFANTIL",
+        "Publicação do Registro": "10/09/2001",
+        "Vencimento do Registro": "10/09/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "DESODORANTE ANTITRANSPIRANTE CREMOSO FLORES E VEGETAIS",
+        "Processo": "25351.019374/0159",
+        "Nome da Empresa - CNPJ": "INDÚSTRIA E COMÉRCIO DE COSMÉTICOS FLORES & VEGETAIS LTDA. - 00.027.304/0001-42",
+        "Número do Registro": "224880041",
+        "Situação": "ATIVO",
+        "Vencimento": "10/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510193740159/?dataInicial=2026-09-10&dataFinal=2026-09-10",
+        "Nome da Empresa": "INDÚSTRIA E COMÉRCIO DE COSMÉTICOS FLORES & VEGETAIS LTDA.",
+        "Número do CNPJ da Empresa": "00.027.304/0001-42",
+        "Categoria": "DESODORANTE ANTITRANSPIRANTE / ANTIPERSPIRANTE AXILAR (PERFUMADOS OU NÃO, SOB A FORMA DE LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "10/09/2001",
+        "Vencimento do Registro": "10/09/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CETAPHIL SABONETE PARA PELE SECA",
+        "Processo": "25351.090232/2004-24",
+        "Nome da Empresa - CNPJ": "GALDERMA BRASIL LTDA - 00.317.372/0001-46",
+        "Número do Registro": "222620144",
+        "Situação": "ATIVO",
+        "Vencimento": "04/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351090232200424/?dataInicial=2029-10-04&dataFinal=2029-10-04",
+        "Nome da Empresa": "GALDERMA BRASIL LTDA",
+        "Número do CNPJ da Empresa": "00.317.372/0001-46",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL EXCETO OS COM AÇÃO ANTI-SÉPTICA OU ESFOLIANTE QUÍMICO (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "04/10/2004",
+        "Vencimento do Registro": "04/10/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "DOURAPELOS HIDRAN",
+        "Processo": "25351.082824/2004-72",
+        "Nome da Empresa - CNPJ": "SAYLUJ INDUSTRIA E COMERCIO LTDA - 03.488.597/0001-53",
+        "Número do Registro": "230900018",
+        "Situação": "ATIVO",
+        "Vencimento": "04/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351082824200472/?dataInicial=2029-10-04&dataFinal=2029-10-04",
+        "Nome da Empresa": "SAYLUJ INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "03.488.597/0001-53",
+        "Categoria": "CLAREADOR PARA PÊLOS DO CORPO (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "04/10/2004",
+        "Vencimento do Registro": "04/10/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

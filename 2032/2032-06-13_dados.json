@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "FPS 30 ANTIOXIDANTE HIDRATANTE SALLVE",
+        "Processo": "25351.024220/2021-11",
+        "Nome da Empresa - CNPJ": "K&G INDÚSTRIA E COMÉRCIO LTDA - 62.726.310/0001-45",
+        "Número do Registro": "235830122",
+        "Situação": "ATIVO",
+        "Vencimento": "13/06/2032",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351024220202111/?dataInicial=2032-06-13&dataFinal=2032-06-13",
+        "Nome da Empresa": "K&G INDÚSTRIA E COMÉRCIO LTDA",
+        "Número do CNPJ da Empresa": "62.726.310/0001-45",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "13/06/2022",
+        "Vencimento do Registro": "13/06/2032",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR INFANTIL PELE PROTEGIDINHA BIOCLUB",
+        "Processo": "25351.080716/2022-47",
+        "Nome da Empresa - CNPJ": "BASSI INDÚSTRIA DE COSMÉTICOS LTDA. - 22.524.028/0001-60",
+        "Número do Registro": "409680001",
+        "Situação": "ATIVO",
+        "Vencimento": "13/06/2032",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351080716202247/?dataInicial=2032-06-13&dataFinal=2032-06-13",
+        "Nome da Empresa": "BASSI INDÚSTRIA DE COSMÉTICOS LTDA.",
+        "Número do CNPJ da Empresa": "22.524.028/0001-60",
+        "Categoria": "PROTETOR SOLAR INFANTIL - GRAU 2",
+        "Publicação do Registro": "13/06/2022",
+        "Vencimento do Registro": "13/06/2032",
+        "Situação do Produto": "ATIVO"
+    }
+]

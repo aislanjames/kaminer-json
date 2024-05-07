@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "BAIMS - VEGAN & MINERAL SUNSCREEN FPS35",
+        "Processo": "25351.503259/2021-91",
+        "Nome da Empresa - CNPJ": "ALIANZA INDÚSTRIA E COMÉRCIO DE COSMÉETICOS LTDA EPP - 03.982.695/0001-42",
+        "Número do Registro": "231020472",
+        "Situação": "ATIVO",
+        "Vencimento": "08/11/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351503259202191/?dataInicial=2031-11-08&dataFinal=2031-11-08",
+        "Nome da Empresa": "ALIANZA INDÚSTRIA E COMÉRCIO DE COSMÉETICOS LTDA EPP",
+        "Número do CNPJ da Empresa": "03.982.695/0001-42",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "08/11/2021",
+        "Vencimento do Registro": "08/11/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GEL ANTISSÉPTICO RGMS",
+        "Processo": "25351.800944/2021-63",
+        "Nome da Empresa - CNPJ": "TERRA BRASILIS SABONETES E COSMÉTICOS LTDA - 07.467.266/0001-98",
+        "Número do Registro": "244170022",
+        "Situação": "ATIVO",
+        "Vencimento": "08/11/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351800944202163/?dataInicial=2031-11-08&dataFinal=2031-11-08",
+        "Nome da Empresa": "TERRA BRASILIS SABONETES E COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "07.467.266/0001-98",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "08/11/2021",
+        "Vencimento do Registro": "08/11/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS80 FPUVA50 - &CO",
+        "Processo": "25351.875260/2021-15",
+        "Nome da Empresa - CNPJ": "&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP - 17.153.030/0001-30",
+        "Número do Registro": "280880020",
+        "Situação": "ATIVO",
+        "Vencimento": "08/11/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351875260202115/?dataInicial=2031-11-08&dataFinal=2031-11-08",
+        "Nome da Empresa": "&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP",
+        "Número do CNPJ da Empresa": "17.153.030/0001-30",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "08/11/2021",
+        "Vencimento do Registro": "08/11/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

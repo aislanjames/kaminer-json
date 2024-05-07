@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "GEL MASSAGEADOR BON´GEL ARNICA",
+        "Processo": "25351.152861/2004-55",
+        "Nome da Empresa - CNPJ": "PUP LYNE COSMÉTICOS INDÚSTRIA E COMÉRCIO LTDA ME - 01.782.851/0001-04",
+        "Número do Registro": "236920005",
+        "Situação": "ATIVO",
+        "Vencimento": "24/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351152861200455/?dataInicial=2029-09-24&dataFinal=2029-09-24",
+        "Nome da Empresa": "PUP LYNE COSMÉTICOS INDÚSTRIA E COMÉRCIO LTDA ME",
+        "Número do CNPJ da Empresa": "01.782.851/0001-04",
+        "Categoria": "OUTROS PRODUTOS NÃO PREVISTOS - GRAU II",
+        "Publicação do Registro": "24/09/2004",
+        "Vencimento do Registro": "24/09/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "NATURA MAMÃE E BEBÊ SABONETE VEGETAL",
+        "Processo": "25351.138292/2004-35",
+        "Nome da Empresa - CNPJ": "INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA - 00.190.373/0001-72",
+        "Número do Registro": "205670943",
+        "Situação": "ATIVO",
+        "Vencimento": "24/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351138292200435/?dataInicial=2029-09-24&dataFinal=2029-09-24",
+        "Nome da Empresa": "INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA",
+        "Número do CNPJ da Empresa": "00.190.373/0001-72",
+        "Categoria": "SABONETES INFANTIS",
+        "Publicação do Registro": "24/09/2004",
+        "Vencimento do Registro": "24/09/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FACIAL RED APPLE FPS 50",
+        "Processo": "25351.175753/2004-51",
+        "Nome da Empresa - CNPJ": "COSINTER INTERNACIONAL IND E COM COSMETICOS LTDA - 85.080.836/0001-04",
+        "Número do Registro": "216760117",
+        "Situação": "ATIVO",
+        "Vencimento": "24/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351175753200451/?dataInicial=2029-09-24&dataFinal=2029-09-24",
+        "Nome da Empresa": "COSINTER INTERNACIONAL INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "85.080.836/0001-04",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "24/09/2004",
+        "Vencimento do Registro": "24/09/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "CREME PARA O CORPO EFEDERM",
+        "Processo": "25351.004687/0210",
+        "Nome da Empresa - CNPJ": "KLEY HERTZ FARMACEUTICA S.A - 92.695.691/0001-03",
+        "Número do Registro": "202280021",
+        "Situação": "ATIVO",
+        "Vencimento": "25/03/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510046870210/?dataInicial=2027-03-25&dataFinal=2027-03-25",
+        "Nome da Empresa": "KLEY HERTZ FARMACEUTICA S.A",
+        "Número do CNPJ da Empresa": "92.695.691/0001-03",
+        "Categoria": "CREME PARA O CORPO COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "25/03/2002",
+        "Vencimento do Registro": "25/03/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SABONETE ANTI SEPTICO NEUTROGERM",
+        "Processo": "25351.004685/0286",
+        "Nome da Empresa - CNPJ": "KLEY HERTZ FARMACEUTICA S.A - 92.695.691/0001-03",
+        "Número do Registro": "202280023",
+        "Situação": "ATIVO",
+        "Vencimento": "25/03/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510046850286/?dataInicial=2027-03-25&dataFinal=2027-03-25",
+        "Nome da Empresa": "KLEY HERTZ FARMACEUTICA S.A",
+        "Número do CNPJ da Empresa": "92.695.691/0001-03",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "25/03/2002",
+        "Vencimento do Registro": "25/03/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SABONETE LIQUIDO ANTI SEPTICO NEUTROGERM",
+        "Processo": "25351.004686/0249",
+        "Nome da Empresa - CNPJ": "KLEY HERTZ FARMACEUTICA S.A - 92.695.691/0001-03",
+        "Número do Registro": "202280024",
+        "Situação": "ATIVO",
+        "Vencimento": "25/03/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510046860249/?dataInicial=2027-03-25&dataFinal=2027-03-25",
+        "Nome da Empresa": "KLEY HERTZ FARMACEUTICA S.A",
+        "Número do CNPJ da Empresa": "92.695.691/0001-03",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "25/03/2002",
+        "Vencimento do Registro": "25/03/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "LOCAO CAPILAR PARA LIMPEZA PROFUNDA SLIM",
+        "Processo": "25000.011969/9922",
+        "Nome da Empresa - CNPJ": "NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA - 48.561.369/0001-08",
+        "Número do Registro": "206640357",
+        "Situação": "ATIVO",
+        "Vencimento": "18/06/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000119699922/?dataInicial=2029-06-18&dataFinal=2029-06-18",
+        "Nome da Empresa": "NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA",
+        "Número do CNPJ da Empresa": "48.561.369/0001-08",
+        "Categoria": "LOÇÃO CAPILAR (LÍQUIDA, EMULSIONADA OU NÃO)",
+        "Publicação do Registro": "18/06/1999",
+        "Vencimento do Registro": "18/06/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PRODERM EMULSAO",
+        "Processo": "25000.008502/9903",
+        "Nome da Empresa - CNPJ": "GALDERMA BRASIL LTDA - 00.317.372/0001-46",
+        "Número do Registro": "222620050",
+        "Situação": "ATIVO",
+        "Vencimento": "18/06/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000085029903/?dataInicial=2029-06-18&dataFinal=2029-06-18",
+        "Nome da Empresa": "GALDERMA BRASIL LTDA",
+        "Número do CNPJ da Empresa": "00.317.372/0001-46",
+        "Categoria": "LOÇAO DE LIMPEZA/HIGIENIZANTE INFANTIL",
+        "Publicação do Registro": "18/06/1999",
+        "Vencimento do Registro": "18/06/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

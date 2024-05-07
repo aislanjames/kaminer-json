@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "ALCOOL EM GEL 70º INPM PARA AS MÃOS SANTA CRUZ",
+        "Processo": "25351.087472/2021-42",
+        "Nome da Empresa - CNPJ": "ÁLCOOL SANTA CRUZ LTDA - 61.269.320/0001-36",
+        "Número do Registro": "235500001",
+        "Situação": "ATIVO",
+        "Vencimento": "05/07/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351087472202142/?dataInicial=2031-07-05&dataFinal=2031-07-05",
+        "Nome da Empresa": "ÁLCOOL SANTA CRUZ LTDA",
+        "Número do CNPJ da Empresa": "61.269.320/0001-36",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "05/07/2021",
+        "Vencimento do Registro": "05/07/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "MESOPROTECH® SUN PROTECTIVE REPAIRING STICK SPF 50+",
+        "Processo": "25351.732336/2020-38",
+        "Nome da Empresa - CNPJ": "JPG - PRODUTOS FUNCIONAIS E NUTRICIONAIS LTDA - 21.051.983/0001-65",
+        "Número do Registro": "288110003",
+        "Situação": "ATIVO",
+        "Vencimento": "05/07/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351732336202038/?dataInicial=2031-07-05&dataFinal=2031-07-05",
+        "Nome da Empresa": "JPG - PRODUTOS FUNCIONAIS E NUTRICIONAIS LTDA",
+        "Número do CNPJ da Empresa": "21.051.983/0001-65",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "05/07/2021",
+        "Vencimento do Registro": "05/07/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

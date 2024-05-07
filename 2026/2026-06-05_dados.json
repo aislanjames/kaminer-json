@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "ATTIVI DROGADERMA LOÇÃO ADSTRINGENTE",
+        "Processo": "25351.486134/2005-70",
+        "Nome da Empresa - CNPJ": "L.E.D. LABORATÓRIO DE EVOLUÇÃO DERMATOLÓGICA LTDA. - 65.066.797/0001-75",
+        "Número do Registro": "215540121",
+        "Situação": "ATIVO",
+        "Vencimento": "05/06/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351486134200570/?dataInicial=2026-06-05&dataFinal=2026-06-05",
+        "Nome da Empresa": "L.E.D. LABORATÓRIO DE EVOLUÇÃO DERMATOLÓGICA LTDA.",
+        "Número do CNPJ da Empresa": "65.066.797/0001-75",
+        "Categoria": "LOÇAO DE LIMPEZA FACIAL PARA PELE ACNÉICA  (ALCOÓLICOS OU NÃO, EMULSIONADOS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "05/06/2006",
+        "Vencimento do Registro": "05/06/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LOÇÃO BRONZEADORA DE CENOURA ILUMINADORA FPS 8 BYOFÓRMULA IN COSMETIC",
+        "Processo": "25351.185467/2006-65",
+        "Nome da Empresa - CNPJ": "CCB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA. - 03.761.556/0001-99",
+        "Número do Registro": "232080010",
+        "Situação": "INATIVO",
+        "Vencimento": "05/06/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351185467200665/?dataInicial=2026-06-05&dataFinal=2026-06-05",
+        "Nome da Empresa": "CCB INDUSTRIA E COMERCIO DE COSMETICOS LTDA - epp",
+        "Número do CNPJ da Empresa": "03.761.556/0001-99",
+        "Categoria": "BRONZEADOR (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "05/06/2006",
+        "Vencimento do Registro": "05/06/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "OILATUM CREME",
+        "Processo": "25000.009842/91",
+        "Nome da Empresa - CNPJ": "LABORATÓRIOS STIEFEL LTDA - 63.064.653/0001-54",
+        "Número do Registro": "201900032",
+        "Situação": "INATIVO",
+        "Vencimento": "05/06/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/2500000984291/?dataInicial=2026-06-05&dataFinal=2026-06-05",
+        "Nome da Empresa": "LABORATÓRIOS STIEFEL LTDA",
+        "Número do CNPJ da Empresa": "63.064.653/0001-54",
+        "Categoria": "CREME PARA O CORPO COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "05/06/2001",
+        "Vencimento do Registro": "05/06/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "REPOSITOR DE PIGMENTOS MAX CONTROL",
+        "Processo": "25351.131614/2006-87",
+        "Nome da Empresa - CNPJ": "COFERLY COSMETICA LTDA. - 04.866.345/0001-83",
+        "Número do Registro": "235970073",
+        "Situação": "ATIVO",
+        "Vencimento": "05/06/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351131614200687/?dataInicial=2026-06-05&dataFinal=2026-06-05",
+        "Nome da Empresa": "COFERLY COSMETICA LTDA.",
+        "Número do CNPJ da Empresa": "04.866.345/0001-83",
+        "Categoria": "TINTURA PERMANENTE (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "05/06/2006",
+        "Vencimento do Registro": "05/06/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "COLGATE TANDY SABOR UVAVENTURA",
+        "Processo": "25351.780094/2014-84",
+        "Nome da Empresa - CNPJ": "COLGATE PALMOLIVE INDUSTRIAL LTDA - 03.816.532/0001-90",
+        "Número do Registro": "249700405",
+        "Situação": "ATIVO",
+        "Vencimento": "31/08/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351780094201484/?dataInicial=2030-08-31&dataFinal=2030-08-31",
+        "Nome da Empresa": "COLGATE PALMOLIVE INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "03.816.532/0001-90",
+        "Categoria": "DENTIFRÍCIO COM OU SEM FLÚOR INFANTIL - GRAU 2",
+        "Publicação do Registro": "31/08/2015",
+        "Vencimento do Registro": "31/08/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SOLST PROTETOR SOLAR HIDRATANTE FPS 50",
+        "Processo": "25351.434975/2020-31",
+        "Nome da Empresa - CNPJ": "AXIGRAM LABORATORIO LTDA - ME - 15.435.515/0001-91",
+        "Número do Registro": "270200012",
+        "Situação": "ATIVO",
+        "Vencimento": "31/08/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351434975202031/?dataInicial=2030-08-31&dataFinal=2030-08-31",
+        "Nome da Empresa": "AXIGRAM LABORATORIO LTDA - ME",
+        "Número do CNPJ da Empresa": "15.435.515/0001-91",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "31/08/2020",
+        "Vencimento do Registro": "31/08/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CREME RELAXANTE - FORTE - AMASING PROFESSIONAL",
+        "Processo": "25351.433949/2019-51",
+        "Nome da Empresa - CNPJ": "ATSUM INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 06.215.185/0001-38",
+        "Número do Registro": "240880103",
+        "Situação": "INATIVO",
+        "Vencimento": "14/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351433949201951/?dataInicial=2029-10-14&dataFinal=2029-10-14",
+        "Nome da Empresa": "ATSUM INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "06.215.185/0001-38",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "14/10/2019",
+        "Vencimento do Registro": "14/10/2029",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "L’APIELY PROTETOR SOLAR FPS 50",
+        "Processo": "25351.844088/2018-52",
+        "Nome da Empresa - CNPJ": "EXTRATO FLORA INDÚSTRIA E COMÉRCIO DE CORRELATOS, COSMÉTICOS, EPIS E SANEANTES LTDA - ME - 02.039.120/0001-28",
+        "Número do Registro": "226900043",
+        "Situação": "ATIVO",
+        "Vencimento": "14/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351844088201852/?dataInicial=2029-10-14&dataFinal=2029-10-14",
+        "Nome da Empresa": "EXTRATO FLORA INDÚSTRIA E COMÉRCIO DE CORRELATOS, COSMÉTICOS, EPIS E SANEANTES LTDA - ME",
+        "Número do CNPJ da Empresa": "02.039.120/0001-28",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "14/10/2019",
+        "Vencimento do Registro": "14/10/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "HIGIENIZADOR DE MÃOS GLYSTAR",
+        "Processo": "25351.099284/2018-61",
+        "Nome da Empresa - CNPJ": "ALMAPAL S.A - 12.821.486/0001-08",
+        "Número do Registro": "285950001",
+        "Situação": "ATIVO",
+        "Vencimento": "13/08/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351099284201861/?dataInicial=2028-08-13&dataFinal=2028-08-13",
+        "Nome da Empresa": "ALMAPAL S.A",
+        "Número do CNPJ da Empresa": "12.821.486/0001-08",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "13/08/2018",
+        "Vencimento do Registro": "13/08/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "TOALHAS UMEDECIDAS ANJINHO CONFORT PELE SENSIVEL",
+        "Processo": "25351.027645/2018-78",
+        "Nome da Empresa - CNPJ": "PARENTEX INDUSTRIA E COMERCIO LTDA - 02.380.142/0001-57",
+        "Número do Registro": "254130014",
+        "Situação": "ATIVO",
+        "Vencimento": "13/08/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351027645201878/?dataInicial=2028-08-13&dataFinal=2028-08-13",
+        "Nome da Empresa": "PARENTEX INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "02.380.142/0001-57",
+        "Categoria": "PRODUTO DE LIMPEZA/HIGIENIZAÇÃO INFANTIL - GRAU 2",
+        "Publicação do Registro": "13/08/2018",
+        "Vencimento do Registro": "13/08/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

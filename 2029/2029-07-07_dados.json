@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "CONDICIONADOR DESEMBARAÇANTE CHEIRINHO DE BEBÊ",
+        "Processo": "25351.061836/2004-63",
+        "Nome da Empresa - CNPJ": "KANITZ 1900 COSMÉTICOS LTDA - 29.017.852/0001-73",
+        "Número do Registro": "208750212",
+        "Situação": "ATIVO",
+        "Vencimento": "07/07/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351061836200463/?dataInicial=2029-07-07&dataFinal=2029-07-07",
+        "Nome da Empresa": "KANITZ 1900 COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "29.017.852/0001-73",
+        "Categoria": "CONDICIONADOR CAPILAR INFANTIL",
+        "Publicação do Registro": "07/07/2004",
+        "Vencimento do Registro": "07/07/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "FILTRO SOLAR TONALIZANTE DUO CAKE BRONZE ADCOS",
+        "Processo": "25351.229069/2014-81",
+        "Nome da Empresa - CNPJ": "AVLFM INDUSTRIA DE COSMETICOS LTDA - 39.299.870/0001-49",
+        "Número do Registro": "220280328",
+        "Situação": "ATIVO",
+        "Vencimento": "07/07/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351229069201481/?dataInicial=2029-07-07&dataFinal=2029-07-07",
+        "Nome da Empresa": "AVLFM INDUSTRIA DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "39.299.870/0001-49",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "07/07/2014",
+        "Vencimento do Registro": "07/07/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "FILTRO SOLAR TONALIZANTE DUO CAKE IVORY ADCOS",
+        "Processo": "25351.229068/2014-84",
+        "Nome da Empresa - CNPJ": "AVLFM INDUSTRIA DE COSMETICOS LTDA - 39.299.870/0001-49",
+        "Número do Registro": "220280329",
+        "Situação": "ATIVO",
+        "Vencimento": "07/07/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351229068201484/?dataInicial=2029-07-07&dataFinal=2029-07-07",
+        "Nome da Empresa": "AVLFM INDUSTRIA DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "39.299.870/0001-49",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "07/07/2014",
+        "Vencimento do Registro": "07/07/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "CONDICIONADOR INFANTIL NAWT'S LIFE",
+        "Processo": "25351.046845/2003-43",
+        "Nome da Empresa - CNPJ": "NAWT´S LIFE INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 63.064.968/0001-00",
+        "Número do Registro": "224130058",
+        "Situação": "ATIVO",
+        "Vencimento": "18/09/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351046845200343/?dataInicial=2028-09-18&dataFinal=2028-09-18",
+        "Nome da Empresa": "NAWT´S LIFE INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "63.064.968/0001-00",
+        "Categoria": "CONDICIONADOR CAPILAR INFANTIL",
+        "Publicação do Registro": "18/09/2003",
+        "Vencimento do Registro": "18/09/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SENSODYNE FRESH MINT",
+        "Processo": "25351.044438/2003-00",
+        "Nome da Empresa - CNPJ": "GLAXOSMITHKLINE BRASIL LTDA - 33.247.743/0001-10",
+        "Número do Registro": "200080169",
+        "Situação": "INATIVO",
+        "Vencimento": "18/09/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351044438200300/?dataInicial=2028-09-18&dataFinal=2028-09-18",
+        "Nome da Empresa": "GLAXOSMITHKLINE BRASIL LTDA",
+        "Número do CNPJ da Empresa": "33.247.743/0001-10",
+        "Categoria": "DENTIFRÍCIO COM INDICAÇÃO PARA DENTES SENSÍVEIS (LÍQUIDO, GEL, CREME, SÓLIDO)",
+        "Publicação do Registro": "18/09/2003",
+        "Vencimento do Registro": "18/09/2028",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "SENSODYNE ORIGINAL",
+        "Processo": "25351.044441/2003-15",
+        "Nome da Empresa - CNPJ": "GLAXOSMITHKLINE BRASIL LTDA - 33.247.743/0001-10",
+        "Número do Registro": "200080170",
+        "Situação": "INATIVO",
+        "Vencimento": "18/09/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351044441200315/?dataInicial=2028-09-18&dataFinal=2028-09-18",
+        "Nome da Empresa": "GLAXOSMITHKLINE BRASIL LTDA",
+        "Número do CNPJ da Empresa": "33.247.743/0001-10",
+        "Categoria": "DENTIFRÍCIO COM INDICAÇÃO PARA DENTES SENSÍVEIS (LÍQUIDO, GEL, CREME, SÓLIDO)",
+        "Publicação do Registro": "18/09/2003",
+        "Vencimento do Registro": "18/09/2028",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "SENSODYNE VITAMINAS + SAIS MINERAIS",
+        "Processo": "25351.045701/2003-70",
+        "Nome da Empresa - CNPJ": "GLAXOSMITHKLINE BRASIL LTDA - 33.247.743/0001-10",
+        "Número do Registro": "200080168",
+        "Situação": "INATIVO",
+        "Vencimento": "18/09/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351045701200370/?dataInicial=2028-09-18&dataFinal=2028-09-18",
+        "Nome da Empresa": "GLAXOSMITHKLINE BRASIL LTDA",
+        "Número do CNPJ da Empresa": "33.247.743/0001-10",
+        "Categoria": "DENTIFRÍCIO ANTICÁRIE (LÍQUIDO, GEL, CREME, SÓLIDO)",
+        "Publicação do Registro": "18/09/2003",
+        "Vencimento do Registro": "18/09/2028",
+        "Situação do Produto": "INATIVO"
+    }
+]

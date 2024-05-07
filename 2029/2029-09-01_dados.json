@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "DOVE BABY HIDRATAÇÃO ENRIQUECIDA CONDICIONADOR",
+        "Processo": "25351.286841/2014-40",
+        "Nome da Empresa - CNPJ": "UNILEVER BRASIL INDUSTRIAL LTDA - 01.615.814/0001-01",
+        "Número do Registro": "256100434",
+        "Situação": "ATIVO",
+        "Vencimento": "01/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351286841201440/?dataInicial=2029-09-01&dataFinal=2029-09-01",
+        "Nome da Empresa": "UNILEVER BRASIL INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "01.615.814/0001-01",
+        "Categoria": "CONDICIONADOR INFANTIL COM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "01/09/2014",
+        "Vencimento do Registro": "01/09/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "TALCO INFANTIL ALFAZEMINHA HALLEY BABY",
+        "Processo": "25351.279354/2014-26",
+        "Nome da Empresa - CNPJ": "GASPAROTTO LABATE & CIA LTDA - 60.641.396/0001-88",
+        "Número do Registro": "203330101",
+        "Situação": "ATIVO",
+        "Vencimento": "01/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351279354201426/?dataInicial=2029-09-01&dataFinal=2029-09-01",
+        "Nome da Empresa": "GASPAROTTO LABATE & CIA LTDA",
+        "Número do CNPJ da Empresa": "60.641.396/0001-88",
+        "Categoria": "PÓ CORPORAL INFANTIL - GRAU 2",
+        "Publicação do Registro": "01/09/2014",
+        "Vencimento do Registro": "01/09/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

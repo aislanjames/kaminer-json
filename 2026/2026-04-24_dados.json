@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "ICADERM INFANTIL SABONETE LÍQUIDO INFANTIL CORPO E CABELO",
+        "Processo": "25351.048138/2006-34",
+        "Nome da Empresa - CNPJ": "EXTRATO FLORA INDÚSTRIA E COMÉRCIO DE CORRELATOS, COSMÉTICOS, EPIS E SANEANTES LTDA - ME - 02.039.120/0001-28",
+        "Número do Registro": "226900024",
+        "Situação": "ATIVO",
+        "Vencimento": "24/04/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351048138200634/?dataInicial=2026-04-24&dataFinal=2026-04-24",
+        "Nome da Empresa": "EXTRATO FLORA INDÚSTRIA E COMÉRCIO DE CORRELATOS, COSMÉTICOS, EPIS E SANEANTES LTDA - ME",
+        "Número do CNPJ da Empresa": "02.039.120/0001-28",
+        "Categoria": "SABONETE INFANTIL - GRAU 2",
+        "Publicação do Registro": "24/04/2006",
+        "Vencimento do Registro": "24/04/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PÓ DESCOLORANTE PARA CABELOS RELAXADOS OU ALISADOS NUTRAT",
+        "Processo": "25351.044236/2006-01",
+        "Nome da Empresa - CNPJ": "PROLAB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 64.988.678/0001-07",
+        "Número do Registro": "232410018",
+        "Situação": "ATIVO",
+        "Vencimento": "24/04/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351044236200601/?dataInicial=2026-04-24&dataFinal=2026-04-24",
+        "Nome da Empresa": "PROLAB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "64.988.678/0001-07",
+        "Categoria": "DESCOLORANTE PARA CABELOS (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "24/04/2006",
+        "Vencimento do Registro": "24/04/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SABONETE SULFUROSO GRANADO",
+        "Processo": "25351.060122/2006-08",
+        "Nome da Empresa - CNPJ": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A - 33.109.356/0001-17",
+        "Número do Registro": "201160204",
+        "Situação": "ATIVO",
+        "Vencimento": "24/04/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351060122200608/?dataInicial=2026-04-24&dataFinal=2026-04-24",
+        "Nome da Empresa": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A",
+        "Número do CNPJ da Empresa": "33.109.356/0001-17",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "24/04/2006",
+        "Vencimento do Registro": "24/04/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

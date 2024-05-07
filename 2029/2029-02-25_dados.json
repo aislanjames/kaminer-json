@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "CREME ALISANTE MEYBER",
+        "Processo": "25351.009604/2004-02",
+        "Nome da Empresa - CNPJ": "PERFUMARIA MARCIA LTDA - 40.166.597/0001-63",
+        "Número do Registro": "203050274",
+        "Situação": "ATIVO",
+        "Vencimento": "25/02/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351009604200402/?dataInicial=2029-02-25&dataFinal=2029-02-25",
+        "Nome da Empresa": "PERFUMARIA MÁRCIA LTDA",
+        "Número do CNPJ da Empresa": "40.166.597/0001-63",
+        "Categoria": "ALISANTE PARA CABELOS (CREME OU GEL)",
+        "Publicação do Registro": "25/02/2004",
+        "Vencimento do Registro": "25/02/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME ALISANTE MEYBER FLORES COM QUERATINA",
+        "Processo": "25351.009603/2004-50",
+        "Nome da Empresa - CNPJ": "PERFUMARIA MARCIA LTDA - 40.166.597/0001-63",
+        "Número do Registro": "203050275",
+        "Situação": "ATIVO",
+        "Vencimento": "25/02/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351009603200450/?dataInicial=2029-02-25&dataFinal=2029-02-25",
+        "Nome da Empresa": "PERFUMARIA MÁRCIA LTDA",
+        "Número do CNPJ da Empresa": "40.166.597/0001-63",
+        "Categoria": "ALISANTE PARA CABELOS (CREME OU GEL)",
+        "Publicação do Registro": "25/02/2004",
+        "Vencimento do Registro": "25/02/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SUNBRISA HIDRATANTE COM PROTEÇÃO SOLAR FPS 30",
+        "Processo": "25351.735748/2018-13",
+        "Nome da Empresa - CNPJ": "Francefarma Indústria de Cosméticos ltda - 18.575.413/0001-60",
+        "Número do Registro": "278300053",
+        "Situação": "ATIVO",
+        "Vencimento": "25/02/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351735748201813/?dataInicial=2029-02-25&dataFinal=2029-02-25",
+        "Nome da Empresa": "Francefarma Indústria de Cosméticos ltda",
+        "Número do CNPJ da Empresa": "18.575.413/0001-60",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "25/02/2019",
+        "Vencimento do Registro": "25/02/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁGUA OXIGENADA CREMOSA NANCY 40 VOLUMES",
+        "Processo": "25351.009873/2004-61",
+        "Nome da Empresa - CNPJ": "PERFUMARIA MARCIA LTDA - 40.166.597/0001-63",
+        "Número do Registro": "203050277",
+        "Situação": "ATIVO",
+        "Vencimento": "25/02/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351009873200461/?dataInicial=2029-02-25&dataFinal=2029-02-25",
+        "Nome da Empresa": "PERFUMARIA MÁRCIA LTDA",
+        "Número do CNPJ da Empresa": "40.166.597/0001-63",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "25/02/2004",
+        "Vencimento do Registro": "25/02/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

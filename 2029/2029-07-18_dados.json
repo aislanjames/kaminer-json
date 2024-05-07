@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "Gel Antisséptico PanVel Basic",
+        "Processo": "25351.251387/2014-76",
+        "Nome da Empresa - CNPJ": "LABORATORIO INDUSTRIAL FARMACÊUTICO LIFAR LTDA - 92.928.951/0001-43",
+        "Número do Registro": "214150056",
+        "Situação": "ATIVO",
+        "Vencimento": "18/07/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351251387201476/?dataInicial=2029-07-18&dataFinal=2029-07-18",
+        "Nome da Empresa": "LABORATORIO INDUSTRIAL FARMACÊUTICO LIFAR LTDA",
+        "Número do CNPJ da Empresa": "92.928.951/0001-43",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "18/07/2014",
+        "Vencimento do Registro": "18/07/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "MUSTELA VERY HIGH PROTECTION SUN LOTION SPF 50",
+        "Processo": "25351.247892/2014-48",
+        "Nome da Empresa - CNPJ": "LABORATÓRIOS EXPANSCIENCE COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS PARA A SAÚDE LTDA - 08.160.941/0001-02",
+        "Número do Registro": "262190033",
+        "Situação": "ATIVO",
+        "Vencimento": "18/07/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351247892201448/?dataInicial=2029-07-18&dataFinal=2029-07-18",
+        "Nome da Empresa": "LABORATÓRIOS EXPANSCIENCE COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS PARA A SAÚDE LTDA",
+        "Número do CNPJ da Empresa": "08.160.941/0001-02",
+        "Categoria": "PROTETOR SOLAR INFANTIL - GRAU 2",
+        "Publicação do Registro": "18/07/2014",
+        "Vencimento do Registro": "18/07/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

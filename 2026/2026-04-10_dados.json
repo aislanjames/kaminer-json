@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "MATRIX IN SHINE REVELADOR 9 VOL",
+        "Processo": "25351.068565/2006-39",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200702800",
+        "Situação": "ATIVO",
+        "Vencimento": "10/04/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351068565200639/?dataInicial=2026-04-10&dataFinal=2026-04-10",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "10/04/2006",
+        "Vencimento do Registro": "10/04/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "MAXTON COLORACAO CREME",
+        "Processo": "25000.017263/9513",
+        "Nome da Empresa - CNPJ": "PHITOTERAPHIA BIOFITOGENIA LABORATORIAL BIOTA LTDA - 00.104.603/0001-33",
+        "Número do Registro": "221000057",
+        "Situação": "ATIVO",
+        "Vencimento": "10/04/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000172639513/?dataInicial=2026-04-10&dataFinal=2026-04-10",
+        "Nome da Empresa": "PHITOTERAPHIA BIOFITOGENIA LABORATORIAL BIOTA LTDA",
+        "Número do CNPJ da Empresa": "00.104.603/0001-33",
+        "Categoria": "TINTURA PERMANENTE (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "10/04/1996",
+        "Vencimento do Registro": "10/04/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

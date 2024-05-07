@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "CONDICIONADOR LORYS KIDS PURPLE SHAKE",
+        "Processo": "25351.110057/2006-61",
+        "Nome da Empresa - CNPJ": "INDÚSTRIA E COMÉRCIO SANTA THEREZA LTDA - 46.303.855/0001-92",
+        "Número do Registro": "208770272",
+        "Situação": "INATIVO",
+        "Vencimento": "22/05/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351110057200661/?dataInicial=2026-05-22&dataFinal=2026-05-22",
+        "Nome da Empresa": "INDÚSTRIA E COMÉRCIO SANTA THEREZA LTDA",
+        "Número do CNPJ da Empresa": "46.303.855/0001-92",
+        "Categoria": "CONDICIONADOR INFANTIL COM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "22/05/2006",
+        "Vencimento do Registro": "22/05/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "GLISTER MINT REFRESHER SPRAY",
+        "Processo": "25351.066261/2006-37",
+        "Nome da Empresa - CNPJ": "AMWAY DO BRASIL LIMITADA - 58.473.398/0001-63",
+        "Número do Registro": "212930263",
+        "Situação": "ATIVO",
+        "Vencimento": "22/05/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351066261200637/?dataInicial=2026-05-22&dataFinal=2026-05-22",
+        "Nome da Empresa": "AMWAY DO BRASIL LIMITADA",
+        "Número do CNPJ da Empresa": "58.473.398/0001-63",
+        "Categoria": "AROMATIZANTE BUCAL SEM AÇÃO ANTI-SÉPTICA (LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "22/05/2006",
+        "Vencimento do Registro": "22/05/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "NEUTROGENA RAPID CLEAR ANTI CRAVOS ESFOLIANTE",
+        "Processo": "25351.108612/2006-94",
+        "Nome da Empresa - CNPJ": "JOHNSON & JOHNSON INDUSTRIAL LTDA. - 59.748.988/0001-14",
+        "Número do Registro": "200920806",
+        "Situação": "ATIVO",
+        "Vencimento": "22/05/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351108612200694/?dataInicial=2026-05-22&dataFinal=2026-05-22",
+        "Nome da Empresa": "JOHNSON & JOHNSON INDUSTRIAL LTDA.",
+        "Número do CNPJ da Empresa": "59.748.988/0001-14",
+        "Categoria": "ESFOLIANTE MECÂNICO",
+        "Publicação do Registro": "22/05/2006",
+        "Vencimento do Registro": "22/05/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PÓ DESCOLORANTE RÁPIDO MAX CONTROL",
+        "Processo": "25351.131633/2006-11",
+        "Nome da Empresa - CNPJ": "COFERLY COSMETICA LTDA. - 04.866.345/0001-83",
+        "Número do Registro": "235970070",
+        "Situação": "ATIVO",
+        "Vencimento": "22/05/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351131633200611/?dataInicial=2026-05-22&dataFinal=2026-05-22",
+        "Nome da Empresa": "COFERLY COSMETICA LTDA.",
+        "Número do CNPJ da Empresa": "04.866.345/0001-83",
+        "Categoria": "DESCOLORANTE PARA CABELOS (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "22/05/2006",
+        "Vencimento do Registro": "22/05/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "ONLY REPELL - REPELENTE DE INSETOS",
+        "Processo": "25351.429622/2019-85",
+        "Nome da Empresa - CNPJ": "AEROFLEX INDÚSTRIA DE AEROSOL LTDA - 07.872.967/0001-02",
+        "Número do Registro": "289650008",
+        "Situação": "ATIVO",
+        "Vencimento": "09/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351429622201985/?dataInicial=2029-09-09&dataFinal=2029-09-09",
+        "Nome da Empresa": "AEROFLEX INDÚSTRIA DE AEROSOL LTDA",
+        "Número do CNPJ da Empresa": "07.872.967/0001-02",
+        "Categoria": "REPELENTE DE INSETOS - GRAU 2",
+        "Publicação do Registro": "09/09/2019",
+        "Vencimento do Registro": "09/09/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR KESTER - FPS 30",
+        "Processo": "25351.393604/2019-58",
+        "Nome da Empresa - CNPJ": "MEGA INDUSTRIA LTDA - EPP - 07.934.950/0001-32",
+        "Número do Registro": "248430003",
+        "Situação": "ATIVO",
+        "Vencimento": "09/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351393604201958/?dataInicial=2029-09-09&dataFinal=2029-09-09",
+        "Nome da Empresa": "MEGA INDUSTRIA LTDA - EPP",
+        "Número do CNPJ da Empresa": "07.934.950/0001-32",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "09/09/2019",
+        "Vencimento do Registro": "09/09/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTOR SOLAR KESTER - FPS 70",
+        "Processo": "25351.393602/2019-69",
+        "Nome da Empresa - CNPJ": "MEGA INDUSTRIA LTDA - EPP - 07.934.950/0001-32",
+        "Número do Registro": "248430002",
+        "Situação": "ATIVO",
+        "Vencimento": "09/09/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351393602201969/?dataInicial=2029-09-09&dataFinal=2029-09-09",
+        "Nome da Empresa": "MEGA INDUSTRIA LTDA - EPP",
+        "Número do CNPJ da Empresa": "07.934.950/0001-32",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "09/09/2019",
+        "Vencimento do Registro": "09/09/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

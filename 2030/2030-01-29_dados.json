@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "COLONIA INFANTIL ALFAZEMINHA HALLEY BABY",
+        "Processo": "25351.368300/2014-98",
+        "Nome da Empresa - CNPJ": "GASPAROTTO LABATE & CIA LTDA - 60.641.396/0001-88",
+        "Número do Registro": "203330102",
+        "Situação": "ATIVO",
+        "Vencimento": "29/01/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351368300201498/?dataInicial=2030-01-29&dataFinal=2030-01-29",
+        "Nome da Empresa": "GASPAROTTO LABATE & CIA LTDA",
+        "Número do CNPJ da Empresa": "60.641.396/0001-88",
+        "Categoria": "ÁGUA DE COLÔNIA INFANTIL - GRAU 2",
+        "Publicação do Registro": "29/01/2015",
+        "Vencimento do Registro": "29/01/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME ALISANTE ERVAS COM ARGAN ALISART",
+        "Processo": "25351.353698/2014-27",
+        "Nome da Empresa - CNPJ": "ASLOWA COMÉRCIO E INDÚSTRIA DE COSMÉTICOS LTDA,-me - 00.883.852/0001-74",
+        "Número do Registro": "224470003",
+        "Situação": "ATIVO",
+        "Vencimento": "29/01/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351353698201427/?dataInicial=2030-01-29&dataFinal=2030-01-29",
+        "Nome da Empresa": "ASLOWA COMÉRCIO E INDÚSTRIA DE COSMÉTICOS LTDA,-me",
+        "Número do CNPJ da Empresa": "00.883.852/0001-74",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "29/01/2015",
+        "Vencimento do Registro": "29/01/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "FERM CONDITIONING STRAIGHTENING CREME ALISANTE REGULAR FORMULA",
+        "Processo": "25351.353700/2014-13",
+        "Nome da Empresa - CNPJ": "SYNTONICS DO BRASIL LTDA - 05.611.848/0001-70",
+        "Número do Registro": "238760078",
+        "Situação": "ATIVO",
+        "Vencimento": "29/01/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351353700201413/?dataInicial=2030-01-29&dataFinal=2030-01-29",
+        "Nome da Empresa": "syntonics do brasil ltda",
+        "Número do CNPJ da Empresa": "05.611.848/0001-70",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "29/01/2015",
+        "Vencimento do Registro": "29/01/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

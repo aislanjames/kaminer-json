@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "AMAZON MIRACLE - L'AMAZONIE",
+        "Processo": "25351.944928/2021-81",
+        "Nome da Empresa - CNPJ": "&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP - 17.153.030/0001-30",
+        "Número do Registro": "280880015",
+        "Situação": "ATIVO",
+        "Vencimento": "14/06/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351944928202181/?dataInicial=2031-06-14&dataFinal=2031-06-14",
+        "Nome da Empresa": "&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP",
+        "Número do CNPJ da Empresa": "17.153.030/0001-30",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "14/06/2021",
+        "Vencimento do Registro": "14/06/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GY GEL ANTISSÉPTICO PARA AS MÃOS AYA TECH",
+        "Processo": "25351.134865/2020-71",
+        "Nome da Empresa - CNPJ": "LUVIMA INDÚSTRIA E COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO - LTDA - EPP - 21.003.814/0001-50",
+        "Número do Registro": "284590004",
+        "Situação": "ATIVO",
+        "Vencimento": "14/06/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351134865202071/?dataInicial=2031-06-14&dataFinal=2031-06-14",
+        "Nome da Empresa": "LUVIMA INDÚSTRIA E COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO - LTDA - EPP",
+        "Número do CNPJ da Empresa": "21.003.814/0001-50",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "14/06/2021",
+        "Vencimento do Registro": "14/06/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SUN IN PROTETOR SOLAR LABIAL FPS 30",
+        "Processo": "25351.069694/2021-83",
+        "Nome da Empresa - CNPJ": "PRO NOVA INDUSTRIA E COMERCIO LTDA - EPP - 11.151.445/0001-99",
+        "Número do Registro": "255160019",
+        "Situação": "ATIVO",
+        "Vencimento": "14/06/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351069694202183/?dataInicial=2031-06-14&dataFinal=2031-06-14",
+        "Nome da Empresa": "PRO NOVA INDUSTRIA E COMERCIO LTDA - EPP",
+        "Número do CNPJ da Empresa": "11.151.445/0001-99",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "14/06/2021",
+        "Vencimento do Registro": "14/06/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

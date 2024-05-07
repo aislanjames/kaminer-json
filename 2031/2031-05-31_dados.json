@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "INFINITY BAC GEL",
+        "Processo": "25351.022443/2021-35",
+        "Nome da Empresa - CNPJ": "INFINITY CHEMICAL INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA - 33.865.554/0001-00",
+        "Número do Registro": "420570001",
+        "Situação": "ATIVO",
+        "Vencimento": "31/05/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351022443202135/?dataInicial=2031-05-31&dataFinal=2031-05-31",
+        "Nome da Empresa": "INFINITY CHEMICAL INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA",
+        "Número do CNPJ da Empresa": "33.865.554/0001-00",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "31/05/2021",
+        "Vencimento do Registro": "31/05/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SUPERVALE ÁLCOOL GEL 70°INPM GEL ANTISSÉPTICO PARA A FRICÇÃO DAS MÃOS",
+        "Processo": "25351.682483/2020-50",
+        "Nome da Empresa - CNPJ": "SUPERVALE VERDE INDUSTRIA DE PRODUTOS QUIMICOS LTDA EPP - 85.511.954/0001-11",
+        "Número do Registro": "209830001",
+        "Situação": "ATIVO",
+        "Vencimento": "31/05/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351682483202050/?dataInicial=2031-05-31&dataFinal=2031-05-31",
+        "Nome da Empresa": "SUPERVALE VERDE INDUSTRIA DE PRODUTOS QUIMICOS LTDA EPP",
+        "Número do CNPJ da Empresa": "85.511.954/0001-11",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "31/05/2021",
+        "Vencimento do Registro": "31/05/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁLCOOL EM GEL AROSEPT 90 ML",
+        "Processo": "25351.483967/2020-18",
+        "Nome da Empresa - CNPJ": "M.C. SALES INDUSTRIA E COMERCIO DE COSMETICOS LTDA ME - ME - 04.573.290/0001-13",
+        "Número do Registro": "254450001",
+        "Situação": "ATIVO",
+        "Vencimento": "31/05/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351483967202018/?dataInicial=2031-05-31&dataFinal=2031-05-31",
+        "Nome da Empresa": "M.C. SALES INDUSTRIA E COMERCIO DE COSMETICOS LTDA ME - ME",
+        "Número do CNPJ da Empresa": "04.573.290/0001-13",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "31/05/2021",
+        "Vencimento do Registro": "31/05/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁLCOOL GEL ANTISSÉPTICO STILLO",
+        "Processo": "25351.768227/2020-59",
+        "Nome da Empresa - CNPJ": "NOBILE INDÚSTRIA, COMÉRCIO E BENEFICIAMENTO LTDA - 05.001.448/0001-43",
+        "Número do Registro": "235850075",
+        "Situação": "ATIVO",
+        "Vencimento": "31/05/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351768227202059/?dataInicial=2031-05-31&dataFinal=2031-05-31",
+        "Nome da Empresa": "NOBILE INDÚSTRIA, COMÉRCIO E BENEFICIAMENTO LTDA",
+        "Número do CNPJ da Empresa": "05.001.448/0001-43",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "31/05/2021",
+        "Vencimento do Registro": "31/05/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

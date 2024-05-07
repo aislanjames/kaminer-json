@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "CLINERIZE BAUNILHA",
+        "Processo": "25351.278139/2009-30",
+        "Nome da Empresa - CNPJ": "CIFARMA CIENTÍFICA FARMACÊUTICA LTDA - 17.562.075/0001-69",
+        "Número do Registro": "241300010",
+        "Situação": "ATIVO",
+        "Vencimento": "26/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351278139200930/?dataInicial=2029-10-26&dataFinal=2029-10-26",
+        "Nome da Empresa": "CIFARMA CIENTÍFICA FARMACÊUTICA LTDA",
+        "Número do CNPJ da Empresa": "17.562.075/0001-69",
+        "Categoria": "ENXAGUATÓRIO BUCAL COM FLÚOR, ANTIPLACA E ANTI-SÉPTICO",
+        "Publicação do Registro": "26/10/2009",
+        "Vencimento do Registro": "26/10/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GEL ANTISSÉPTICO CLINIX",
+        "Processo": "25351.608341/2009-49",
+        "Nome da Empresa - CNPJ": "REYMER DO BRASIL INDÚSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - 00.075.112/0001-01",
+        "Número do Registro": "234890011",
+        "Situação": "ATIVO",
+        "Vencimento": "26/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351608341200949/?dataInicial=2029-10-26&dataFinal=2029-10-26",
+        "Nome da Empresa": "REYMER DO BRASIL INDÚSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA",
+        "Número do CNPJ da Empresa": "00.075.112/0001-01",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "26/10/2009",
+        "Vencimento do Registro": "26/10/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LOÇÃO RESTAURADORA PROGRESSIVA PALMINDAYA PLUS CREMOSA COM ALOE VERA",
+        "Processo": "25351.367892/2009-11",
+        "Nome da Empresa - CNPJ": "PALMINDAYA COSMÉTICOS LTDA - 75.619.742/0001-07",
+        "Número do Registro": "202220068",
+        "Situação": "ATIVO",
+        "Vencimento": "26/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351367892200911/?dataInicial=2029-10-26&dataFinal=2029-10-26",
+        "Nome da Empresa": "PALMINDAYA COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "75.619.742/0001-07",
+        "Categoria": "TINTURA CAPILAR TEMPORÁRIA (LÍQUIDO, GEL, CREME, OU SÓLIDO)",
+        "Publicação do Registro": "26/10/2009",
+        "Vencimento do Registro": "26/10/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

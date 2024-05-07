@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "ADA TINA FPS 50 PURE C",
+        "Processo": "25351.382889/2018-11",
+        "Nome da Empresa - CNPJ": "NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA - 48.561.369/0001-08",
+        "Número do Registro": "206640878",
+        "Situação": "ATIVO",
+        "Vencimento": "14/01/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351382889201811/?dataInicial=2029-01-14&dataFinal=2029-01-14",
+        "Nome da Empresa": "NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA",
+        "Número do CNPJ da Empresa": "48.561.369/0001-08",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "14/01/2019",
+        "Vencimento do Registro": "14/01/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "DRAPOLENE CREME",
+        "Processo": "25351.059968/2003-44",
+        "Nome da Empresa - CNPJ": "FARMOQUÍMICA S/A - 33.349.473/0001-58",
+        "Número do Registro": "235400002",
+        "Situação": "ATIVO",
+        "Vencimento": "14/01/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351059968200344/?dataInicial=2029-01-14&dataFinal=2029-01-14",
+        "Nome da Empresa": "FARMOQUÍMICA S/A",
+        "Número do CNPJ da Empresa": "33.349.473/0001-58",
+        "Categoria": "CREME PROTETOR INFANTIL",
+        "Publicação do Registro": "14/01/2004",
+        "Vencimento do Registro": "14/01/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GLOSS LABIAL PRETTY GIRLS - MABEL",
+        "Processo": "25351.345911/2018-41",
+        "Nome da Empresa - CNPJ": "MABEL COMERCIO DE IMPORTADOS LTDA - 00.527.682/0001-95",
+        "Número do Registro": "277200001",
+        "Situação": "ATIVO",
+        "Vencimento": "14/01/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351345911201841/?dataInicial=2029-01-14&dataFinal=2029-01-14",
+        "Nome da Empresa": "MABEL COMERCIO DE IMPORTADOS LTDA",
+        "Número do CNPJ da Empresa": "00.527.682/0001-95",
+        "Categoria": "BATOM LABIAL E BRILHO LABIAL INFANTIL - GRAU 2",
+        "Publicação do Registro": "14/01/2019",
+        "Vencimento do Registro": "14/01/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "Gel Higienizador de Mãos Qimbox",
+        "Processo": "25351.985018/2020-78",
+        "Nome da Empresa - CNPJ": "FANNY SILVANA DA SILVA PETIT LTDA - ME - 02.321.425/0001-28",
+        "Número do Registro": "276220001",
+        "Situação": "ATIVO",
+        "Vencimento": "22/03/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351985018202078/?dataInicial=2031-03-22&dataFinal=2031-03-22",
+        "Nome da Empresa": "FANNY SILVANA DA SILVA PETIT LTDA - ME",
+        "Número do CNPJ da Empresa": "02.321.425/0001-28",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "22/03/2021",
+        "Vencimento do Registro": "22/03/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR CORPO E ROSTO FPS 30 DERMACREAM",
+        "Processo": "25351.316622/2020-50",
+        "Nome da Empresa - CNPJ": "BOTANIC DO BRASIL COSMÉTICOS LTDA ME - 16.872.196/0001-44",
+        "Número do Registro": "267620007",
+        "Situação": "ATIVO",
+        "Vencimento": "22/03/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351316622202050/?dataInicial=2031-03-22&dataFinal=2031-03-22",
+        "Nome da Empresa": "BOTANIC DO BRASIL COSMÉTICOS LTDA ME",
+        "Número do CNPJ da Empresa": "16.872.196/0001-44",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "22/03/2021",
+        "Vencimento do Registro": "22/03/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁLCOOL EM GEL ANTISSÉPTICO GRANADO",
+        "Processo": "25351.389375/2020-19",
+        "Nome da Empresa - CNPJ": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A - 33.109.356/0001-17",
+        "Número do Registro": "201160268",
+        "Situação": "ATIVO",
+        "Vencimento": "22/03/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351389375202019/?dataInicial=2031-03-22&dataFinal=2031-03-22",
+        "Nome da Empresa": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A",
+        "Número do CNPJ da Empresa": "33.109.356/0001-17",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "22/03/2021",
+        "Vencimento do Registro": "22/03/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁLCOOL EM GEL ANTISSÉPTICO GRANADO PINK",
+        "Processo": "25351.389314/2020-43",
+        "Nome da Empresa - CNPJ": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A - 33.109.356/0001-17",
+        "Número do Registro": "201160267",
+        "Situação": "ATIVO",
+        "Vencimento": "22/03/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351389314202043/?dataInicial=2031-03-22&dataFinal=2031-03-22",
+        "Nome da Empresa": "CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S/A",
+        "Número do CNPJ da Empresa": "33.109.356/0001-17",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "22/03/2021",
+        "Vencimento do Registro": "22/03/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "BRONZEADOR TANNED NAWT'S LIFE FPS 4",
+        "Processo": "25351.199571/2002-11",
+        "Nome da Empresa - CNPJ": "NAWT´S LIFE INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 63.064.968/0001-00",
+        "Número do Registro": "224130054",
+        "Situação": "ATIVO",
+        "Vencimento": "10/01/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351199571200211/?dataInicial=2028-01-10&dataFinal=2028-01-10",
+        "Nome da Empresa": "NAWT´S LIFE INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "63.064.968/0001-00",
+        "Categoria": "BRONZEADOR (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "10/01/2003",
+        "Vencimento do Registro": "10/01/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "DERMATUS LAC PLUS LOÇÃO HIDRATANTE",
+        "Processo": "25351.215805/2002-77",
+        "Nome da Empresa - CNPJ": "COSMETICA INDUSTRIAL BRENNER LTDA - 36.075.547/0001-01",
+        "Número do Registro": "214660134",
+        "Situação": "INATIVO",
+        "Vencimento": "10/01/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351215805200277/?dataInicial=2028-01-10&dataFinal=2028-01-10",
+        "Nome da Empresa": "COSMETICA INDUSTRIAL BRENNER LTDA",
+        "Número do CNPJ da Empresa": "36.075.547/0001-01",
+        "Categoria": "LOÇÃO PARA O CORPO SEM AÇÃO FOTOPROTETORA DA PELE E COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "10/01/2003",
+        "Vencimento do Registro": "10/01/2028",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "L'OREAL MAJIREL",
+        "Processo": "25351.222968/2002-14",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200702292",
+        "Situação": "ATIVO",
+        "Vencimento": "10/01/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351222968200214/?dataInicial=2028-01-10&dataFinal=2028-01-10",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "TINTURA PERMANENTE (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "10/01/2003",
+        "Vencimento do Registro": "10/01/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "VAGISIL DESODORANTE INTIMO",
+        "Processo": "25351.222943/2002-11",
+        "Nome da Empresa - CNPJ": "PROVIDER INDÚSTRIA E COMÉRCIO S/A - 02.138.483/0001-10",
+        "Número do Registro": "231340088",
+        "Situação": "INATIVO",
+        "Vencimento": "10/01/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351222943200211/?dataInicial=2028-01-10&dataFinal=2028-01-10",
+        "Nome da Empresa": "PROVIDER INDÚSTRIA E COMÉRCIO S/A",
+        "Número do CNPJ da Empresa": "02.138.483/0001-10",
+        "Categoria": "DESODORANTE ÍNTIMO (PERFUMADO OU NÃO, SOB A FORMA DE LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "10/01/2003",
+        "Vencimento do Registro": "10/01/2028",
+        "Situação do Produto": "INATIVO"
+    }
+]

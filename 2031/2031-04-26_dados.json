@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "LUMINOUS FACE PERFECT COLOR FPS 60 LUMINOUS SKIN",
+        "Processo": "25351.490782/2020-60",
+        "Nome da Empresa - CNPJ": "VICTORIA MAXX INDUSTRIA E TERCEIRIZACAO DE COSMETICOS LTDA - 72.426.745/0001-28",
+        "Número do Registro": "231070030",
+        "Situação": "ATIVO",
+        "Vencimento": "26/04/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351490782202060/?dataInicial=2031-04-26&dataFinal=2031-04-26",
+        "Nome da Empresa": "VICTORIA MAXX INDUSTRIA E TERCEIRIZACAO DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "72.426.745/0001-28",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "26/04/2021",
+        "Vencimento do Registro": "26/04/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS 60 CORPORAL RENNOVA",
+        "Processo": "25351.716888/2020-07",
+        "Nome da Empresa - CNPJ": "Nutriex Indústria de Nutracêuticos Ltda. - 22.966.065/0001-29",
+        "Número do Registro": "291200343",
+        "Situação": "ATIVO",
+        "Vencimento": "26/04/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351716888202007/?dataInicial=2031-04-26&dataFinal=2031-04-26",
+        "Nome da Empresa": "Nutriex Indústria de Nutracêuticos Ltda.",
+        "Número do CNPJ da Empresa": "22.966.065/0001-29",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "26/04/2021",
+        "Vencimento do Registro": "26/04/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS 60 KIDS RENNOVA",
+        "Processo": "25351.716876/2020-74",
+        "Nome da Empresa - CNPJ": "Nutriex Indústria de Nutracêuticos Ltda. - 22.966.065/0001-29",
+        "Número do Registro": "291200342",
+        "Situação": "ATIVO",
+        "Vencimento": "26/04/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351716876202074/?dataInicial=2031-04-26&dataFinal=2031-04-26",
+        "Nome da Empresa": "Nutriex Indústria de Nutracêuticos Ltda.",
+        "Número do CNPJ da Empresa": "22.966.065/0001-29",
+        "Categoria": "PROTETOR SOLAR INFANTIL - GRAU 2",
+        "Publicação do Registro": "26/04/2021",
+        "Vencimento do Registro": "26/04/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

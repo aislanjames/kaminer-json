@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "ALCOOL GEL PERFUMADO MARCA LIMPAPELE",
+        "Processo": "25351.232453/2020-04",
+        "Nome da Empresa - CNPJ": "LIMPAPELE COSMETICOS LTDA - 26.489.492/0001-14",
+        "Número do Registro": "221330005",
+        "Situação": "ATIVO",
+        "Vencimento": "04/01/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351232453202004/?dataInicial=2031-01-04&dataFinal=2031-01-04",
+        "Nome da Empresa": "LIMPAPELE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "26.489.492/0001-14",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "04/01/2021",
+        "Vencimento do Registro": "04/01/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "BOM DOUTOR ÁLCOOL EM GEL ANTISSÉPTICO PARA AS MÃOS 70°INPM FACINATUS",
+        "Processo": "25351.828093/2020-32",
+        "Nome da Empresa - CNPJ": "LOREN INDUSTRIAL LTDA - 07.266.583/0001-46",
+        "Número do Registro": "245230049",
+        "Situação": "ATIVO",
+        "Vencimento": "04/01/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351828093202032/?dataInicial=2031-01-04&dataFinal=2031-01-04",
+        "Nome da Empresa": "LOREN INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "07.266.583/0001-46",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "04/01/2021",
+        "Vencimento do Registro": "04/01/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "Hand Gel Premium Prolim",
+        "Processo": "25351.677047/2020-69",
+        "Nome da Empresa - CNPJ": "ITW FLUIDS & HYGIENE SOLUTIONS LTDA - 07.125.955/0001-14",
+        "Número do Registro": "406870001",
+        "Situação": "ATIVO",
+        "Vencimento": "04/01/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351677047202069/?dataInicial=2031-01-04&dataFinal=2031-01-04",
+        "Nome da Empresa": "ITW FLUIDS & HYGIENE SOLUTIONS LTDA",
+        "Número do CNPJ da Empresa": "07.125.955/0001-14",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "04/01/2021",
+        "Vencimento do Registro": "04/01/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

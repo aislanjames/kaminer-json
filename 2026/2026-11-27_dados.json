@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "DESIGNER SEMIPERMANENTE TINTE PARA CABELLO TEC ITALY HAIR DIMENSION",
+        "Processo": "25351.421773/2006-71",
+        "Nome da Empresa - CNPJ": "CONEXÃO G IMPORTAÇÃO E EXPORTAÇÃO LTDA-ME - 04.131.253/0001-55",
+        "Número do Registro": "232930018",
+        "Situação": "ATIVO",
+        "Vencimento": "27/11/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351421773200671/?dataInicial=2026-11-27&dataFinal=2026-11-27",
+        "Nome da Empresa": "CONEXAO G IMPORT E EXPORTACAO LTDA",
+        "Número do CNPJ da Empresa": "04.131.253/0001-55",
+        "Categoria": "TINTURA PERMANENTE (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "27/11/2006",
+        "Vencimento do Registro": "27/11/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "VAGISIL SABONETE ÍNTIMO",
+        "Processo": "25351.432371/2006-00",
+        "Nome da Empresa - CNPJ": "PROVIDER INDÚSTRIA E COMÉRCIO S/A - 02.138.483/0001-10",
+        "Número do Registro": "231340135",
+        "Situação": "INATIVO",
+        "Vencimento": "27/11/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351432371200600/?dataInicial=2026-11-27&dataFinal=2026-11-27",
+        "Nome da Empresa": "PROVIDER INDÚSTRIA E COMÉRCIO S/A",
+        "Número do CNPJ da Empresa": "02.138.483/0001-10",
+        "Categoria": "SABONETE DE USO ÍNTIMO",
+        "Publicação do Registro": "27/11/2006",
+        "Vencimento do Registro": "27/11/2026",
+        "Situação do Produto": "INATIVO"
+    }
+]

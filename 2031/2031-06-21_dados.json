@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "Allgreen Gel Antisséptico",
+        "Processo": "25351.258209/2020-63",
+        "Nome da Empresa - CNPJ": "GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA - 33.408.105/0001-33",
+        "Número do Registro": "237730002",
+        "Situação": "ATIVO",
+        "Vencimento": "21/06/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351258209202063/?dataInicial=2031-06-21&dataFinal=2031-06-21",
+        "Nome da Empresa": "GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA",
+        "Número do CNPJ da Empresa": "33.408.105/0001-33",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "21/06/2021",
+        "Vencimento do Registro": "21/06/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "VICHY CAPITAL SOLEIL UV-GLOW FPS 60 PELE CLARA A MÉDIA CLARA",
+        "Processo": "25351.022547/2021-40",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200704350",
+        "Situação": "ATIVO",
+        "Vencimento": "21/06/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351022547202140/?dataInicial=2031-06-21&dataFinal=2031-06-21",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "21/06/2021",
+        "Vencimento do Registro": "21/06/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "VICHY CAPITAL SOLEIL UV-GLOW FPS 60 PELE MÉDIA A NEGRA",
+        "Processo": "25351.022528/2021-13",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200704349",
+        "Situação": "ATIVO",
+        "Vencimento": "21/06/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351022528202113/?dataInicial=2031-06-21&dataFinal=2031-06-21",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "21/06/2021",
+        "Vencimento do Registro": "21/06/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

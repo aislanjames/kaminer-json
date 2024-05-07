@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "L'OREAL DERMO EXPERTISE REVITALIFT NOTURNO",
+        "Processo": "25351.222965/2002-72",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200702301",
+        "Situação": "ATIVO",
+        "Vencimento": "16/01/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351222965200272/?dataInicial=2028-01-16&dataFinal=2028-01-16",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "CREME PARA RUGAS (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "16/01/2003",
+        "Vencimento do Registro": "16/01/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "L'OREAL MAJIROUGE",
+        "Processo": "25351.222966/2002-17",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200702302",
+        "Situação": "ATIVO",
+        "Vencimento": "16/01/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351222966200217/?dataInicial=2028-01-16&dataFinal=2028-01-16",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "TINTURA PERMANENTE (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "16/01/2003",
+        "Vencimento do Registro": "16/01/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

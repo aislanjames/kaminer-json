@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "NEOSTRATA MINESOL OIL CONTROL NEGRA FPS 70",
+        "Processo": "25351.020763/2020-70",
+        "Nome da Empresa - CNPJ": "JOHNSON & JOHNSON INDUSTRIAL LTDA. - 59.748.988/0001-14",
+        "Número do Registro": "200921374",
+        "Situação": "ATIVO",
+        "Vencimento": "02/03/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351020763202070/?dataInicial=2030-03-02&dataFinal=2030-03-02",
+        "Nome da Empresa": "JOHNSON & JOHNSON INDUSTRIAL LTDA.",
+        "Número do CNPJ da Empresa": "59.748.988/0001-14",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "02/03/2020",
+        "Vencimento do Registro": "02/03/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR PRÓ.D FPS 30 MEZZO DERMOCOSMÉTICOS",
+        "Processo": "25351.706160/2019-25",
+        "Nome da Empresa - CNPJ": "ALIANZA INDÚSTRIA E COMÉRCIO DE COSMÉETICOS LTDA EPP - 03.982.695/0001-42",
+        "Número do Registro": "231020465",
+        "Situação": "ATIVO",
+        "Vencimento": "02/03/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351706160201925/?dataInicial=2030-03-02&dataFinal=2030-03-02",
+        "Nome da Empresa": "ALIANZA INDÚSTRIA E COMÉRCIO DE COSMÉETICOS LTDA EPP",
+        "Número do CNPJ da Empresa": "03.982.695/0001-42",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "02/03/2020",
+        "Vencimento do Registro": "02/03/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "RICOSOL PROTETOR SOLAR FACIAL FPS 70",
+        "Processo": "25351.007249/2020-49",
+        "Nome da Empresa - CNPJ": "DAHUER LABORATÓRIO LTDA - 82.914.334/0001-35",
+        "Número do Registro": "215630173",
+        "Situação": "ATIVO",
+        "Vencimento": "02/03/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351007249202049/?dataInicial=2030-03-02&dataFinal=2030-03-02",
+        "Nome da Empresa": "DAHUER LABORATÓRIO LTDA",
+        "Número do CNPJ da Empresa": "82.914.334/0001-35",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "02/03/2020",
+        "Vencimento do Registro": "02/03/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

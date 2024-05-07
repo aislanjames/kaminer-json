@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "ATIVADOR AMACIHAIR",
+        "Processo": "25351.017896/0143",
+        "Nome da Empresa - CNPJ": "PHITOTERAPHIA BIOFITOGENIA LABORATORIAL BIOTA LTDA - 00.104.603/0001-33",
+        "Número do Registro": "221000458",
+        "Situação": "ATIVO",
+        "Vencimento": "16/07/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510178960143/?dataInicial=2026-07-16&dataFinal=2026-07-16",
+        "Nome da Empresa": "PHITOTERAPHIA BIOFITOGENIA LABORATORIAL BIOTA LTDA",
+        "Número do CNPJ da Empresa": "00.104.603/0001-33",
+        "Categoria": "ALISANTE PARA CABELOS (CREME OU GEL)",
+        "Publicação do Registro": "16/07/2001",
+        "Vencimento do Registro": "16/07/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "HIDROSSOMAS PLUS GEL CREME PROF NR",
+        "Processo": "25351.013099/0123",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270016",
+        "Situação": "ATIVO",
+        "Vencimento": "16/07/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510130990123/?dataInicial=2026-07-16&dataFinal=2026-07-16",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "CREME PARA O ROSTO SEM AÇÃO FOTOPROTETORA DA PELE E COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "16/07/2001",
+        "Vencimento do Registro": "16/07/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LOCAO ANTI MOSQUITO REPELENTE DE INSETOS JOHNSON'S BABY",
+        "Processo": "25351.023017/0012",
+        "Nome da Empresa - CNPJ": "JOHNSON & JOHNSON INDUSTRIAL LTDA. - 59.748.988/0001-14",
+        "Número do Registro": "200920551",
+        "Situação": "ATIVO",
+        "Vencimento": "16/07/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510230170012/?dataInicial=2026-07-16&dataFinal=2026-07-16",
+        "Nome da Empresa": "JOHNSON & JOHNSON INDUSTRIAL LTDA.",
+        "Número do CNPJ da Empresa": "59.748.988/0001-14",
+        "Categoria": "REPELENTE DE INSETOS",
+        "Publicação do Registro": "16/07/2001",
+        "Vencimento do Registro": "16/07/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LOCAO CREMOSA SECATIVA PARA PELE COM ACNE PROF NR",
+        "Processo": "25351.013104/0161",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270011",
+        "Situação": "ATIVO",
+        "Vencimento": "16/07/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510131040161/?dataInicial=2026-07-16&dataFinal=2026-07-16",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "LOÇÃO PARA PELE ACNÉICA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "16/07/2001",
+        "Vencimento do Registro": "16/07/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

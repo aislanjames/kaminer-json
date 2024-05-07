@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "LAVANDA INFANTIL HALLEY BABY",
+        "Processo": "25000.026565/9816",
+        "Nome da Empresa - CNPJ": "GASPAROTTO LABATE & CIA LTDA - 60.641.396/0001-88",
+        "Número do Registro": "203330049",
+        "Situação": "ATIVO",
+        "Vencimento": "16/11/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000265659816/?dataInicial=2028-11-16&dataFinal=2028-11-16",
+        "Nome da Empresa": "GASPAROTTO LABATE & CIA LTDA",
+        "Número do CNPJ da Empresa": "60.641.396/0001-88",
+        "Categoria": "ÁGUA DE COLÔNIA INFANTIL - GRAU 2",
+        "Publicação do Registro": "16/11/1998",
+        "Vencimento do Registro": "16/11/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "OLEO INFANTIL HALLEY BABY",
+        "Processo": "25000.026564/9853",
+        "Nome da Empresa - CNPJ": "GASPAROTTO LABATE & CIA LTDA - 60.641.396/0001-88",
+        "Número do Registro": "203330050",
+        "Situação": "ATIVO",
+        "Vencimento": "16/11/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000265649853/?dataInicial=2028-11-16&dataFinal=2028-11-16",
+        "Nome da Empresa": "GASPAROTTO LABATE & CIA LTDA",
+        "Número do CNPJ da Empresa": "60.641.396/0001-88",
+        "Categoria": "ÓLEOS INFANTIS",
+        "Publicação do Registro": "16/11/1998",
+        "Vencimento do Registro": "16/11/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "TALCO INFANTIL HALLEY BABY",
+        "Processo": "25000.026566/9889",
+        "Nome da Empresa - CNPJ": "GASPAROTTO LABATE & CIA LTDA - 60.641.396/0001-88",
+        "Número do Registro": "203330048",
+        "Situação": "ATIVO",
+        "Vencimento": "16/11/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000265669889/?dataInicial=2028-11-16&dataFinal=2028-11-16",
+        "Nome da Empresa": "GASPAROTTO LABATE & CIA LTDA",
+        "Número do CNPJ da Empresa": "60.641.396/0001-88",
+        "Categoria": "PÓ CORPORAL INFANTIL - GRAU 2",
+        "Publicação do Registro": "16/11/1998",
+        "Vencimento do Registro": "16/11/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

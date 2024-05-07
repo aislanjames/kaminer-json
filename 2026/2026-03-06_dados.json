@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "ASSEPTGEL AMAZÔNIA MARACUJÁ",
+        "Processo": "25351.344303/2005-03",
+        "Nome da Empresa - CNPJ": "LIMA & PERGHER INDÚSTRIA E COMÉRCIO S/A - 22.685.341/0001-80",
+        "Número do Registro": "236790008",
+        "Situação": "INATIVO",
+        "Vencimento": "06/03/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351344303200503/?dataInicial=2026-03-06&dataFinal=2026-03-06",
+        "Nome da Empresa": "LIMA & PERGHER INDÚSTRIA E COMÉRCIO S/A",
+        "Número do CNPJ da Empresa": "22.685.341/0001-80",
+        "Categoria": "CREME PARA AS MÃOS COM AÇÃO ANTI-SÉPTICA, COM AÇÃO FOTOPROTETORA, COM INDICAÇÃO DE AÇÃO PROTETORA INDIVIDUAL PARA O TRABALHO COMO EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL - EPI - E/ou COM OUTRAS FINALIDADES ALÉM DE HIDRATAÇÃO E/OU REFRESCÂNCIA",
+        "Publicação do Registro": "06/03/2006",
+        "Vencimento do Registro": "06/03/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "ASSEPTGEL CREME 2 EM 1",
+        "Processo": "25351.387350/2005-33",
+        "Nome da Empresa - CNPJ": "LIMA & PERGHER INDÚSTRIA E COMÉRCIO S/A - 22.685.341/0001-80",
+        "Número do Registro": "236790009",
+        "Situação": "INATIVO",
+        "Vencimento": "06/03/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351387350200533/?dataInicial=2026-03-06&dataFinal=2026-03-06",
+        "Nome da Empresa": "LIMA & PERGHER INDÚSTRIA E COMÉRCIO S/A",
+        "Número do CNPJ da Empresa": "22.685.341/0001-80",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "06/03/2006",
+        "Vencimento do Registro": "06/03/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "CARIAX PASTA DENTIFRÍCIA - KIN",
+        "Processo": "25351.203263/2005-32",
+        "Nome da Empresa - CNPJ": "PHARMAKIN COMÉRCIO DE COSMÉTICOS LTDA - 05.046.637/0001-32",
+        "Número do Registro": "238920010",
+        "Situação": "ATIVO",
+        "Vencimento": "06/03/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351203263200532/?dataInicial=2026-03-06&dataFinal=2026-03-06",
+        "Nome da Empresa": "PHARMAKIN COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "05.046.637/0001-32",
+        "Categoria": "DENTIFRÍCIO EXCETO OS COM FLÚOR, OS COM AÇÃO ANTIPLACA, ANTICÁRIE, ANTITÁRTARO, COM INDICAÇÃO PARA DENTES SENSÍVEIS E OS CLAREADORES QUÍMICOS (LÍQUIDO, GEL, CREME, SÓLIDO)",
+        "Publicação do Registro": "06/03/2006",
+        "Vencimento do Registro": "06/03/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "DESODORANTE ANTITRANSPIRANTE SPRAY RED APPLE SPORT ACTIVE",
+        "Processo": "25351.052504/2006-50",
+        "Nome da Empresa - CNPJ": "COSINTER INTERNACIONAL IND E COM COSMETICOS LTDA - 85.080.836/0001-04",
+        "Número do Registro": "216760133",
+        "Situação": "ATIVO",
+        "Vencimento": "06/03/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351052504200650/?dataInicial=2026-03-06&dataFinal=2026-03-06",
+        "Nome da Empresa": "COSINTER INTERNACIONAL INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "85.080.836/0001-04",
+        "Categoria": "DESODORANTE ANTITRANSPIRANTE / ANTIPERSPIRANTE AXILAR (PERFUMADOS OU NÃO, SOB A FORMA DE LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "06/03/2006",
+        "Vencimento do Registro": "06/03/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

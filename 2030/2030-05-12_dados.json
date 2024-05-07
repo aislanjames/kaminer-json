@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "COLONIA CHEIRINHO DE BEBE",
+        "Processo": "25351.004752/0018",
+        "Nome da Empresa - CNPJ": "KANITZ 1900 COSMÉTICOS LTDA - 29.017.852/0001-73",
+        "Número do Registro": "208750168",
+        "Situação": "ATIVO",
+        "Vencimento": "12/05/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510047520018/?dataInicial=2030-05-12&dataFinal=2030-05-12",
+        "Nome da Empresa": "KANITZ 1900 COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "29.017.852/0001-73",
+        "Categoria": "COLÔNIAS INFANTIS (HIDROALCOÓLICAS OU NÃO)",
+        "Publicação do Registro": "12/05/2000",
+        "Vencimento do Registro": "12/05/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "YELLOW NEW FORM RELAXER",
+        "Processo": "25351.661176/2014-16",
+        "Nome da Empresa - CNPJ": "DELLY KOSMETIC COMÉRCIO E INDÚSTRIA LTDA - 01.567.613/0001-78",
+        "Número do Registro": "225600344",
+        "Situação": "ATIVO",
+        "Vencimento": "12/05/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351661176201416/?dataInicial=2030-05-12&dataFinal=2030-05-12",
+        "Nome da Empresa": "DELLY KOSMETIC COMÉRCIO E INDÚSTRIA LTDA",
+        "Número do CNPJ da Empresa": "01.567.613/0001-78",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "12/05/2015",
+        "Vencimento do Registro": "12/05/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

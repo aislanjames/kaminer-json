@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "CONDICIONADOR INFANTIL HALLEY BABY",
+        "Processo": "25351.007305/0058",
+        "Nome da Empresa - CNPJ": "GASPAROTTO LABATE & CIA LTDA - 60.641.396/0001-88",
+        "Número do Registro": "203330062",
+        "Situação": "ATIVO",
+        "Vencimento": "25/05/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510073050058/?dataInicial=2030-05-25&dataFinal=2030-05-25",
+        "Nome da Empresa": "GASPAROTTO LABATE & CIA LTDA",
+        "Número do CNPJ da Empresa": "60.641.396/0001-88",
+        "Categoria": "CONDICIONADOR INFANTIL COM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "25/05/2000",
+        "Vencimento do Registro": "25/05/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GEL HIGIENIZADOR ANTISSÉPTICO PARA MÃOS ERVA DOCE CLEAN CARE",
+        "Processo": "25351.224111/2020-11",
+        "Nome da Empresa - CNPJ": "NATURAL PLANET COSMÉTICOS LTDA - 08.632.393/0001-68",
+        "Número do Registro": "246850023",
+        "Situação": "ATIVO",
+        "Vencimento": "25/05/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351224111202011/?dataInicial=2030-05-25&dataFinal=2030-05-25",
+        "Nome da Empresa": "NATURAL PLANET COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "08.632.393/0001-68",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "25/05/2020",
+        "Vencimento do Registro": "25/05/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SAFE SEA SPF 50 KIDS",
+        "Processo": "25351.017924/2020-48",
+        "Nome da Empresa - CNPJ": "GLOBAL OPPORTUNITIES IMPORTAÇÃO E EXPORTAÇÃO LTDA - 21.541.681/0001-75",
+        "Número do Registro": "294930002",
+        "Situação": "ATIVO",
+        "Vencimento": "25/05/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351017924202048/?dataInicial=2030-05-25&dataFinal=2030-05-25",
+        "Nome da Empresa": "GLOBAL OPPORTUNITIES IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+        "Número do CNPJ da Empresa": "21.541.681/0001-75",
+        "Categoria": "PROTETOR SOLAR INFANTIL - GRAU 2",
+        "Publicação do Registro": "25/05/2020",
+        "Vencimento do Registro": "25/05/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁLCOOL EM GEL PROTEGE BIOVEGETAIS - ANTISSÉPTICO & HIDRATANTE",
+        "Processo": "25351.324547/2020-09",
+        "Nome da Empresa - CNPJ": "TRI HAIR INDÚSTRIA DE COSMÉTICOS LTDA - 03.967.708/0001-04",
+        "Número do Registro": "237290031",
+        "Situação": "ATIVO",
+        "Vencimento": "25/05/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351324547202009/?dataInicial=2030-05-25&dataFinal=2030-05-25",
+        "Nome da Empresa": "TRI HAIR INDÚSTRIA DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "03.967.708/0001-04",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "25/05/2020",
+        "Vencimento do Registro": "25/05/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

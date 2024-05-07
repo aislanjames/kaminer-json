@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "ADCOS ÓLEO SECO BIO BRONZE FPS UVB 30",
+        "Processo": "25351.338736/2019-17",
+        "Nome da Empresa - CNPJ": "AVLFM INDUSTRIA DE COSMETICOS LTDA - 39.299.870/0001-49",
+        "Número do Registro": "220280368",
+        "Situação": "ATIVO",
+        "Vencimento": "18/11/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351338736201917/?dataInicial=2029-11-18&dataFinal=2029-11-18",
+        "Nome da Empresa": "AVLFM INDUSTRIA DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "39.299.870/0001-49",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "18/11/2019",
+        "Vencimento do Registro": "18/11/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "DAUF PROTETOR SOLAR LABIAL FPS 30 MORANGO",
+        "Processo": "25351.492438/2019-71",
+        "Nome da Empresa - CNPJ": "BRAVIR INDUSTRIAL LTDA - 18.688.481/0001-35",
+        "Número do Registro": "206420052",
+        "Situação": "ATIVO",
+        "Vencimento": "18/11/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351492438201971/?dataInicial=2029-11-18&dataFinal=2029-11-18",
+        "Nome da Empresa": "BRAVIR INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "18.688.481/0001-35",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "18/11/2019",
+        "Vencimento do Registro": "18/11/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "HIDRÓXIDO DE CÁLCIO DIAMOND HEIDI PROFESSIONAL",
+        "Processo": "25351.458902/2019-09",
+        "Nome da Empresa - CNPJ": "+ BRIEFING AGENCIA DE PUBLICIDADE E REPRESENTACOES LTDA - 21.566.221/0001-00",
+        "Número do Registro": "285040008",
+        "Situação": "INATIVO",
+        "Vencimento": "18/11/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351458902201909/?dataInicial=2029-11-18&dataFinal=2029-11-18",
+        "Nome da Empresa": "+ BRIEFING AGENCIA DE PUBLICIDADE E REPRESENTACOES LTDA",
+        "Número do CNPJ da Empresa": "21.566.221/0001-00",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "18/11/2019",
+        "Vencimento do Registro": "18/11/2029",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "UV PROTECT FPS 85 COSMOBEAUTY",
+        "Processo": "25351.375943/2019-52",
+        "Nome da Empresa - CNPJ": "BIODOMANI INDÚSTRIA E COMÉRCIO LTDA. - EPP - 69.333.300/0001-99",
+        "Número do Registro": "218510147",
+        "Situação": "ATIVO",
+        "Vencimento": "18/11/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351375943201952/?dataInicial=2029-11-18&dataFinal=2029-11-18",
+        "Nome da Empresa": "BIODOMANI INDÚSTRIA E COMÉRCIO LTDA. - EPP",
+        "Número do CNPJ da Empresa": "69.333.300/0001-99",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "18/11/2019",
+        "Vencimento do Registro": "18/11/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

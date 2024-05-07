@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "ALIVIOSOL SPRAY DAHUER",
+        "Processo": "25351.303510/2006-81",
+        "Nome da Empresa - CNPJ": "DAHUER LABORATÓRIO LTDA - 82.914.334/0001-35",
+        "Número do Registro": "215630055",
+        "Situação": "ATIVO",
+        "Vencimento": "18/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351303510200681/?dataInicial=2026-09-18&dataFinal=2026-09-18",
+        "Nome da Empresa": "DAHUER LABORATÓRIO LTDA",
+        "Número do CNPJ da Empresa": "82.914.334/0001-35",
+        "Categoria": "OUTROS PRODUTOS NÃO PREVISTOS - GRAU II",
+        "Publicação do Registro": "18/09/2006",
+        "Vencimento do Registro": "18/09/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "DAVENE HIGIPORO TÔNICO ADSTRINGENTE PELE COM ACNE",
+        "Processo": "25351.332267/2006-16",
+        "Nome da Empresa - CNPJ": "CRIA SIM PRODUTOS DE HIGIENE LTDA - 05.975.111/0001-37",
+        "Número do Registro": "242110039",
+        "Situação": "ATIVO",
+        "Vencimento": "18/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351332267200616/?dataInicial=2026-09-18&dataFinal=2026-09-18",
+        "Nome da Empresa": "CRIA SIM PRODUTOS DE HIGIENE LTDA",
+        "Número do CNPJ da Empresa": "05.975.111/0001-37",
+        "Categoria": "LOÇÃO TÔNICA FACIAL PARA PELE ACNÉICA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "18/09/2006",
+        "Vencimento do Registro": "18/09/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LOÇÃO CORPORAL DESODORANTE GELLOCLIN NATUCLIN",
+        "Processo": "25351.304464/2006-37",
+        "Nome da Empresa - CNPJ": "NATUPHITUS INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 73.697.666/0001-14",
+        "Número do Registro": "219280517",
+        "Situação": "ATIVO",
+        "Vencimento": "18/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351304464200637/?dataInicial=2026-09-18&dataFinal=2026-09-18",
+        "Nome da Empresa": "NATUPHITUS INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "73.697.666/0001-14",
+        "Categoria": "LOÇÃO PARA O CORPO SEM AÇÃO FOTOPROTETORA DA PELE E COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "18/09/2006",
+        "Vencimento do Registro": "18/09/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

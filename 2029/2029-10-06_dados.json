@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "Condicionador Acqua Azul 110ml Ki-Bella",
+        "Processo": "25351.232491/2014-91",
+        "Nome da Empresa - CNPJ": "DOYTH COSMÉTICOS DO BRASIL LTDA - ME - 00.019.403/0001-82",
+        "Número do Registro": "238260045",
+        "Situação": "ATIVO",
+        "Vencimento": "06/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351232491201491/?dataInicial=2029-10-06&dataFinal=2029-10-06",
+        "Nome da Empresa": "DOYTH COSMÉTICOS DO BRASIL LTDA - ME",
+        "Número do CNPJ da Empresa": "00.019.403/0001-82",
+        "Categoria": "CONDICIONADOR INFANTIL COM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "06/10/2014",
+        "Vencimento do Registro": "06/10/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "Condicionador Acqua Rosa 110ml Ki-bella",
+        "Processo": "25351.232513/2014-35",
+        "Nome da Empresa - CNPJ": "DOYTH COSMÉTICOS DO BRASIL LTDA - ME - 00.019.403/0001-82",
+        "Número do Registro": "238260046",
+        "Situação": "ATIVO",
+        "Vencimento": "06/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351232513201435/?dataInicial=2029-10-06&dataFinal=2029-10-06",
+        "Nome da Empresa": "DOYTH COSMÉTICOS DO BRASIL LTDA - ME",
+        "Número do CNPJ da Empresa": "00.019.403/0001-82",
+        "Categoria": "CONDICIONADOR INFANTIL COM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "06/10/2014",
+        "Vencimento do Registro": "06/10/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "Shampoo Acqua Azul 110ml Ki-bella",
+        "Processo": "25351.232260/2014-84",
+        "Nome da Empresa - CNPJ": "DOYTH COSMÉTICOS DO BRASIL LTDA - ME - 00.019.403/0001-82",
+        "Número do Registro": "238260044",
+        "Situação": "ATIVO",
+        "Vencimento": "06/10/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351232260201484/?dataInicial=2029-10-06&dataFinal=2029-10-06",
+        "Nome da Empresa": "DOYTH COSMÉTICOS DO BRASIL LTDA - ME",
+        "Número do CNPJ da Empresa": "00.019.403/0001-82",
+        "Categoria": "XAMPU/XAMPU CONDICIONADOR INFANTIL - GRAU 2",
+        "Publicação do Registro": "06/10/2014",
+        "Vencimento do Registro": "06/10/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

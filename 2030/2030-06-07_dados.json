@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "BEPANTOL BABY",
+        "Processo": "25351.046456/2010-67",
+        "Nome da Empresa - CNPJ": "MAPPEL INDÚSTRIA DE EMBALAGENS S.A. - 01.233.103/0001-64",
+        "Número do Registro": "226070020",
+        "Situação": "ATIVO",
+        "Vencimento": "07/06/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351046456201067/?dataInicial=2030-06-07&dataFinal=2030-06-07",
+        "Nome da Empresa": "MAPPEL INDÚSTRIA DE EMBALAGENS S.A.",
+        "Número do CNPJ da Empresa": "01.233.103/0001-64",
+        "Categoria": "PRODUTO PARA PREVENIR ASSADURAS INFANTIL - GRAU 2",
+        "Publicação do Registro": "07/06/2010",
+        "Vencimento do Registro": "07/06/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ROMÃ ÓLEO REGENERADOR CORPORAL WELEDA",
+        "Processo": "25351.271593/2010-07",
+        "Nome da Empresa - CNPJ": "WELEDA DO BRASIL LABORATÓRIO E FARMÁCIA LTDA - 56.992.217/0001-80",
+        "Número do Registro": "201410088",
+        "Situação": "ATIVO",
+        "Vencimento": "07/06/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351271593201007/?dataInicial=2030-06-07&dataFinal=2030-06-07",
+        "Nome da Empresa": "WELEDA DO BRASIL LABORATÓRIO E FARMÁCIA LTDA",
+        "Número do CNPJ da Empresa": "56.992.217/0001-80",
+        "Categoria": "ÓLEO PARA O CORPO COM OUTRAS FINALIDADES ALÉM DE HIDRATAÇÃO E/OU REFRESCÂNCIA (PERFUMADO OU NÃO)",
+        "Publicação do Registro": "07/06/2010",
+        "Vencimento do Registro": "07/06/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

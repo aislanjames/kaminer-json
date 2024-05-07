@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "BLOSSON KIDS COLONIA INFANTIL",
+        "Processo": "25351.201494/2002-69",
+        "Nome da Empresa - CNPJ": "CHANDAL INDUSTRIA COMERCIO IMPORTAÇÃO E EXPORTAÇÃO DE COSMETICOS LTDA - 54.274.113/0001-04",
+        "Número do Registro": "209090162",
+        "Situação": "ATIVO",
+        "Vencimento": "25/10/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351201494200269/?dataInicial=2027-10-25&dataFinal=2027-10-25",
+        "Nome da Empresa": "CHANDAL INDUSTRIA COMERCIO IMPORTAÇÃO E EXPORTAÇÃO DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "54.274.113/0001-04",
+        "Categoria": "ÁGUA DE COLÔNIA INFANTIL - GRAU 2",
+        "Publicação do Registro": "25/10/2002",
+        "Vencimento do Registro": "25/10/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GEL ATIVADOR NATURAL BRONZE PROF NR",
+        "Processo": "25351.203736/2002-59",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270057",
+        "Situação": "ATIVO",
+        "Vencimento": "25/10/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351203736200259/?dataInicial=2027-10-25&dataFinal=2027-10-25",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "ATIVADOR/ACELERADOR DE BRONZEADO (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "25/10/2002",
+        "Vencimento do Registro": "25/10/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

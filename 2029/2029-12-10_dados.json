@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "Johnson’s baby Loção Hidratante Aveia",
+        "Processo": "25351.352939/2014-32",
+        "Nome da Empresa - CNPJ": "JOHNSON & JOHNSON INDUSTRIAL LTDA. - 59.748.988/0001-14",
+        "Número do Registro": "200921201",
+        "Situação": "ATIVO",
+        "Vencimento": "10/12/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351352939201432/?dataInicial=2029-12-10&dataFinal=2029-12-10",
+        "Nome da Empresa": "JOHNSON & JOHNSON INDUSTRIAL LTDA.",
+        "Número do CNPJ da Empresa": "59.748.988/0001-14",
+        "Categoria": "HIDRATANTE PARA PELE INFANTIL - GRAU 2",
+        "Publicação do Registro": "10/12/2014",
+        "Vencimento do Registro": "10/12/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "YELLOW NEW FORM ACTIVATOR - ATIVADOR PARA GUANIDINA",
+        "Processo": "25351.341012/2014-05",
+        "Nome da Empresa - CNPJ": "DELLY KOSMETIC COMÉRCIO E INDÚSTRIA LTDA - 01.567.613/0001-78",
+        "Número do Registro": "225600334",
+        "Situação": "ATIVO",
+        "Vencimento": "10/12/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351341012201405/?dataInicial=2029-12-10&dataFinal=2029-12-10",
+        "Nome da Empresa": "DELLY KOSMETIC COMÉRCIO E INDÚSTRIA LTDA",
+        "Número do CNPJ da Empresa": "01.567.613/0001-78",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "10/12/2014",
+        "Vencimento do Registro": "10/12/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÓLEO PURO LILLO BABY",
+        "Processo": "25351.352216/2014-45",
+        "Nome da Empresa - CNPJ": "MAPPEL INDÚSTRIA DE EMBALAGENS S.A. - 01.233.103/0001-64",
+        "Número do Registro": "226070103",
+        "Situação": "INATIVO",
+        "Vencimento": "10/12/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351352216201445/?dataInicial=2029-12-10&dataFinal=2029-12-10",
+        "Nome da Empresa": "MAPPEL INDÚSTRIA DE EMBALAGENS S.A.",
+        "Número do CNPJ da Empresa": "01.233.103/0001-64",
+        "Categoria": "ÓLEO CAPILAR/CORPORAL INFANTIL - GRAU 2",
+        "Publicação do Registro": "10/12/2014",
+        "Vencimento do Registro": "10/12/2029",
+        "Situação do Produto": "INATIVO"
+    }
+]

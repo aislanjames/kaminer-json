@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "COLOR AFFAIR 30 VOLUMES ÁGUA OXIGENADA",
+        "Processo": "25351.186705/2010-15",
+        "Nome da Empresa - CNPJ": "COLOR WAY INDÚSTRIA E COMÉRCIO LTDA - 05.486.165/0001-39",
+        "Número do Registro": "236560144",
+        "Situação": "ATIVO",
+        "Vencimento": "19/04/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351186705201015/?dataInicial=2025-04-19&dataFinal=2025-04-19",
+        "Nome da Empresa": "COLOR WAY INDÚSTRIA E COMÉRCIO LTDA",
+        "Número do CNPJ da Empresa": "05.486.165/0001-39",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "19/04/2010",
+        "Vencimento do Registro": "19/04/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "COLORLESS ÁGUA OXIGENADA 10 VOLUMES PRIZER COSMETICS",
+        "Processo": "25351.173732/2010-08",
+        "Nome da Empresa - CNPJ": "COSMETICOS DO BRASIL INDUSTRIA COMERCIO E DISTRIBUIDORA LTDA - 09.354.422/0001-30",
+        "Número do Registro": "250440001",
+        "Situação": "ATIVO",
+        "Vencimento": "19/04/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351173732201008/?dataInicial=2025-04-19&dataFinal=2025-04-19",
+        "Nome da Empresa": "COSMETICOS DO BRASIL INDUSTRIA COMERCIO E DISTRIBUIDORA LTDA",
+        "Número do CNPJ da Empresa": "09.354.422/0001-30",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "19/04/2010",
+        "Vencimento do Registro": "19/04/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME PROTETOR PARA PELE LUVEX RENOVARE",
+        "Processo": "25351.644973/2009-71",
+        "Nome da Empresa - CNPJ": "LUVEX INDÚSTRIA DE EQUIPAMENTOS DE PROTEÇÃO LTDA - 92.533.702/0001-59",
+        "Número do Registro": "216790073",
+        "Situação": "ATIVO",
+        "Vencimento": "19/04/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351644973200971/?dataInicial=2025-04-19&dataFinal=2025-04-19",
+        "Nome da Empresa": "LUVEX INDÚSTRIA DE EQUIPAMENTOS DE PROTEÇÃO LTDA",
+        "Número do CNPJ da Empresa": "92.533.702/0001-59",
+        "Categoria": "CREME PARA AS MÃOS COM AÇÃO ANTI-SÉPTICA, COM AÇÃO FOTOPROTETORA, COM INDICAÇÃO DE AÇÃO PROTETORA INDIVIDUAL PARA O TRABALHO COMO EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL - EPI - E/ou COM OUTRAS FINALIDADES ALÉM DE HIDRATAÇÃO E/OU REFRESCÂNCIA",
+        "Publicação do Registro": "19/04/2010",
+        "Vencimento do Registro": "19/04/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "HIDRAGE 10 LOÇÃO HIDRATANTE CORPORAL",
+        "Processo": "25351.632911/2009-17",
+        "Nome da Empresa - CNPJ": "HELIANTO FARMACEUTICA LTDA - 04.506.487/0001-30",
+        "Número do Registro": "234260022",
+        "Situação": "INATIVO",
+        "Vencimento": "19/04/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351632911200917/?dataInicial=2025-04-19&dataFinal=2025-04-19",
+        "Nome da Empresa": "HELIANTO FARMACEUTICA LTDA",
+        "Número do CNPJ da Empresa": "04.506.487/0001-30",
+        "Categoria": "LOÇÃO PARA O CORPO SEM AÇÃO FOTOPROTETORA DA PELE E COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "19/04/2010",
+        "Vencimento do Registro": "19/04/2025",
+        "Situação do Produto": "INATIVO"
+    }
+]

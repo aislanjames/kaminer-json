@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "LOÇÃO BLOQUEADORA COM FPS 30 EVELIZE",
+        "Processo": "25351.290839/2005-93",
+        "Nome da Empresa - CNPJ": "NATUPHITUS INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 73.697.666/0001-14",
+        "Número do Registro": "219280507",
+        "Situação": "ATIVO",
+        "Vencimento": "17/10/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351290839200593/?dataInicial=2025-10-17&dataFinal=2025-10-17",
+        "Nome da Empresa": "NATUPHITUS INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "73.697.666/0001-14",
+        "Categoria": "PROTETOR SOLAR",
+        "Publicação do Registro": "17/10/2005",
+        "Vencimento do Registro": "17/10/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LOÇÃO JOVEM CREMOSA",
+        "Processo": "25351.250548/2005-62",
+        "Nome da Empresa - CNPJ": "DIVON DO BRASIL INDÚSTRIA DE COSMÉTICOS LTDA - ME - 81.097.602/0001-00",
+        "Número do Registro": "215180006",
+        "Situação": "ATIVO",
+        "Vencimento": "17/10/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351250548200562/?dataInicial=2025-10-17&dataFinal=2025-10-17",
+        "Nome da Empresa": "DIVON DO BRASIL INDÚSTRIA DE COSMÉTICOS LTDA - ME",
+        "Número do CNPJ da Empresa": "81.097.602/0001-00",
+        "Categoria": "TINTURA PROGRESSIVA (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "17/10/2005",
+        "Vencimento do Registro": "17/10/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR GEL RED APPLE FPS 30",
+        "Processo": "25351.347536/2005-50",
+        "Nome da Empresa - CNPJ": "COSINTER INTERNACIONAL IND E COM COSMETICOS LTDA - 85.080.836/0001-04",
+        "Número do Registro": "216760125",
+        "Situação": "ATIVO",
+        "Vencimento": "17/10/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351347536200550/?dataInicial=2025-10-17&dataFinal=2025-10-17",
+        "Nome da Empresa": "COSINTER INTERNACIONAL INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "85.080.836/0001-04",
+        "Categoria": "PROTETOR SOLAR",
+        "Publicação do Registro": "17/10/2005",
+        "Vencimento do Registro": "17/10/2025",
+        "Situação do Produto": "ATIVO"
+    }
+]

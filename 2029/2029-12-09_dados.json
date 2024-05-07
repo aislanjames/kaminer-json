@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "CREME ALISANTE TIOGLICOLATO DE AMÔNIO LISO FANTÁSTICO YUP",
+        "Processo": "25351.520437/2019-24",
+        "Nome da Empresa - CNPJ": "T.C.I INDÚSTRIA COSMÉTICA LTDA-EPP - 07.239.476/0001-29",
+        "Número do Registro": "240760279",
+        "Situação": "INATIVO",
+        "Vencimento": "09/12/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351520437201924/?dataInicial=2029-12-09&dataFinal=2029-12-09",
+        "Nome da Empresa": "T.C.I INDÚSTRIA COSMÉTICA LTDA-EPP",
+        "Número do CNPJ da Empresa": "07.239.476/0001-29",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "09/12/2019",
+        "Vencimento do Registro": "09/12/2029",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "CREME RELAXANTE CAPILAR ESTILO BELA",
+        "Processo": "25351.572579/2019-77",
+        "Nome da Empresa - CNPJ": "BELA E CHIC INDUSTRIA E COMERCIO DE COSMETICOS ESPECIAIS LTDA - 05.268.903/0001-71",
+        "Número do Registro": "269600010",
+        "Situação": "ATIVO",
+        "Vencimento": "09/12/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351572579201977/?dataInicial=2029-12-09&dataFinal=2029-12-09",
+        "Nome da Empresa": "BELA E CHIC INDUSTRIA E COMERCIO DE COSMETICOS ESPECIAIS LTDA",
+        "Número do CNPJ da Empresa": "05.268.903/0001-71",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "09/12/2019",
+        "Vencimento do Registro": "09/12/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LAQFA REPELENTE SPRAY",
+        "Processo": "25351.335353/2019-97",
+        "Nome da Empresa - CNPJ": "LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA - 00.394.429/0099-14",
+        "Número do Registro": "400100001",
+        "Situação": "ATIVO",
+        "Vencimento": "09/12/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351335353201997/?dataInicial=2029-12-09&dataFinal=2029-12-09",
+        "Nome da Empresa": "LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA",
+        "Número do CNPJ da Empresa": "00.394.429/0099-14",
+        "Categoria": "REPELENTE DE INSETOS - GRAU 2",
+        "Publicação do Registro": "09/12/2019",
+        "Vencimento do Registro": "09/12/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "Gel Antisséptico para as mãos - 5Cinco",
+        "Processo": "25351.692946/2020-91",
+        "Nome da Empresa - CNPJ": "CINCO PRODUTOS QUÍMICOS E FARMACÊUTICOS LTDA - 76.648.559/0001-94",
+        "Número do Registro": "205950252",
+        "Situação": "ATIVO",
+        "Vencimento": "01/02/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351692946202091/?dataInicial=2031-02-01&dataFinal=2031-02-01",
+        "Nome da Empresa": "Cinco Produtos Quimicos E Farmaceuticos Ltda",
+        "Número do CNPJ da Empresa": "76.648.559/0001-94",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "01/02/2021",
+        "Vencimento do Registro": "01/02/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "NIVEA SUN BEAUTY EXPERT ANTI-IDADE Q10 PROTETOR SOLAR FACIAL FPS 50",
+        "Processo": "25351.996260/2020-77",
+        "Nome da Empresa - CNPJ": "BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA - 01.786.983/0001-04",
+        "Número do Registro": "227210746",
+        "Situação": "ATIVO",
+        "Vencimento": "01/02/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351996260202077/?dataInicial=2031-02-01&dataFinal=2031-02-01",
+        "Nome da Empresa": "BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA",
+        "Número do CNPJ da Empresa": "01.786.983/0001-04",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "01/02/2021",
+        "Vencimento do Registro": "01/02/2031",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SUNCARE PROTETOR SOLAR SPORT FPS 50",
+        "Processo": "25351.488937/2014-25",
+        "Nome da Empresa - CNPJ": "ZANINPHARMA INDUSTRIA E COMERCIO DE COSMETICOS LTDA - 07.825.034/0001-64",
+        "Número do Registro": "245470029",
+        "Situação": "INATIVO",
+        "Vencimento": "01/02/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351488937201425/?dataInicial=2031-02-01&dataFinal=2031-02-01",
+        "Nome da Empresa": "ZANINPHARMA INDUSTRIA E COMERCIO DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "07.825.034/0001-64",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "01/02/2016",
+        "Vencimento do Registro": "01/02/2031",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "ÁLCOOL GEL 80º INPM AROMAS E CIA",
+        "Processo": "25351.415040/2020-55",
+        "Nome da Empresa - CNPJ": "AROMAS E SACHÊ LTDA. - 05.125.873/0001-44",
+        "Número do Registro": "251710001",
+        "Situação": "ATIVO",
+        "Vencimento": "01/02/2031",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351415040202055/?dataInicial=2031-02-01&dataFinal=2031-02-01",
+        "Nome da Empresa": "AROMAS E SACHÊ LTDA.",
+        "Número do CNPJ da Empresa": "05.125.873/0001-44",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "01/02/2021",
+        "Vencimento do Registro": "01/02/2031",
+        "Situação do Produto": "ATIVO"
+    }
+]

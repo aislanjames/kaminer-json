@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "BRONZEADOR SEM SOL RED APPLE",
+        "Processo": "25351.035726/2003-65",
+        "Nome da Empresa - CNPJ": "COSINTER INTERNACIONAL IND E COM COSMETICOS LTDA - 85.080.836/0001-04",
+        "Número do Registro": "216760108",
+        "Situação": "ATIVO",
+        "Vencimento": "17/07/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351035726200365/?dataInicial=2028-07-17&dataFinal=2028-07-17",
+        "Nome da Empresa": "COSINTER INTERNACIONAL INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "85.080.836/0001-04",
+        "Categoria": "BRONZEADOR SIMULATÓRIO (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "17/07/2003",
+        "Vencimento do Registro": "17/07/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME STERALYS ANNA PEGOVA",
+        "Processo": "25351.031844/2003-02",
+        "Nome da Empresa - CNPJ": "FLAGIAN IMPORTACAO E EXPORTACAO LTDA - 46.394.094/0001-21",
+        "Número do Registro": "201080150",
+        "Situação": "ATIVO",
+        "Vencimento": "17/07/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351031844200302/?dataInicial=2028-07-17&dataFinal=2028-07-17",
+        "Nome da Empresa": "FLAGIAN IMPORTACAO E EXPORTACAO LTDA",
+        "Número do CNPJ da Empresa": "46.394.094/0001-21",
+        "Categoria": "CREME PARA PELE ACNÉICA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "17/07/2003",
+        "Vencimento do Registro": "17/07/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "LOCAO CREMOSA SERGIO PARIS ALIVIO MAGICO",
+        "Processo": "25025.004027/98",
+        "Nome da Empresa - CNPJ": "SERGIO PARIS COSMETICOS LTDA - 88.029.244/0001-48",
+        "Número do Registro": "206120013",
+        "Situação": "ATIVO",
+        "Vencimento": "17/07/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/2502500402798/?dataInicial=2028-07-17&dataFinal=2028-07-17",
+        "Nome da Empresa": "SERGIO PARIS COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "88.029.244/0001-48",
+        "Categoria": "LOÇÃO PARA O CORPO SEM AÇÃO FOTOPROTETORA DA PELE E COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "17/07/1998",
+        "Vencimento do Registro": "17/07/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

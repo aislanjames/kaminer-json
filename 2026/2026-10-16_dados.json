@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "BIOTHERM HOMME ABDOSCULPT",
+        "Processo": "25351.323808/2006-15",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200702887",
+        "Situação": "ATIVO",
+        "Vencimento": "16/10/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351323808200615/?dataInicial=2026-10-16&dataFinal=2026-10-16",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "CREME PARA O CORPO COM FOTOPROTETOR OU COM OUTRAS FINALIDADES ALÉM DE HIDRATAÇÃO E REFRESCÂNCIA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "16/10/2006",
+        "Vencimento do Registro": "16/10/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "DE SÍRIUS ÁGUA OXIGENADA CREMOSA 20 VOLUMES",
+        "Processo": "25025.355636/2006-32",
+        "Nome da Empresa - CNPJ": "DE SIRIUS COSMETICOS LTDA - EPP - 02.859.331/0001-07",
+        "Número do Registro": "228750038",
+        "Situação": "ATIVO",
+        "Vencimento": "16/10/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25025355636200632/?dataInicial=2026-10-16&dataFinal=2026-10-16",
+        "Nome da Empresa": "DE SIRIUS COSMETICOS LTDA - EPP",
+        "Número do CNPJ da Empresa": "02.859.331/0001-07",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "16/10/2006",
+        "Vencimento do Registro": "16/10/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

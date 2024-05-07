@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "ACQUA KIDS CREME DE PENTEAR CONDICIONADOR DESEMBARACANTE",
+        "Processo": "25351.021531/0178",
+        "Nome da Empresa - CNPJ": "NAZCA COSMETICOS INDUSTRIA E COMERCIO LTDA - 56.851.355/0001-49",
+        "Número do Registro": "211180160",
+        "Situação": "INATIVO",
+        "Vencimento": "16/08/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510215310178/?dataInicial=2026-08-16&dataFinal=2026-08-16",
+        "Nome da Empresa": "NAZCA COSMETICOS INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "56.851.355/0001-49",
+        "Categoria": "CONDICIONADOR CAPILAR INFANTIL",
+        "Publicação do Registro": "16/08/2001",
+        "Vencimento do Registro": "16/08/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "VICHY EAU THERMALE",
+        "Processo": "25351.007772/0112",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200701922",
+        "Situação": "ATIVO",
+        "Vencimento": "16/08/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510077720112/?dataInicial=2026-08-16&dataFinal=2026-08-16",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "LOÇÃO DE LIMPEZA FACIAL EXCETO PARA PELE ACNÉICA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "16/08/2001",
+        "Vencimento do Registro": "16/08/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

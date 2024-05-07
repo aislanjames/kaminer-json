@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "ATIV LINE ILUMINATA ARTISTIC COLOR OXIDANTE CREME ESTABILIZADO ÁGUA OXIGENADA 10 VOLUMES",
+        "Processo": "25351.199783/2002-91",
+        "Nome da Empresa - CNPJ": "PROLAB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 64.988.678/0001-07",
+        "Número do Registro": "232410015",
+        "Situação": "ATIVO",
+        "Vencimento": "19/03/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351199783200291/?dataInicial=2028-03-19&dataFinal=2028-03-19",
+        "Nome da Empresa": "PROLAB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "64.988.678/0001-07",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "19/03/2003",
+        "Vencimento do Registro": "19/03/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁGUA OXIGENADA CREMOSA 20 VOLUMES ALYNE",
+        "Processo": "25351.222702/2002-63",
+        "Nome da Empresa - CNPJ": "CIGEL INDUSTRIAL LTDA - 03.773.027/0001-05",
+        "Número do Registro": "232400030",
+        "Situação": "ATIVO",
+        "Vencimento": "19/03/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351222702200263/?dataInicial=2028-03-19&dataFinal=2028-03-19",
+        "Nome da Empresa": "CIGEL INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "03.773.027/0001-05",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "19/03/2003",
+        "Vencimento do Registro": "19/03/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÁGUA OXIGENADA CREMOSA 40 VOLUMES ALYNE",
+        "Processo": "25351.222721/2002-90",
+        "Nome da Empresa - CNPJ": "CIGEL INDUSTRIAL LTDA - 03.773.027/0001-05",
+        "Número do Registro": "232400031",
+        "Situação": "ATIVO",
+        "Vencimento": "19/03/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351222721200290/?dataInicial=2028-03-19&dataFinal=2028-03-19",
+        "Nome da Empresa": "CIGEL INDUSTRIAL LTDA",
+        "Número do CNPJ da Empresa": "03.773.027/0001-05",
+        "Categoria": "ÁGUA OXIGENADA (10 A 40 VOLUMES) (INCLUÍDAS AS CREMOSAS, EXCETO OS PRODUTOS DE USO MEDICINAL)",
+        "Publicação do Registro": "19/03/2003",
+        "Vencimento do Registro": "19/03/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

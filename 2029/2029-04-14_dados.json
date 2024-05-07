@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CICATRIMED GEL",
+        "Processo": "25351.179012/2014-52",
+        "Nome da Empresa - CNPJ": "NUTRACOM INDUSTRIA E COMERCIO LTDA - 25.859.018/0001-74",
+        "Número do Registro": "204900097",
+        "Situação": "ATIVO",
+        "Vencimento": "14/04/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351179012201452/?dataInicial=2029-04-14&dataFinal=2029-04-14",
+        "Nome da Empresa": "NUTRACOM INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "25.859.018/0001-74",
+        "Categoria": "CREME PARA O CORPO COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "14/04/2014",
+        "Vencimento do Registro": "14/04/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "VELASTISA ANTIESTRIAS POTENCIALIZADOR DA ELASTICIDADE ISDIN",
+        "Processo": "25351.438092/2013-10",
+        "Nome da Empresa - CNPJ": "Isdin Produtos Farmaceuticos Ltda - 10.817.114/0001-82",
+        "Número do Registro": "253860025",
+        "Situação": "ATIVO",
+        "Vencimento": "14/04/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351438092201310/?dataInicial=2029-04-14&dataFinal=2029-04-14",
+        "Nome da Empresa": "Isdin Produtos Farmaceuticos Ltda",
+        "Número do CNPJ da Empresa": "10.817.114/0001-82",
+        "Categoria": "CREME PARA CELULITE / ESTRIAS (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "14/04/2014",
+        "Vencimento do Registro": "14/04/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

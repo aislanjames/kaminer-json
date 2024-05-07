@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "LENÇOS UMEDECIDOS COTTON LINE KIDS",
+        "Processo": "25351.196529/2004-01",
+        "Nome da Empresa - CNPJ": "HIGIE-TOPP INDÚSTRIA E COMÉRCIO DE PRODUTOS HIGIÊNICOS E TEXTEIS LTDA - 02.120.411/0001-46",
+        "Número do Registro": "237280001",
+        "Situação": "ATIVO",
+        "Vencimento": "17/12/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351196529200401/?dataInicial=2029-12-17&dataFinal=2029-12-17",
+        "Nome da Empresa": "HIGIE-TOPP INDÚSTRIA E COMÉRCIO DE PRODUTOS HIGIÊNICOS E TEXTEIS LTDA",
+        "Número do CNPJ da Empresa": "02.120.411/0001-46",
+        "Categoria": "LENÇO UMEDECIDO PARA HIGIENE INFANTIL",
+        "Publicação do Registro": "17/12/2004",
+        "Vencimento do Registro": "17/12/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "TALCO DESODORANTE PARA OS PÉS HALLEY",
+        "Processo": "25351.232767/2004-89",
+        "Nome da Empresa - CNPJ": "GASPAROTTO LABATE & CIA LTDA - 60.641.396/0001-88",
+        "Número do Registro": "203330084",
+        "Situação": "ATIVO",
+        "Vencimento": "17/12/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351232767200489/?dataInicial=2029-12-17&dataFinal=2029-12-17",
+        "Nome da Empresa": "GASPAROTTO LABATE & CIA LTDA",
+        "Número do CNPJ da Empresa": "60.641.396/0001-88",
+        "Categoria": "TALCO DESODORANTE EXCETO OS COM AÇÃO ANTI-SÉPTICA (PERFUMADO OU NÃO)",
+        "Publicação do Registro": "17/12/2004",
+        "Vencimento do Registro": "17/12/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

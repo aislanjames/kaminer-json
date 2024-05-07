@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "ADCOS LOÇÃO SECATIVA",
+        "Processo": "25351.115174/2008-82",
+        "Nome da Empresa - CNPJ": "AVLFM INDUSTRIA DE COSMETICOS LTDA - 39.299.870/0001-49",
+        "Número do Registro": "220280213",
+        "Situação": "ATIVO",
+        "Vencimento": "31/03/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351115174200882/?dataInicial=2028-03-31&dataFinal=2028-03-31",
+        "Nome da Empresa": "AVLFM INDUSTRIA DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "39.299.870/0001-49",
+        "Categoria": "LOÇÃO PARA PELE ACNÉICA (ALCOÓLICAS OU NÃO, EMULSIONADAS OU NÃO, INCLUINDO OS \"LEITES\")",
+        "Publicação do Registro": "31/03/2008",
+        "Vencimento do Registro": "31/03/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ADCOS SOLUÇÃO PRÉ PEELING DESENGORDURANTE",
+        "Processo": "25351.115076/2008-45",
+        "Nome da Empresa - CNPJ": "AVLFM INDUSTRIA DE COSMETICOS LTDA - 39.299.870/0001-49",
+        "Número do Registro": "220280212",
+        "Situação": "ATIVO",
+        "Vencimento": "31/03/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351115076200845/?dataInicial=2028-03-31&dataFinal=2028-03-31",
+        "Nome da Empresa": "AVLFM INDUSTRIA DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "39.299.870/0001-49",
+        "Categoria": "OUTROS PRODUTOS NÃO PREVISTOS - GRAU II",
+        "Publicação do Registro": "31/03/2008",
+        "Vencimento do Registro": "31/03/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME PARA PENTEAR LORYS KIDS GREEN SHAKE",
+        "Processo": "25351.092012/2008-69",
+        "Nome da Empresa - CNPJ": "INDÚSTRIA E COMÉRCIO SANTA THEREZA LTDA - 46.303.855/0001-92",
+        "Número do Registro": "208770291",
+        "Situação": "ATIVO",
+        "Vencimento": "31/03/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351092012200869/?dataInicial=2028-03-31&dataFinal=2028-03-31",
+        "Nome da Empresa": "INDÚSTRIA E COMÉRCIO SANTA THEREZA LTDA",
+        "Número do CNPJ da Empresa": "46.303.855/0001-92",
+        "Categoria": "CONDICIONADOR INFANTIL SEM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "31/03/2008",
+        "Vencimento do Registro": "31/03/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "DESODORANTE ANTITRANSPIRANTE SUAVE SKALA",
+        "Processo": "25351.050753/2008-72",
+        "Nome da Empresa - CNPJ": "MASTER LINE DO BRASIL LTDA - 01.856.022/0001-10",
+        "Número do Registro": "227470219",
+        "Situação": "ATIVO",
+        "Vencimento": "31/03/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351050753200872/?dataInicial=2028-03-31&dataFinal=2028-03-31",
+        "Nome da Empresa": "MASTER LINE DO BRASIL LTDA",
+        "Número do CNPJ da Empresa": "01.856.022/0001-10",
+        "Categoria": "DESODORANTE ANTITRANSPIRANTE / ANTIPERSPIRANTE AXILAR (PERFUMADOS OU NÃO, SOB A FORMA DE LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "31/03/2008",
+        "Vencimento do Registro": "31/03/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

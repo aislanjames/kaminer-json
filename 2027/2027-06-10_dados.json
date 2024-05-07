@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "GEL PARA PELE ACNEICA NIXODERM",
+        "Processo": "25351.166009/2002-01",
+        "Nome da Empresa - CNPJ": "KLEY HERTZ FARMACEUTICA S.A - 92.695.691/0001-03",
+        "Número do Registro": "202280028",
+        "Situação": "INATIVO",
+        "Vencimento": "10/06/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351166009200201/?dataInicial=2027-06-10&dataFinal=2027-06-10",
+        "Nome da Empresa": "KLEY HERTZ FARMACEUTICA S.A",
+        "Número do CNPJ da Empresa": "92.695.691/0001-03",
+        "Categoria": "CREME PARA PELE ACNÉICA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "10/06/2002",
+        "Vencimento do Registro": "10/06/2027",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "SABONETE ANTI-SÉPTICO NIXODERM",
+        "Processo": "25351.166004/2002-71",
+        "Nome da Empresa - CNPJ": "KLEY HERTZ FARMACEUTICA S.A - 92.695.691/0001-03",
+        "Número do Registro": "202280027",
+        "Situação": "INATIVO",
+        "Vencimento": "10/06/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351166004200271/?dataInicial=2027-06-10&dataFinal=2027-06-10",
+        "Nome da Empresa": "KLEY HERTZ FARMACEUTICA S.A",
+        "Número do CNPJ da Empresa": "92.695.691/0001-03",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "10/06/2002",
+        "Vencimento do Registro": "10/06/2027",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "SHAMPOO PHYTOGEN GRAFIT",
+        "Processo": "25351.165883/2002-13",
+        "Nome da Empresa - CNPJ": "KERT IND E COM DE COSMETICOS LTDA - 01.012.826/0001-33",
+        "Número do Registro": "225950042",
+        "Situação": "ATIVO",
+        "Vencimento": "10/06/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351165883200213/?dataInicial=2027-06-10&dataFinal=2027-06-10",
+        "Nome da Empresa": "KERT INDUSTRIA E COMERCIO DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "01.012.826/0001-33",
+        "Categoria": "XAMPU COLORANTE/TONALIZANTE (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "10/06/2002",
+        "Vencimento do Registro": "10/06/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SHAMPOO PHYTOGEN VIOLET",
+        "Processo": "25351.165884/2002-68",
+        "Nome da Empresa - CNPJ": "KERT IND E COM DE COSMETICOS LTDA - 01.012.826/0001-33",
+        "Número do Registro": "225950043",
+        "Situação": "ATIVO",
+        "Vencimento": "10/06/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351165884200268/?dataInicial=2027-06-10&dataFinal=2027-06-10",
+        "Nome da Empresa": "KERT INDUSTRIA E COMERCIO DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "01.012.826/0001-33",
+        "Categoria": "XAMPU COLORANTE/TONALIZANTE (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "10/06/2002",
+        "Vencimento do Registro": "10/06/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

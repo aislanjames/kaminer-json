@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "CREME PARA PENTEAR TRÁ LÁ LÁ KIDS HIDRAKIDS",
+        "Processo": "25351.133277/2010-08",
+        "Nome da Empresa - CNPJ": "PHISALIA PRODUTOS DE BELEZA LTDA - 46.278.537/0001-19",
+        "Número do Registro": "200430327",
+        "Situação": "ATIVO",
+        "Vencimento": "22/03/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351133277201008/?dataInicial=2030-03-22&dataFinal=2030-03-22",
+        "Nome da Empresa": "PHISALIA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "46.278.537/0001-19",
+        "Categoria": "CONDICIONADOR INFANTIL SEM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "22/03/2010",
+        "Vencimento do Registro": "22/03/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME PARA RELAXAMENTO E ENCACHEAMENTO TOIN FLOFT",
+        "Processo": "25351.535696/2009-92",
+        "Nome da Empresa - CNPJ": "PHITOTERAPHIA BIOFITOGENIA LABORATORIAL BIOTA LTDA - 00.104.603/0001-33",
+        "Número do Registro": "221000720",
+        "Situação": "INATIVO",
+        "Vencimento": "22/03/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351535696200992/?dataInicial=2030-03-22&dataFinal=2030-03-22",
+        "Nome da Empresa": "PHITOTERAPHIA BIOFITOGENIA LABORATORIAL BIOTA LTDA",
+        "Número do CNPJ da Empresa": "00.104.603/0001-33",
+        "Categoria": "PRODUTOS PARA ONDULAR OS CABELOS",
+        "Publicação do Registro": "22/03/2010",
+        "Vencimento do Registro": "22/03/2030",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "SHAMPOO 2 EM 1 MUNDINHO DO BEBÊ NATU CHARM",
+        "Processo": "25351.113266/2010-71",
+        "Nome da Empresa - CNPJ": "NATU CHARM INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 00.450.105/0001-42",
+        "Número do Registro": "226830040",
+        "Situação": "ATIVO",
+        "Vencimento": "22/03/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351113266201071/?dataInicial=2030-03-22&dataFinal=2030-03-22",
+        "Nome da Empresa": "NATU CHARM INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA.",
+        "Número do CNPJ da Empresa": "00.450.105/0001-42",
+        "Categoria": "XAMPU CONDICIONADOR INFANTIL",
+        "Publicação do Registro": "22/03/2010",
+        "Vencimento do Registro": "22/03/2030",
+        "Situação do Produto": "ATIVO"
+    }
+]

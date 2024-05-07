@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "BASE LIQUIDA COM FILTRO SOLAR VITAMINA E EVELIZE",
+        "Processo": "25351.009027/2005-21",
+        "Nome da Empresa - CNPJ": "NATUPHITUS INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 73.697.666/0001-14",
+        "Número do Registro": "219280469",
+        "Situação": "ATIVO",
+        "Vencimento": "04/02/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351009027200521/?dataInicial=2025-02-04&dataFinal=2025-02-04",
+        "Nome da Empresa": "NATUPHITUS INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "73.697.666/0001-14",
+        "Categoria": "BASE LÍQUIDA FACIAL OU CORPORAL SEM FINALIDADE FOTOPROTETORA",
+        "Publicação do Registro": "04/02/2005",
+        "Vencimento do Registro": "04/02/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GEL ANTI SÉPTICO SOLUMAX SOLUGEL",
+        "Processo": "25351.232694/2004-25",
+        "Nome da Empresa - CNPJ": "LUVEX INDÚSTRIA DE EQUIPAMENTOS DE PROTEÇÃO LTDA - 92.533.702/0001-59",
+        "Número do Registro": "216790058",
+        "Situação": "ATIVO",
+        "Vencimento": "04/02/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351232694200425/?dataInicial=2025-02-04&dataFinal=2025-02-04",
+        "Nome da Empresa": "LUVEX INDÚSTRIA DE EQUIPAMENTOS DE PROTEÇÃO LTDA",
+        "Número do CNPJ da Empresa": "92.533.702/0001-59",
+        "Categoria": "OUTROS PRODUTOS NÃO PREVISTOS - GRAU II",
+        "Publicação do Registro": "04/02/2005",
+        "Vencimento do Registro": "04/02/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SHISEIDO SUN PROTECTION COMPACT FOUNDATION",
+        "Processo": "25351.279817/2004-91",
+        "Nome da Empresa - CNPJ": "SHISEIDO DO BRASIL LTDA. - 03.973.238/0001-91",
+        "Número do Registro": "231140097",
+        "Situação": "ATIVO",
+        "Vencimento": "04/02/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351279817200491/?dataInicial=2025-02-04&dataFinal=2025-02-04",
+        "Nome da Empresa": "SHISEIDO DO BRASIL LTDA.",
+        "Número do CNPJ da Empresa": "03.973.238/0001-91",
+        "Categoria": "OUTROS PRODUTOS NÃO PREVISTOS - GRAU II",
+        "Publicação do Registro": "04/02/2005",
+        "Vencimento do Registro": "04/02/2025",
+        "Situação do Produto": "ATIVO"
+    }
+]

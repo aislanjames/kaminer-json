@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "BIODONE ENXAGUATÓRIO BUCAL",
+        "Processo": "25351.437996/2006-50",
+        "Nome da Empresa - CNPJ": "EXTRATO FLORA INDÚSTRIA E COMÉRCIO DE CORRELATOS, COSMÉTICOS, EPIS E SANEANTES LTDA - ME - 02.039.120/0001-28",
+        "Número do Registro": "226900026",
+        "Situação": "ATIVO",
+        "Vencimento": "29/01/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351437996200650/?dataInicial=2027-01-29&dataFinal=2027-01-29",
+        "Nome da Empresa": "EXTRATO FLORA INDÚSTRIA E COMÉRCIO DE CORRELATOS, COSMÉTICOS, EPIS E SANEANTES LTDA - ME",
+        "Número do CNPJ da Empresa": "02.039.120/0001-28",
+        "Categoria": "ENXAGUATÓRIO BUCAL COM FLÚOR, ANTIPLACA E ANTI-SÉPTICO",
+        "Publicação do Registro": "29/01/2007",
+        "Vencimento do Registro": "29/01/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "CREME ALISANTE MAX BEAUTY PROGRESS SOFT HAIR",
+        "Processo": "25351.430863/2006-52",
+        "Nome da Empresa - CNPJ": "ELZA INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 22.043.780/0001-90",
+        "Número do Registro": "212360112",
+        "Situação": "INATIVO",
+        "Vencimento": "29/01/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351430863200652/?dataInicial=2027-01-29&dataFinal=2027-01-29",
+        "Nome da Empresa": "ELZA INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "22.043.780/0001-90",
+        "Categoria": "ALISANTE PARA CABELOS (CREME OU GEL)",
+        "Publicação do Registro": "29/01/2007",
+        "Vencimento do Registro": "29/01/2027",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "DESODORANTE ANTITRANSPIRANTE BELCLINIC DESOTRAT MAIS",
+        "Processo": "25351.507223/2006-48",
+        "Nome da Empresa - CNPJ": "CASA SIENA FRAGRÂNCIAS LTDA - EPP - 00.008.460/0001-66",
+        "Número do Registro": "227000301",
+        "Situação": "ATIVO",
+        "Vencimento": "29/01/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351507223200648/?dataInicial=2027-01-29&dataFinal=2027-01-29",
+        "Nome da Empresa": "CASA SIENA FRAGRÂNCIAS LTDA - EPP",
+        "Número do CNPJ da Empresa": "00.008.460/0001-66",
+        "Categoria": "DESODORANTE ANTITRANSPIRANTE / ANTIPERSPIRANTE AXILAR (PERFUMADOS OU NÃO, SOB A FORMA DE LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "29/01/2007",
+        "Vencimento do Registro": "29/01/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

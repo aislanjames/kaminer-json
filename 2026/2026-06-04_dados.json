@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CREME PARA CONTORNO DOS OLHOS PROF NR",
+        "Processo": "25351.013095/0172",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270009",
+        "Situação": "ATIVO",
+        "Vencimento": "04/06/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510130950172/?dataInicial=2026-06-04&dataFinal=2026-06-04",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "CREME PARA A ÁREA DOS OLHOS EXCETO OS DE MAQUIAGEM E/OU AÇÃO HIDRATANTE E/OU DEMAQUILANTE",
+        "Publicação do Registro": "04/06/2001",
+        "Vencimento do Registro": "04/06/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SABONETE DESPIN",
+        "Processo": "25351.011212/0163",
+        "Nome da Empresa - CNPJ": "CELLERA FARMACÊUTICA S.A. - 33.173.097/0002-74",
+        "Número do Registro": "206010018",
+        "Situação": "ATIVO",
+        "Vencimento": "04/06/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510112120163/?dataInicial=2026-06-04&dataFinal=2026-06-04",
+        "Nome da Empresa": "CELLERA FARMACÊUTICA S.A.",
+        "Número do CNPJ da Empresa": "33.173.097/0002-74",
+        "Categoria": "SABONETE FACIAL E/OU CORPORAL ANTI-SÉPTICO (LÍQUIDO,GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "04/06/2001",
+        "Vencimento do Registro": "04/06/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

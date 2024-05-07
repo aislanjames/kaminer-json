@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CREME PARA AS MÃOS ADCOS FPS 08",
+        "Processo": "25351.318688/2005-45",
+        "Nome da Empresa - CNPJ": "AVLFM INDUSTRIA DE COSMETICOS LTDA - 39.299.870/0001-49",
+        "Número do Registro": "220280180",
+        "Situação": "ATIVO",
+        "Vencimento": "31/10/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351318688200545/?dataInicial=2025-10-31&dataFinal=2025-10-31",
+        "Nome da Empresa": "AVLFM INDUSTRIA DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "39.299.870/0001-49",
+        "Categoria": "CREME PARA AS MÃOS COM AÇÃO ANTI-SÉPTICA, COM AÇÃO FOTOPROTETORA, COM INDICAÇÃO DE AÇÃO PROTETORA INDIVIDUAL PARA O TRABALHO COMO EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL - EPI - E/ou COM OUTRAS FINALIDADES ALÉM DE HIDRATAÇÃO E/OU REFRESCÂNCIA",
+        "Publicação do Registro": "31/10/2005",
+        "Vencimento do Registro": "31/10/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "FILTRO SOLAR FPS 21 GEL CREME ADCOS",
+        "Processo": "25351.259501/2005-64",
+        "Nome da Empresa - CNPJ": "AVLFM INDUSTRIA DE COSMETICOS LTDA - 39.299.870/0001-49",
+        "Número do Registro": "220280181",
+        "Situação": "ATIVO",
+        "Vencimento": "31/10/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351259501200564/?dataInicial=2025-10-31&dataFinal=2025-10-31",
+        "Nome da Empresa": "AVLFM INDUSTRIA DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "39.299.870/0001-49",
+        "Categoria": "PROTETOR SOLAR",
+        "Publicação do Registro": "31/10/2005",
+        "Vencimento do Registro": "31/10/2025",
+        "Situação do Produto": "ATIVO"
+    }
+]

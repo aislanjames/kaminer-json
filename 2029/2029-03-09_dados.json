@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "ATTIVI DROGADERMA PROTETOR SOLAR USO DIÁRIO FPS 25",
+        "Processo": "25351.045659/2009-89",
+        "Nome da Empresa - CNPJ": "L.E.D. LABORATÓRIO DE EVOLUÇÃO DERMATOLÓGICA LTDA. - 65.066.797/0001-75",
+        "Número do Registro": "215540137",
+        "Situação": "INATIVO",
+        "Vencimento": "09/03/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351045659200989/?dataInicial=2029-03-09&dataFinal=2029-03-09",
+        "Nome da Empresa": "L.E.D. LABORATÓRIO DE EVOLUÇÃO DERMATOLÓGICA LTDA.",
+        "Número do CNPJ da Empresa": "65.066.797/0001-75",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "09/03/2009",
+        "Vencimento do Registro": "09/03/2029",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "GEL ANTI SÉPTICO 70 SEVEN GEL",
+        "Processo": "25351.756062/2008-58",
+        "Nome da Empresa - CNPJ": "SEVEN GEL INDÚSTRIA E COMÉRCIO LTDA - EPP - 03.365.708/0001-34",
+        "Número do Registro": "233890009",
+        "Situação": "ATIVO",
+        "Vencimento": "09/03/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351756062200858/?dataInicial=2029-03-09&dataFinal=2029-03-09",
+        "Nome da Empresa": "SEVEN GEL INDÚSTRIA E COMÉRCIO LTDA - EPP",
+        "Número do CNPJ da Empresa": "03.365.708/0001-34",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "09/03/2009",
+        "Vencimento do Registro": "09/03/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

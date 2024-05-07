@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "ANCLA SUN - BIOBASE FPS 45 - PROTETOR SOLAR",
+        "Processo": "25351.082530/2015-44",
+        "Nome da Empresa - CNPJ": "ANCLA´S INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - EPP - 19.138.182/0001-90",
+        "Número do Registro": "275470020",
+        "Situação": "ATIVO",
+        "Vencimento": "30/11/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351082530201544/?dataInicial=2025-11-30&dataFinal=2025-11-30",
+        "Nome da Empresa": "ANCLA´S INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - EPP",
+        "Número do CNPJ da Empresa": "19.138.182/0001-90",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "30/11/2015",
+        "Vencimento do Registro": "30/11/2025",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "EPISOL OIL FREE FPS 30",
+        "Processo": "25351.332314/2015-02",
+        "Nome da Empresa - CNPJ": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - 61.082.426/0002-07",
+        "Número do Registro": "200030812",
+        "Situação": "ATIVO",
+        "Vencimento": "30/11/2025",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351332314201502/?dataInicial=2025-11-30&dataFinal=2025-11-30",
+        "Nome da Empresa": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+        "Número do CNPJ da Empresa": "61.082.426/0002-07",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "30/11/2015",
+        "Vencimento do Registro": "30/11/2025",
+        "Situação do Produto": "ATIVO"
+    }
+]

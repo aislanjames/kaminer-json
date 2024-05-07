@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "GEL ANTISSÉPTICO - ENLACE",
+        "Processo": "25351.542607/2014-80",
+        "Nome da Empresa - CNPJ": "LIMA & PERGHER INDÚSTRIA E COMÉRCIO S/A - 22.685.341/0001-80",
+        "Número do Registro": "236790025",
+        "Situação": "ATIVO",
+        "Vencimento": "14/09/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351542607201480/?dataInicial=2030-09-14&dataFinal=2030-09-14",
+        "Nome da Empresa": "LIMA & PERGHER INDÚSTRIA E COMÉRCIO S/A",
+        "Número do CNPJ da Empresa": "22.685.341/0001-80",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "14/09/2015",
+        "Vencimento do Registro": "14/09/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GLOSS RECONSTRUTOR REDUTOR DE VOLUME - NOIVA",
+        "Processo": "25351.078275/2015-14",
+        "Nome da Empresa - CNPJ": "TIMAGE INDUSTRIA COMERCIO DE COSMETICOS LTDA - EPP - 58.558.511/0001-03",
+        "Número do Registro": "230180021",
+        "Situação": "INATIVO",
+        "Vencimento": "14/09/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351078275201514/?dataInicial=2030-09-14&dataFinal=2030-09-14",
+        "Nome da Empresa": "TIMAGE INDUSTRIA COMERCIO DE COSMETICOS LTDA - EPP",
+        "Número do CNPJ da Empresa": "58.558.511/0001-03",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "14/09/2015",
+        "Vencimento do Registro": "14/09/2030",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "SANGEL",
+        "Processo": "25351.462507/2019-12",
+        "Nome da Empresa - CNPJ": "ISOPOLY INDÚSTRIA E COMÉRCIO LTDA - ME - 03.266.809/0001-58",
+        "Número do Registro": "232460003",
+        "Situação": "ATIVO",
+        "Vencimento": "14/09/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351462507201912/?dataInicial=2030-09-14&dataFinal=2030-09-14",
+        "Nome da Empresa": "ISOPOLY INDÚSTRIA E COMÉRCIO LTDA - ME",
+        "Número do CNPJ da Empresa": "03.266.809/0001-58",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "14/09/2020",
+        "Vencimento do Registro": "14/09/2030",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ÓLEO BRONZEADOR FPS 6 SATTIVA",
+        "Processo": "25351.619192/2014-09",
+        "Nome da Empresa - CNPJ": "FLORESÇA INDÚSTRIA E COMÉERCIO DE COSMÉTICOS LTDA - 04.518.680/0001-90",
+        "Número do Registro": "233190011",
+        "Situação": "INATIVO",
+        "Vencimento": "14/09/2030",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351619192201409/?dataInicial=2030-09-14&dataFinal=2030-09-14",
+        "Nome da Empresa": "FLORESÇA INDÚSTRIA E COMÉERCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "04.518.680/0001-90",
+        "Categoria": "BRONZEADOR - GRAU 2",
+        "Publicação do Registro": "14/09/2015",
+        "Vencimento do Registro": "14/09/2030",
+        "Situação do Produto": "INATIVO"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "ACGEL PLUS GEL HIDRATANTE FPS 15 PROF NR",
+        "Processo": "25351.338069/2006-58",
+        "Nome da Empresa - CNPJ": "PROF NR COSMÉTICOS NATURAIS - 03.127.661/0001-70",
+        "Número do Registro": "230270063",
+        "Situação": "ATIVO",
+        "Vencimento": "25/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351338069200658/?dataInicial=2026-09-25&dataFinal=2026-09-25",
+        "Nome da Empresa": "PROF NR COSMÉTICOS NATURAIS",
+        "Número do CNPJ da Empresa": "03.127.661/0001-70",
+        "Categoria": "CREME PARA PELE ACNÉICA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "25/09/2006",
+        "Vencimento do Registro": "25/09/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "GEL ANTI-SÉPTICO HIDRATANTE SILVESTRE LABS",
+        "Processo": "25351.252823/2006-63",
+        "Nome da Empresa - CNPJ": "SILVESTRE LABS QUÍMICA E FARMACÊUTICA LTDA - 33.019.548/0001-32",
+        "Número do Registro": "208460025",
+        "Situação": "INATIVO",
+        "Vencimento": "25/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351252823200663/?dataInicial=2026-09-25&dataFinal=2026-09-25",
+        "Nome da Empresa": "SILVESTRE LABS QUÍMICA E FARMACÊUTICA LTDA",
+        "Número do CNPJ da Empresa": "33.019.548/0001-32",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "25/09/2006",
+        "Vencimento do Registro": "25/09/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "MALVATRICIN PLUS",
+        "Processo": "25351.249567/2006-27",
+        "Nome da Empresa - CNPJ": "MEGALABS FARMACEUTICA S.A. - 33.026.055/0001-20",
+        "Número do Registro": "202500074",
+        "Situação": "ATIVO",
+        "Vencimento": "25/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351249567200627/?dataInicial=2026-09-25&dataFinal=2026-09-25",
+        "Nome da Empresa": "MEGALABS FARMACEUTICA S.A.",
+        "Número do CNPJ da Empresa": "33.026.055/0001-20",
+        "Categoria": "DENTIFRÍCIO ANTIPLACA (LÍQUIDO, GEL, CREME, SÓLIDO)",
+        "Publicação do Registro": "25/09/2006",
+        "Vencimento do Registro": "25/09/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROFESSIONAL SALON LINE TOTALLISS CREME ALISANTE PARA CABELOS REBELDES E DIFÍCEIS DE ALISAR",
+        "Processo": "25351.283063/2006-36",
+        "Nome da Empresa - CNPJ": "DEVINTEX COSMETICOS LTDA - 01.773.518/0001-20",
+        "Número do Registro": "229590101",
+        "Situação": "INATIVO",
+        "Vencimento": "25/09/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351283063200636/?dataInicial=2026-09-25&dataFinal=2026-09-25",
+        "Nome da Empresa": "DEVINTEX COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "01.773.518/0001-20",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "25/09/2006",
+        "Vencimento do Registro": "25/09/2026",
+        "Situação do Produto": "INATIVO"
+    }
+]

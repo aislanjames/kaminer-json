@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CREME CLAREADOR DA PELE NATU AGING",
+        "Processo": "25351.040244/0101",
+        "Nome da Empresa - CNPJ": "VAINCRE IND. COM. IMP. EXP. LTDA. - 60.874.864/0001-64",
+        "Número do Registro": "225440007",
+        "Situação": "ATIVO",
+        "Vencimento": "25/01/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510402440101/?dataInicial=2027-01-25&dataFinal=2027-01-25",
+        "Nome da Empresa": "VAINCRE IND. COM. IMP. EXP. LTDA.",
+        "Número do CNPJ da Empresa": "60.874.864/0001-64",
+        "Categoria": "CREME CLAREADOR DA PELE (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "25/01/2002",
+        "Vencimento do Registro": "25/01/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "FLUIDO ATIVADOR DE RELAXAMENTO NUTRAT",
+        "Processo": "25351.000221/0273",
+        "Nome da Empresa - CNPJ": "PROLAB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - 64.988.678/0001-07",
+        "Número do Registro": "232410002",
+        "Situação": "ATIVO",
+        "Vencimento": "25/01/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510002210273/?dataInicial=2027-01-25&dataFinal=2027-01-25",
+        "Nome da Empresa": "PROLAB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "64.988.678/0001-07",
+        "Categoria": "ALISANTE PARA CABELOS (CREME OU GEL)",
+        "Publicação do Registro": "25/01/2002",
+        "Vencimento do Registro": "25/01/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

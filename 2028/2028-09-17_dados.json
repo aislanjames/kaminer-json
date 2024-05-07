@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "CREME RELAXANTE CAPILAR FORMULA POWER NEWSYSTEM COM TIOGLICOLATO DE AMÔNIO NS3 BRASIL COSMÉTICOS",
+        "Processo": "25351.384623/2018-11",
+        "Nome da Empresa - CNPJ": "TOTUS TUUS MARIAE LTDA - 23.827.456/0001-25",
+        "Número do Registro": "290650004",
+        "Situação": "INATIVO",
+        "Vencimento": "17/09/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351384623201811/?dataInicial=2028-09-17&dataFinal=2028-09-17",
+        "Nome da Empresa": "TOTUS TUUS MARIAE LTDA",
+        "Número do CNPJ da Empresa": "23.827.456/0001-25",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "17/09/2018",
+        "Vencimento do Registro": "17/09/2028",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "LÍQUIDO ATIVADOR GUANIDINA ESSENDY",
+        "Processo": "25351.384621/2018-13",
+        "Nome da Empresa - CNPJ": "TOTUS TUUS MARIAE LTDA - 23.827.456/0001-25",
+        "Número do Registro": "290650003",
+        "Situação": "INATIVO",
+        "Vencimento": "17/09/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351384621201813/?dataInicial=2028-09-17&dataFinal=2028-09-17",
+        "Nome da Empresa": "TOTUS TUUS MARIAE LTDA",
+        "Número do CNPJ da Empresa": "23.827.456/0001-25",
+        "Categoria": "ALISANTE PARA CABELOS - GRAU 2",
+        "Publicação do Registro": "17/09/2018",
+        "Vencimento do Registro": "17/09/2028",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "PH COSMETICS ALCOOL GEL ANTISSÉPTICO",
+        "Processo": "25351.053511/2018-11",
+        "Nome da Empresa - CNPJ": "PH COSMETICS GLOBAL, INDUSTRIA, COMERCIO VAREJISTA, ATACADISTA & EDITORA LTDA - 11.744.480/0001-11",
+        "Número do Registro": "296450001",
+        "Situação": "ATIVO",
+        "Vencimento": "17/09/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351053511201811/?dataInicial=2028-09-17&dataFinal=2028-09-17",
+        "Nome da Empresa": "PH COSMETICS GLOBAL, INDUSTRIA, COMERCIO VAREJISTA, ATACADISTA & EDITORA LTDA",
+        "Número do CNPJ da Empresa": "11.744.480/0001-11",
+        "Categoria": "GEL ANTISSÉPTICO PARA AS MÃOS - GRAU 2",
+        "Publicação do Registro": "17/09/2018",
+        "Vencimento do Registro": "17/09/2028",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PHOTODERM BRONZ FPS 50",
+        "Processo": "25351.189207/2018-01",
+        "Nome da Empresa - CNPJ": "LABORATÓRIOS NAOS DO BRASIL LTDA - 14.590.963/0001-05",
+        "Número do Registro": "270150017",
+        "Situação": "ATIVO",
+        "Vencimento": "17/09/2028",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351189207201801/?dataInicial=2028-09-17&dataFinal=2028-09-17",
+        "Nome da Empresa": "LABORATÓRIOS NAOS DO BRASIL LTDA",
+        "Número do CNPJ da Empresa": "14.590.963/0001-05",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "27/08/2018",
+        "Vencimento do Registro": "17/09/2028",
+        "Situação do Produto": "ATIVO"
+    }
+]

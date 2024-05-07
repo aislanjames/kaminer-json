@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CONDICIONADOR INFANTIL NEOKIDS ALGAS",
+        "Processo": "25351.027183/0114",
+        "Nome da Empresa - CNPJ": "MARY HILL PERFUMES LTDA - 54.103.981/0001-21",
+        "Número do Registro": "209710060",
+        "Situação": "ATIVO",
+        "Vencimento": "08/10/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510271830114/?dataInicial=2026-10-08&dataFinal=2026-10-08",
+        "Nome da Empresa": "MARY HILL PERFUMES LTDA",
+        "Número do CNPJ da Empresa": "54.103.981/0001-21",
+        "Categoria": "CONDICIONADOR INFANTIL COM ENXÁGUE - GRAU 2",
+        "Publicação do Registro": "08/10/2001",
+        "Vencimento do Registro": "08/10/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROTETOR SOLAR FPS 25 RED APPLE",
+        "Processo": "25351.026567/0101",
+        "Nome da Empresa - CNPJ": "COSINTER INTERNACIONAL IND E COM COSMETICOS LTDA - 85.080.836/0001-04",
+        "Número do Registro": "216760078",
+        "Situação": "ATIVO",
+        "Vencimento": "08/10/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/253510265670101/?dataInicial=2026-10-08&dataFinal=2026-10-08",
+        "Nome da Empresa": "COSINTER INTERNACIONAL INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "85.080.836/0001-04",
+        "Categoria": "PROTETOR SOLAR",
+        "Publicação do Registro": "08/10/2001",
+        "Vencimento do Registro": "08/10/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

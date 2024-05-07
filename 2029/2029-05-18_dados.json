@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "DERMOSÊNIOR",
+        "Processo": "25351.143982/2009-52",
+        "Nome da Empresa - CNPJ": "LABORATÓRIO TEUTO BRASILEIRO S/A - 17.159.229/0001-76",
+        "Número do Registro": "200440454",
+        "Situação": "ATIVO",
+        "Vencimento": "18/05/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351143982200952/?dataInicial=2029-05-18&dataFinal=2029-05-18",
+        "Nome da Empresa": "LABORATÓRIO TEUTO BRASILEIRO S/A",
+        "Número do CNPJ da Empresa": "17.159.229/0001-76",
+        "Categoria": "CREME PARA O CORPO COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO E/OU REFRESCÂNCIA (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "18/05/2009",
+        "Vencimento do Registro": "18/05/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "PROFESSIONAL CREAM COLOR GRANDHA COLOR'S",
+        "Processo": "25351.112428/2009-96",
+        "Nome da Empresa - CNPJ": "COFERLY COSMETICA LTDA. - 04.866.345/0001-83",
+        "Número do Registro": "235970176",
+        "Situação": "ATIVO",
+        "Vencimento": "18/05/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351112428200996/?dataInicial=2029-05-18&dataFinal=2029-05-18",
+        "Nome da Empresa": "COFERLY COSMETICA LTDA.",
+        "Número do CNPJ da Empresa": "04.866.345/0001-83",
+        "Categoria": "TINTURA PERMANENTE (LÍQUIDO, GEL, CREME OU SÓLIDO)",
+        "Publicação do Registro": "18/05/2009",
+        "Vencimento do Registro": "18/05/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

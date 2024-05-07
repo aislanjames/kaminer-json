@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "BLOSSON KIDS TALCO LÍQUIDO PERFUMADO BLOSSONVILLE",
+        "Processo": "25351.186493/2014-83",
+        "Nome da Empresa - CNPJ": "CHANDAL INDUSTRIA COMERCIO IMPORTAÇÃO E EXPORTAÇÃO DE COSMETICOS LTDA - 54.274.113/0001-04",
+        "Número do Registro": "209090217",
+        "Situação": "ATIVO",
+        "Vencimento": "16/06/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351186493201483/?dataInicial=2029-06-16&dataFinal=2029-06-16",
+        "Nome da Empresa": "CHANDAL INDUSTRIA COMERCIO IMPORTAÇÃO E EXPORTAÇÃO DE COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "54.274.113/0001-04",
+        "Categoria": "PÓ CORPORAL INFANTIL - GRAU 2",
+        "Publicação do Registro": "16/06/2014",
+        "Vencimento do Registro": "16/06/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SHAMPOO ANTI CASPA SLIM",
+        "Processo": "25000.011967/9905",
+        "Nome da Empresa - CNPJ": "NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA - 48.561.369/0001-08",
+        "Número do Registro": "206640361",
+        "Situação": "ATIVO",
+        "Vencimento": "16/06/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000119679905/?dataInicial=2029-06-16&dataFinal=2029-06-16",
+        "Nome da Empresa": "NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA",
+        "Número do CNPJ da Empresa": "48.561.369/0001-08",
+        "Categoria": "XAMPU ANTICASPA / ANTIQUEDA E/OU OUTROS BENEFÍCIOS ESPECÍFICOS QUE JUSTIFIQUEM A COMPROVAÇÃO PRÉVIA (LÍQUIDO, GEL, CREME, PÓ OU SÓLIDO)",
+        "Publicação do Registro": "16/06/1999",
+        "Vencimento do Registro": "16/06/2029",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SPRAY NO INSET REPELENTE DE INSETOS",
+        "Processo": "25351.219985/2014-20",
+        "Nome da Empresa - CNPJ": "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A - 08.505.736/0001-23",
+        "Número do Registro": "244700189",
+        "Situação": "ATIVO",
+        "Vencimento": "16/06/2029",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351219985201420/?dataInicial=2029-06-16&dataFinal=2029-06-16",
+        "Nome da Empresa": "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A",
+        "Número do CNPJ da Empresa": "08.505.736/0001-23",
+        "Categoria": "REPELENTE DE INSETOS - GRAU 2",
+        "Publicação do Registro": "16/06/2014",
+        "Vencimento do Registro": "16/06/2029",
+        "Situação do Produto": "ATIVO"
+    }
+]

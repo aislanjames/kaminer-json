@@ -1,0 +1,62 @@
+[
+    {
+        "Nome do Produto": "CREME DESODORANTE ANTIPERSPIRANTE SERGIO PARIS JEANS",
+        "Processo": "25351.098490/2006-11",
+        "Nome da Empresa - CNPJ": "SERGIO PARIS COSMETICOS LTDA - 88.029.244/0001-48",
+        "Número do Registro": "206120092",
+        "Situação": "ATIVO",
+        "Vencimento": "17/04/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351098490200611/?dataInicial=2026-04-17&dataFinal=2026-04-17",
+        "Nome da Empresa": "SERGIO PARIS COSMETICOS LTDA",
+        "Número do CNPJ da Empresa": "88.029.244/0001-48",
+        "Categoria": "ANTITRANSPIRANTE/ANTIPERSPIRANTE AXILAR (PERFUMADO OU NÃO SOB A FORMA DE LÍQUIDO, GEL, CREME, SÓLIDO OU AEROSSOL)",
+        "Publicação do Registro": "17/04/2006",
+        "Vencimento do Registro": "17/04/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SOLAR EXPERTISE LOÇÃO FPS 15",
+        "Processo": "25351.033774/2006-61",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200702807",
+        "Situação": "INATIVO",
+        "Vencimento": "17/04/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351033774200661/?dataInicial=2026-04-17&dataFinal=2026-04-17",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "PROTETOR SOLAR",
+        "Publicação do Registro": "17/04/2006",
+        "Vencimento do Registro": "17/04/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "SOLAR EXPERTISE LOÇÃO FPS 30",
+        "Processo": "25351.034542/2006-21",
+        "Nome da Empresa - CNPJ": "PROCOSA PRODUTOS DE BELEZA LTDA - 33.306.929/0001-00",
+        "Número do Registro": "200702808",
+        "Situação": "ATIVO",
+        "Vencimento": "17/04/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351034542200621/?dataInicial=2026-04-17&dataFinal=2026-04-17",
+        "Nome da Empresa": "PROCOSA PRODUTOS DE BELEZA LTDA",
+        "Número do CNPJ da Empresa": "33.306.929/0001-00",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "17/04/2006",
+        "Vencimento do Registro": "17/04/2026",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "TÔNICO CAPILAR OURO - CAPICILIN",
+        "Processo": "25351.110014/2006-85",
+        "Nome da Empresa - CNPJ": "BIOCILIN INDÚSTRIA DE COSMÉTICOS LTDA - 00.095.051/0001-44",
+        "Número do Registro": "226520102",
+        "Situação": "ATIVO",
+        "Vencimento": "17/04/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351110014200685/?dataInicial=2026-04-17&dataFinal=2026-04-17",
+        "Nome da Empresa": "BIOCILIN INDÚSTRIA DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "00.095.051/0001-44",
+        "Categoria": "TÔNICO CAPILAR (ALCOÓLICO OU NÃO)",
+        "Publicação do Registro": "17/04/2006",
+        "Vencimento do Registro": "17/04/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]

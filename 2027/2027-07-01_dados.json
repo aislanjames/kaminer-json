@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "CEPACOL MENTA",
+        "Processo": "25000.009974/9768",
+        "Nome da Empresa - CNPJ": "SANOFI-AVENTIS FARMACÊUTICA LTDA - 02.685.377/0001-57",
+        "Número do Registro": "224360002",
+        "Situação": "ATIVO",
+        "Vencimento": "01/07/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000099749768/?dataInicial=2027-07-01&dataFinal=2027-07-01",
+        "Nome da Empresa": "SANOFI-AVENTIS FARMACÊUTICA LTDA",
+        "Número do CNPJ da Empresa": "02.685.377/0001-57",
+        "Categoria": "ENXAGUATÓRIO BUCAL COM FLÚOR, ANTIPLACA E ANTI-SÉPTICO",
+        "Publicação do Registro": "01/07/1997",
+        "Vencimento do Registro": "01/07/2027",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "SHAMPOO ANTICASPA HF 65",
+        "Processo": "25000.039675/9695",
+        "Nome da Empresa - CNPJ": "PEPILON INDÚSTRIA DE COSMÉTICOS LTDA - 78.592.284/0001-40",
+        "Número do Registro": "206290037",
+        "Situação": "ATIVO",
+        "Vencimento": "01/07/2027",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/250000396759695/?dataInicial=2027-07-01&dataFinal=2027-07-01",
+        "Nome da Empresa": "PEPILON INDÚSTRIA DE COSMÉTICOS LTDA",
+        "Número do CNPJ da Empresa": "78.592.284/0001-40",
+        "Categoria": "XAMPU ANTICASPA / ANTIQUEDA E/OU OUTROS BENEFÍCIOS ESPECÍFICOS QUE JUSTIFIQUEM A COMPROVAÇÃO PRÉVIA (LÍQUIDO, GEL, CREME, PÓ OU SÓLIDO)",
+        "Publicação do Registro": "01/07/1997",
+        "Vencimento do Registro": "01/07/2027",
+        "Situação do Produto": "ATIVO"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Nome do Produto": "AUSTRALIAN GOLD PROTETOR SOLAR CORPORAL FPS 70",
+        "Processo": "25351.495328/2023-48",
+        "Nome da Empresa - CNPJ": "BOTICA COMERCIAL FARMACEUTICA LTDA. - 77.388.007/0001-57",
+        "Número do Registro": "205441618",
+        "Situação": "ATIVO",
+        "Vencimento": "22/01/2034",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351495328202348/?dataInicial=2034-01-22&dataFinal=2034-01-22",
+        "Nome da Empresa": "BOTICA COMERCIAL FARMACEUTICA LTDA.",
+        "Número do CNPJ da Empresa": "77.388.007/0001-57",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "22/01/2024",
+        "Vencimento do Registro": "22/01/2034",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "ISDIN FOTOPROTECTOR TRANSPARENT SPRAY FPS 30",
+        "Processo": "25351.512153/2023-41",
+        "Nome da Empresa - CNPJ": "Isdin Produtos Farmaceuticos Ltda - 10.817.114/0001-82",
+        "Número do Registro": "253860062",
+        "Situação": "ATIVO",
+        "Vencimento": "22/01/2034",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351512153202341/?dataInicial=2034-01-22&dataFinal=2034-01-22",
+        "Nome da Empresa": "Isdin Produtos Farmaceuticos Ltda",
+        "Número do CNPJ da Empresa": "10.817.114/0001-82",
+        "Categoria": "PROTETOR SOLAR - GRAU 2",
+        "Publicação do Registro": "22/01/2024",
+        "Vencimento do Registro": "22/01/2034",
+        "Situação do Produto": "ATIVO"
+    },
+    {
+        "Nome do Produto": "REPELENTE DE INSETOS SPRAY EU SOU PARENTEX",
+        "Processo": "25351.381543/2023-62",
+        "Nome da Empresa - CNPJ": "PARENTEX INDUSTRIA E COMERCIO LTDA - 02.380.142/0001-57",
+        "Número do Registro": "254130017",
+        "Situação": "ATIVO",
+        "Vencimento": "22/01/2034",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351381543202362/?dataInicial=2034-01-22&dataFinal=2034-01-22",
+        "Nome da Empresa": "PARENTEX INDUSTRIA E COMERCIO LTDA",
+        "Número do CNPJ da Empresa": "02.380.142/0001-57",
+        "Categoria": "REPELENTE DE INSETOS - GRAU 2",
+        "Publicação do Registro": "22/01/2024",
+        "Vencimento do Registro": "22/01/2034",
+        "Situação do Produto": "ATIVO"
+    }
+]

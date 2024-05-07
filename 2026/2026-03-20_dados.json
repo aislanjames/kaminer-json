@@ -1,0 +1,32 @@
+[
+    {
+        "Nome do Produto": "AQUAFRESH ULTIMATE WHITE TOOTHPASTE",
+        "Processo": "25351.283094/2005-14",
+        "Nome da Empresa - CNPJ": "GLAXOSMITHKLINE BRASIL LTDA - 33.247.743/0001-10",
+        "Número do Registro": "200080216",
+        "Situação": "INATIVO",
+        "Vencimento": "20/03/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351283094200514/?dataInicial=2026-03-20&dataFinal=2026-03-20",
+        "Nome da Empresa": "GLAXOSMITHKLINE BRASIL LTDA",
+        "Número do CNPJ da Empresa": "33.247.743/0001-10",
+        "Categoria": "DENTIFRÍCIO CLAREADOR QUÍMICO (LÍQUIDO, GEL, CREME, SÓLIDO)",
+        "Publicação do Registro": "06/02/2006",
+        "Vencimento do Registro": "20/03/2026",
+        "Situação do Produto": "INATIVO"
+    },
+    {
+        "Nome do Produto": "MARY KAY TIMEWISE AGE FIGHTING MOISTURIZER NORMAL TO DRY SKIN",
+        "Processo": "25351.475631/2005-42",
+        "Nome da Empresa - CNPJ": "MARY KAY DO BRASIL LTDA - 00.223.046/0001-70",
+        "Número do Registro": "225470221",
+        "Situação": "ATIVO",
+        "Vencimento": "20/03/2026",
+        "link": "https://consultas.anvisa.gov.br/#/cosmeticos/registrados/25351475631200542/?dataInicial=2026-03-20&dataFinal=2026-03-20",
+        "Nome da Empresa": "MARY KAY DO BRASIL LTDA",
+        "Número do CNPJ da Empresa": "00.223.046/0001-70",
+        "Categoria": "CREME PARA O ROSTO SEM AÇÃO FOTOPROTETORA DA PELE E COM FINALIDADE EXCLUSIVA DE HIDRATAÇÃO (PERFUMADOS OU NÃO, INCLUINDO OS GÉIS)",
+        "Publicação do Registro": "20/03/2006",
+        "Vencimento do Registro": "20/03/2026",
+        "Situação do Produto": "ATIVO"
+    }
+]
