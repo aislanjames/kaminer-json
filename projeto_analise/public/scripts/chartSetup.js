@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('/data')
+    fetch('https://meuapp.vercel.app/data')
         .then(response => response.json())
         .then(data => {
             const categorias = {};
