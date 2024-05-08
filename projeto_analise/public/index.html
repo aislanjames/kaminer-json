@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Análise de Dados de Produtos</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
+  </head>
+  <body style="display: flex;flex-direction: column;align-items: center;">
     <h1>Análise de Dados de Produtos</h1>
-    <div style="width:75%;">
-        <canvas id="produtoChart"></canvas>
+    <div style="width: 90%">
+      <canvas id="categoriaChart"></canvas>
+      <canvas id="ativosInativosChart"></canvas>
+      <canvas id="empresaFreqChart"></canvas>
+      <canvas id="vencimentoSituacaoChart"></canvas>
     </div>
     <script src="scripts/chartSetup.js"></script>
-</body>
+  </body>
 </html>

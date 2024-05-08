@@ -1,10 +1,10 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
-const cors = require('cors');  // Adicione esta linha
-
+const cors = require('cors');
 const app = express();
-app.use(cors());  // E esta linha para habilitar CORS em todas as rotas
+
+app.use(cors());
 
 const port = 3000;
 
@@ -100,4 +100,26 @@ mostrarDadosNoConsole();
 
 app.use(express.static('public'));
 
-app.listen(port, () => console.log(`Servidor rodando na porta ${port}`));
+// Endpoint para dados de produtos por categoria
+app.get('/api/produtosPorCategoria', (req, res) => {
+    res.json(produtosPorCategoria(allData));
+});
+
+// Endpoint para dados de produtos ativos e inativos
+app.get('/api/produtosAtivosInativos', (req, res) => {
+    res.json(produtosAtivosInativos(allData));
+});
+
+// Endpoint para frequência de registros por empresa
+app.get('/api/frequenciaDeRegistrosPorEmpresa', (req, res) => {
+    res.json(frequenciaDeRegistrosPorEmpresa(allData));
+});
+
+// Endpoint para correlação de datas de vencimento e situações
+app.get('/api/correlacaoVencimentoSituacao', (req, res) => {
+    res.json(correlacaoVencimentoSituacao(allData));
+});
+
+app.listen(port, () => {
+    console.log(`Servidor rodando na porta ${port}`);
+});
