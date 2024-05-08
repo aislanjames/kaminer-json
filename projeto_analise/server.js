@@ -1,30 +1,43 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
+const cors = require('cors');  // Adicione esta linha
 
 const app = express();
+app.use(cors());  // E esta linha para habilitar CORS em todas as rotas
+
 const port = 3000;
 
-app.use(cors());
-
-// Função para ler arquivos JSON de forma recursiva e segura
 function readJsonFiles(dir, allData = []) {
-    const files = fs.readdirSync(dir);
-    files.forEach(file => {
-        const fullPath = path.join(dir, file);
-        if (fs.statSync(fullPath).isDirectory()) {
-            readJsonFiles(fullPath, allData);
-        } else if (path.extname(fullPath) === '.json' && !fullPath.includes('package.json')) {
-            try {
-                const data = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
-                if (Array.isArray(data)) {
-                    allData.push(...data.filter(item => item !== null && typeof item === 'object'));
-                }
-            } catch (error) {
-                console.error(`Erro ao processar o arquivo ${fullPath}: ${error.message}`);
+    try {
+        const files = fs.readdirSync(dir);
+        files.forEach(file => {
+            const fullPath = path.join(dir, file);
+            if (fs.lstatSync(fullPath).isSymbolicLink()) {
+                console.log(`Skipping symbolic link: ${fullPath}`);
+                return;
             }
-        }
-    });
+            if (fs.statSync(fullPath).isDirectory()) {
+                // Adiciona verificação para pular diretórios protegidos
+                if (fullPath.includes('/boot') || fullPath.includes('/bin') || fullPath.includes('/etc')) {
+                    console.log(`Skipping protected directory: ${fullPath}`);
+                    return;
+                }
+                readJsonFiles(fullPath, allData);
+            } else if (path.extname(fullPath) === '.json' && !fullPath.includes('package.json')) {
+                try {
+                    const data = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+                    if (Array.isArray(data)) {
+                        allData.push(...data.filter(item => item !== null && typeof item === 'object'));
+                    }
+                } catch (error) {
+                    console.error(`Erro ao processar o arquivo ${fullPath}: ${error.message}`);
+                }
+            }
+        });
+    } catch (error) {
+        console.error(`Access error on directory: ${dir}: ${error.message}`);
+    }
     return allData;
 }
 
