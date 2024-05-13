@@ -1,2 +1,2 @@
 # https://kaminer-json.vercel.app/
-node server.js
+/projeto_analise $ node server.js
